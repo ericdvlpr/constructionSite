@@ -1,0 +1,49 @@
+body{
+  background-color: black;
+}
+p{
+  font-family: 'Raleway', sans-serif;
+  font-weight: 400;
+}
+h1,h2,h3,h4,h5,h6{
+  font-family: 'Roboto', sans-serif;
+  font-weight: 700;}
+#welcome ul.navbar-nav li a{color:#fff;}
+#welcome{
+  background-image: url('img/jumbotron.jpg');
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: 100% 100%;
+  margin-bottom: -33px;
+}
+
+#yellow{
+  color:yellow;
+}
+.jumbotron{
+  color:white;
+  background-color: transparent !important;
+  height: 700px;
+}
+.jumbotron h1{
+
+ 
+  font-weight: 700;
+}
+.jumbotron p{
+  font-family: 'Raleway', sans-serif;
+  font-weight: 400;
+  
+}
+#about{
+  background-color: yellow;
+padding:20px;text-align: center;
+}
+#stores{
+  background-color: white;
+  padding:20px;text-align: center;
+  }
+#contact{
+    background-color: yellow;
+    padding:20px;text-align: center;
+}
