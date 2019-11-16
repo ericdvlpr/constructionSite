@@ -61,6 +61,6 @@ function goToStore(name){
         
     }
     itemtable += "</table>";
-    itemtable += "<a href='index.html#store' class='btn btn-primary'>Back</a>";
+    itemtable += "<a href='index.html' class='btn btn-primary'>Back</a>";
     storeDiv.innerHTML = itemtable;
 }
