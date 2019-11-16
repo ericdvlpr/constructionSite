@@ -1,0 +1,3101 @@
+{
+    "*Al-sur Electrical and Construction Supply": {
+        "Electrical Works": {
+            "Electric Wire THWN/THHN 2.0mm2": "2,150/BOX",
+            "Electric Wire THWN/THHN 3.5mm2": "2,995/BOX",
+            "Electric Wire THWN/THHN 5.5mm2": "6,000/BOX",
+            "Single Gang Switch": "80/set",
+            "Two-Gang Switch": "130/set",
+            "Three-Gang Switch": "180/set",
+            "Two-way Switch": "150/set",
+            "Duplex Convenience Outlet": "85/set",
+            "Heavy Duty Outlet": "95/set",
+            "Electrical Tape 3/4? x 20 YDS": "40/pc"
+        },
+        "Miscellaneous and Consumables": {
+            "Electrical tape big": "40/pc",
+            "Solvent cement 100cc": "85/pc",
+            "Concrete nail no.3": "100/kl",
+            "CWN no.3": "70/kl"
+        },
+        "Wires": {
+            "8.0mm2 THHN": "60/m",
+            "5.5mm2 THHN": "45/m",
+            "3.5mm2 THHN": "25/m",
+            "2.0mm2 THHN": "20/m"
+        },
+        "Masonry Works": {
+            "Concrete Hollow Blocks (CHB) 4?": "10.50/pc",
+            "Concrete Hollow Blocks (CHB) 6?": "12.50/pc",
+            "Washed sand": "500/cu.m",
+            "10 mm. Dia. x 6.0 M. DSB": "128/pc",
+            "Tie Wire #16": "70/kg"
+        },
+        "Stone Masonry": {
+            "Cement, 40 kg.": "225/bag",
+            "Sand": "500/cu.m",
+            "Gravel Fill": "650/cu.m"
+        },
+        "Filter Cloth": {
+            "Boulders": "650/cu.m",
+            "Screened Sand": "700/cu.m",
+            "Screened Gravel": "1020/cu.m"
+        },
+        "Soil Poisoning \u2013 Termicide": {
+            "Gravel": "650/cu.m",
+            "Wash Sand": "500/cu.m",
+            "Portland Cement, 40kg": "235/bag",
+            "Pozzolan Cement, 40kg": "225/bag"
+        },
+        "Steel Bars": {
+            "\u00a010mm Diameter Deformed Bars": "128/pc",
+            "\u00a012mm Diameter Deformed Bars": "178/pc",
+            "\u00a016mm Diameter Deformed Bars": "330/pc",
+            "\u00a0#16 G.I. Tie Wire": "70/kg",
+            "Hacksaw Blade": "60/pc"
+        },
+        "Formworks": {
+            "\u00a02 x 3 x 10' Coco lumber": "150/pc",
+            "\u00a02 x 4 x 10 Coco lumber": "180/pc",
+            "\u00a01/2? x 4' x 8' Plywood": "900/pc",
+            "\u00a06mm thk. Ordinary Plywood": "280/pc",
+            "\u00a01?x2?x8' Hard wood or its equivalent": "150/pc",
+            "\u00a02?x2?x8' Hard wood or its equivalent": "350/pc",
+            "Common Nail": "70/kg",
+            "Box Nail": "1,250/kg"
+        },
+        "Painting Works": {
+            "Paint Enamel": "650/gal",
+            "Paint Latex Gloss": "620/gal",
+            "Paint Latex Semi-Gloss": "620/gal",
+            "Thinner Paint": "250/gal",
+            "Thinner Lacquer": "230/gal",
+            "Paint Metal Epoxy": "650/gal",
+            "Paint Primer Solvent": "420/gal",
+            "Brush Roller (152mm)": "85/pc",
+            "Brush Steel (101mm)": "50/pc",
+            "Concrete neutralizer": "300/gal",
+            "Putty Knife": "40/pc",
+            "Roller paint # 9 w/ tray": "150/pc",
+            "2?paint brush": "35/pc",
+            "Paint thinner": "250/gal",
+            "Sand paper #120": "18/pc",
+            "Paint brush # 4": "95/pc",
+            "Paint brush # 2": "35/pc",
+            "Red Lead Primer": "420/gal"
+        }
+    },
+    "Araza General Merchandise and Lumber": {
+        "Electrical Works": {
+            "Octagonal Junction Box Type Gauge #16 (101mm x 101mm x 53mm) Deep": "35/pc"
+        },
+        "Boxes and Gutter": {
+            "Junction box depth type,metal gauge 16 w/ cover": "35/pc",
+            "Utility box depth type, metal gauge 16 w/cover": "35/pc",
+            "4\u00d74 square box depth, metal gauge 16 w/cover": "75/pc"
+        },
+        "Miscellaneous and Consumables": {
+            "Electrical tape big": "38/pc",
+            "Solvent cement 100cc": "100/pc",
+            "Concrete nail no.3": "100/kl",
+            "CWN no.3": "60/kl"
+        },
+        "Wires": {
+            "5.5mm2 THHN": "38/m",
+            "3.5mm2 THHN": "28/m",
+            "2.0mm2 THHN": "22/m"
+        },
+        "Masonry Works": {
+            "Concrete Hollow Blocks (CHB) 4?": "12/pc",
+            "Concrete Hollow Blocks (CHB) 6?": "16/pc",
+            "Washed sand": "550/cu.m",
+            "Tie Wire #16": "70/kg"
+        },
+        "Stone Masonry": {
+            "Cement, 40 kg.": "230/bag",
+            "Sand": "550/cu.m",
+            "Gravel Fill": "650/cu.m"
+        },
+        "Filter Cloth": {
+            "Boulders": "650/cu.m",
+            "Screened Gravel": "900/cu.m"
+        },
+        "Soil Poisoning \u2013 Termicide": {
+            "Gravel": "650/cu.m",
+            "Portland Cement, 40kg": "240/bag",
+            "Pozzolan Cement, 40kg": "230/bag"
+        },
+        "Steel Bars": {
+            "\u00a010mm Diameter Deformed Bars": "140/pc",
+            "\u00a012mm Diameter Deformed Bars": "195/pc",
+            "\u00a016mm Diameter Deformed Bars": "350/pc",
+            "\u00a0#16 G.I. Tie Wire": "70/kg",
+            "Hacksaw Blade": "60/pc"
+        },
+        "Formworks": {
+            "\u00a01/2? x 4' x 8' Plywood": "950/pc",
+            "\u00a06mm thk. Lawanit board": "250/pc",
+            "Common Nail": "80/kg"
+        },
+        "Painting Works": {
+            "Paint Latex Gloss": "680/gal",
+            "Paint Latex Semi-Gloss": "650/gal",
+            "Thinner Paint": "480/gal",
+            "Thinner Lacquer": "275/gal",
+            "Paint Metal Epoxy": "775/gal",
+            "Brush Roller (152mm)": "75/pc",
+            "Brush Steel (101mm)": "50/pc",
+            "Concrete neutralizer": "250/gal",
+            "2?paint brush": "45/pc",
+            "Paint thinner": "480/gal",
+            "Sand paper #120": "20/pc",
+            "Paint brush # 4": "110/pc",
+            "Paint brush # 2": "45/pc",
+            "Red Lead Primer": "485/gal"
+        },
+        "Plumbing and Sanitary Works": {
+            "PVC ELBOW 90\u00b0 (100mm)": "65/pc",
+            "PVC ELBOW 90\u00b0 (75mm)": "35/pc",
+            "Vulca Seal": "60/pc"
+        }
+    },
+    "Azotea\u2019s Construction and Supply": {
+        "Electrical Works": {
+            "Two-Gang Switch": "120/set",
+            "Three-Gang Switch": "160/set",
+            "Two-way Switch": "150/set"
+        },
+        "Miscellaneous and Consumables": {
+            "Electrical tape big": "50/pc",
+            "Concrete nail no.3": "180/kl",
+            "CWN no.3": "70/kl"
+        },
+        "Masonry Works": {
+            "Concrete Hollow Blocks (CHB) 4?": "16/pc",
+            "Concrete Hollow Blocks (CHB) 6?": "20/pc"
+        },
+        "Stone Masonry": {
+            "Sand": "700/cu.m"
+        },
+        "Soil Poisoning \u2013 Termicide": {
+            "Gravel": "1,700/cu.m",
+            "Portland Cement, 40kg": "265/bag",
+            "Pozzolan Cement, 40kg": "250/bag"
+        },
+        "Steel Bars": {
+            "\u00a010mm Diameter Deformed Bars": "160/pc",
+            "\u00a012mm Diameter Deformed Bars": "260/pc",
+            "\u00a016mm Diameter Deformed Bars": "350/pc",
+            "Hacksaw Blade": "75/pc"
+        },
+        "Formworks": {
+            "\u00a02 x 3 x 10' Coco lumber": "125/pc",
+            "\u00a02 x 4 x 10 Coco lumber": "170/pc",
+            "\u00a01/2? x 4' x 8' Plywood": "950/pc",
+            "\u00a01?x2?x8' Hard wood or its equivalent": "90/pc",
+            "\u00a02?x2?x8' Hard wood or its equivalent": "190/pc",
+            "\u00a02?x2?x8\u2019Hardwood or its equivalent": "190/pc",
+            "\u00a02?x4?x8' Hard wood or its equivalent": "2,080/pc"
+        },
+        "Painting Works": {
+            "Putty Knife": "40/pc",
+            "2?paint brush": "35/pc",
+            "Paint thinner": "295/gal",
+            "Sand paper #120": "20/pc",
+            "Paint brush # 4": "95/pc",
+            "Paint brush # 2": "45/pc"
+        },
+        "Plumbing and Sanitary Works": {
+            "100mm dia. PVC": "395/pc",
+            "75mm dia. PVC": "295/pc",
+            "50mm dia PVC (vp & wp)": "195/pc",
+            "PVC Clean Out w/ plug & sealing ring 100mm": "95/pc",
+            "PVC Clean Out w/ plug & sealing ring 150mm": "220/pc",
+            "PVC Tee (100mm)": "95/pc",
+            "PVC WYE (100mm)": "95/pc",
+            "PVC WYE REDUCER (100mmX50mm)": "65/pc",
+            "PVC WYE REDUCER (100mmX75mm)": "65/pc",
+            "PVC ELBOW 90\u00b0 (100mm)": "75/pc",
+            "PVC ELBOW 90\u00b0 (75mm)": "65/pc",
+            "PVC Elbow 90\u00b0 (50mm)": "45/pc",
+            "PVC Elbow 45\u00b0 (100mm)": "85/pc",
+            "PVC Elbow 45\u00b0 (75mm)": "65/pc",
+            "PVC Elbow 45\u00b0 (50mm)": "45/pc",
+            "PVC Coupling (100mm)": "35/pc",
+            "Vulca Seal": "55/pc"
+        }
+    },
+    "*Banquerohan Enterprises": {
+        "Electrical Works": {
+            "Electric Wire THWN/THHN 2.0mm2": "2,700/BOX",
+            "Electric Wire THWN/THHN 3.5mm2": "3,750/BOX",
+            "Electric Wire THWN/THHN 5.5mm2": "5,100/BOX",
+            "Single Gang Switch": "100/set",
+            "Two-Gang Switch": "155/set",
+            "Three-Gang Switch": "200/set"
+        },
+        "Miscellaneous and Consumables": {
+            "Electrical tape big": "35/pc",
+            "Solvent cement 100cc": "65/pc",
+            "Concrete nail no.3": "100/kl",
+            "CWN no.3": "60/kl"
+        },
+        "Wires": {
+            "5.5mm2 THHN": "35/m",
+            "3.5mm2 THHN": "26/m",
+            "2.0mm2 THHN": "20/m"
+        },
+        "Masonry Works": {
+            "Concrete Hollow Blocks (CHB) 4?": "12/pc",
+            "Washed sand": "650/cu.m",
+            "10 mm. Dia. x 6.0 M. DSB": "128/pc",
+            "Tie Wire #16": "80/kg"
+        },
+        "Stone Masonry": {
+            "Cement, 40 kg.": "225/bag",
+            "Sand": "550/cu.m"
+        },
+        "Filter Cloth": {
+            "Boulders": "600/cu.m"
+        },
+        "Soil Poisoning \u2013 Termicide": {
+            "Gravel": "800/cu.m",
+            "Wash Sand": "650/cu.m",
+            "Portland Cement, 40kg": "275/bag",
+            "Pozzolan Cement, 40kg": "235/bag"
+        },
+        "Steel Bars": {
+            "\u00a010mm Diameter Deformed Bars": "128/pc",
+            "\u00a012mm Diameter Deformed Bars": "195/pc",
+            "\u00a016mm Diameter Deformed Bars": "345/pc",
+            "\u00a0#16 G.I. Tie Wire": "80/kg",
+            "Hacksaw Blade": "60/pc"
+        },
+        "Formworks": {
+            "\u00a02 x 3 x 10' Coco lumber": "130/pc",
+            "\u00a02 x 4 x 10 Coco lumber": "180/pc",
+            "\u00a01/2? x 4' x 8' Plywood": "1,000/pc"
+        },
+        "Painting Works": {
+            "Paint Enamel": "650/gal",
+            "Paint Latex Gloss": "630/gal",
+            "Thinner Paint": "400/gal",
+            "Thinner Lacquer": "400/gal",
+            "Paint Metal Epoxy": "750/gal",
+            "Concrete neutralizer": "390/gal",
+            "Putty Knife": "45/pc",
+            "Roller paint # 9 w/ tray": "140/pc",
+            "2?paint brush": "35/pc",
+            "Paint thinner": "400/pc",
+            "Sand paper #120": "20/pc",
+            "Paint brush # 4": "95/pc",
+            "Paint brush # 2": "35/pc"
+        }
+    },
+    "Bicolandia Ceramics": {
+        "Electrical Works": {
+            "Utility Box Gauge #16 (50mm x 101mm x 53mm) Deep": "22.75/pc",
+            "Square Box (101mm x 53mm) Deep Type Gague #16": "74.75/pc",
+            "Single Gang Switch": "89.75/set",
+            "Two-Gang Switch": "199.75/set",
+            "Three-Gang Switch": "109.75/set",
+            "Two-way Switch": "109.75/set",
+            "Duplex Convenience Outlet": "167.50/set",
+            "Polarized 3-Prongs (ACU Outlet)": "119.75/set",
+            "Electrical Tape 3/4? x 20 YDS": "38/pc"
+        },
+        "Miscellaneous and Consumables": {
+            "Electrical tape big": "38/pc",
+            "Concrete nail no.3": "100/kl",
+            "CWN no.3": "61/kl"
+        },
+        "Painting Works": {
+            "Paint Enamel": "545/gal",
+            "Paint Latex Gloss": "574/gal",
+            "Paint Latex Semi-Gloss": "574/gal",
+            "Brush Roller (152mm)": "45/pc",
+            "2?paint brush": "95/pc",
+            "Paint thinner": "355/gal",
+            "Sand paper #120": "15.75/pc",
+            "Paint brush # 2": "95/pc"
+        },
+        "Plumbing and Sanitary Works": {
+            "PVC ELBOW 90\u00b0 (75mm)": "64/pc",
+            "PVC Elbow 90\u00b0 (50mm)": "36/pc",
+            "PVC Elbow 45\u00b0 (75mm)": "52/pc",
+            "PVC Elbow 45\u00b0 (50mm)": "29/pc",
+            "Vulca Seal": "55/pc"
+        }
+    },
+    "*Brads Hardware": {
+        "Electrical Works": {
+            "Octagonal Junction Box Type Gauge #16 (101mm x 101mm x 53mm) Deep": "35/pc"
+        },
+        "Boxes and Gutter": {
+            "Junction box depth type,metal gauge 16 w/ cover": "35/pc",
+            "Utility box depth type, metal gauge 16 w/cover": "35/pc",
+            "4\u00d74 square box depth, metal gauge 16 w/cover": "75/pc"
+        },
+        "Miscellaneous and Consumables": {
+            "Electrical tape big": "38/pc",
+            "Solvent cement 100cc": "100/pc",
+            "Concrete nail no.3": "100/kl",
+            "CWN no.3": "60/kl"
+        },
+        "Wires": {
+            "5.5mm2 THHN": "38/m",
+            "3.5mm2 THHN": "28/m",
+            "2.0mm2 THHN": "22/m"
+        },
+        "Masonry Works": {
+            "Concrete Hollow Blocks (CHB) 4?": "12/pc",
+            "Concrete Hollow Blocks (CHB) 6?": "16/pc",
+            "Washed sand": "550/cu.m",
+            "Tie Wire #16": "70/kg"
+        },
+        "Stone Masonry": {
+            "Cement, 40 kg.": "230/bag",
+            "Sand": "550/cu.m",
+            "Gravel Fill": "650/cu.m"
+        },
+        "Filter Cloth": {
+            "Boulders": "650/cu.m",
+            "Screened Gravel": "900/cu.m"
+        },
+        "Soil Poisoning \u2013 Termicide": {
+            "Gravel": "650/cu.m",
+            "Portland Cement, 40kg": "240/bag",
+            "Pozzolan Cement, 40kg": "230/bag"
+        },
+        "Steel Bars": {
+            "\u00a010mm Diameter Deformed Bars": "140/pc",
+            "\u00a012mm Diameter Deformed Bars": "195/pc",
+            "\u00a016mm Diameter Deformed Bars": "350/pc",
+            "\u00a0#16 G.I. Tie Wire": "70/kg",
+            "Hacksaw Blade": "60/pc"
+        },
+        "Formworks": {
+            "\u00a01/2? x 4' x 8' Plywood": "950/pc",
+            "\u00a06mm thk. Lawanit board": "250/pc",
+            "Common Nail": "80/kg"
+        },
+        "Painting Works": {
+            "Paint Latex Gloss": "680/gal",
+            "Paint Latex Semi-Gloss": "650/gal",
+            "Thinner Paint": "480/gal",
+            "Thinner Lacquer": "275/gal",
+            "Paint Metal Epoxy": "775/gal",
+            "Brush Roller (152mm)": "75/pc",
+            "Brush Steel (101mm)": "50/pc",
+            "Concrete neutralizer": "250/gal",
+            "2?paint brush": "45/pc",
+            "Paint thinner": "480/gal",
+            "Sand paper #120": "20/pc",
+            "Paint brush # 4": "110/pc",
+            "Paint brush # 2": "45/pc",
+            "Red Lead Primer": "485/gal"
+        },
+        "Plumbing and Sanitary Works": {
+            "PVC ELBOW 90\u00b0 (100mm)": "65/pc",
+            "PVC ELBOW 90\u00b0 (75mm)": "35/pc",
+            "Vulca Seal": "60/pc"
+        }
+    },
+    "CMM Lumber and General Merchandise": {
+        "Electrical Works": {
+            "Electric Wire THWN/THHN 2.0mm2": "2,150/BOX",
+            "Electric Wire THWN/THHN 3.5mm2": "2,995/BOX",
+            "Electric Wire THWN/THHN 5.5mm2": "6,000/BOX",
+            "Single Gang Switch": "80/set",
+            "Two-Gang Switch": "130/set",
+            "Three-Gang Switch": "180/set",
+            "Two-way Switch": "150/set",
+            "Duplex Convenience Outlet": "85/set",
+            "Heavy Duty Outlet": "95/set",
+            "Electrical Tape 3/4? x 20 YDS": "40/pc"
+        },
+        "Miscellaneous and Consumables": {
+            "Electrical tape big": "40/pc",
+            "Solvent cement 100cc": "85/pc",
+            "Concrete nail no.3": "100/kl",
+            "CWN no.3": "70/kl"
+        },
+        "Wires": {
+            "8.0mm2 THHN": "60/m",
+            "5.5mm2 THHN": "45/m",
+            "3.5mm2 THHN": "25/m",
+            "2.0mm2 THHN": "20/m"
+        },
+        "Masonry Works": {
+            "Concrete Hollow Blocks (CHB) 4?": "10.50/pc",
+            "Concrete Hollow Blocks (CHB) 6?": "12.50/pc",
+            "Washed sand": "500/cu.m",
+            "10 mm. Dia. x 6.0 M. DSB": "128/pc",
+            "Tie Wire #16": "70/kg"
+        },
+        "Stone Masonry": {
+            "Cement, 40 kg.": "225/bag",
+            "Sand": "500/cu.m",
+            "Gravel Fill": "650/cu.m"
+        },
+        "Filter Cloth": {
+            "Boulders": "650/cu.m",
+            "Screened Sand": "700/cu.m",
+            "Screened Gravel": "1020/cu.m"
+        },
+        "Soil Poisoning \u2013 Termicide": {
+            "Gravel": "650/cu.m",
+            "Wash Sand": "500/cu.m",
+            "Portland Cement, 40kg": "235/bag",
+            "Pozzolan Cement, 40kg": "225/bag"
+        },
+        "Steel Bars": {
+            "\u00a010mm Diameter Deformed Bars": "128/pc",
+            "\u00a012mm Diameter Deformed Bars": "178/pc",
+            "\u00a016mm Diameter Deformed Bars": "330/pc",
+            "\u00a0#16 G.I. Tie Wire": "70/kg",
+            "Hacksaw Blade": "60/pc"
+        },
+        "Formworks": {
+            "\u00a02 x 3 x 10' Coco lumber": "150/pc",
+            "\u00a02 x 4 x 10 Coco lumber": "180/pc",
+            "\u00a01/2? x 4' x 8' Plywood": "900/pc",
+            "\u00a06mm thk. Ordinary Plywood": "280/pc",
+            "\u00a01?x2?x8' Hard wood or its equivalent": "150/pc",
+            "\u00a02?x2?x8' Hard wood or its equivalent": "350/pc",
+            "Common Nail": "70/kg",
+            "Box Nail": "1,250/kg"
+        },
+        "Painting Works": {
+            "Paint Enamel": "650/gal",
+            "Paint Latex Gloss": "620/gal",
+            "Paint Latex Semi-Gloss": "620/gal",
+            "Thinner Paint": "250/gal",
+            "Thinner Lacquer": "230/gal",
+            "Paint Metal Epoxy": "650/gal",
+            "Paint Primer Solvent": "420/gal",
+            "Brush Roller (152mm)": "85/pc",
+            "Brush Steel (101mm)": "50/pc",
+            "Concrete neutralizer": "300/gal",
+            "Putty Knife": "40/pc",
+            "Roller paint # 9 w/ tray": "150/pc",
+            "2?paint brush": "35/pc",
+            "Paint thinner": "250/gal",
+            "Sand paper #120": "18/pc",
+            "Paint brush # 4": "95/pc",
+            "Paint brush # 2": "35/pc",
+            "Red Lead Primer": "420/gal"
+        }
+    },
+    "CZN Enterprises": {
+        "Electrical Works": {
+            "Electric Wire THWN/THHN 2.0mm2": "2,700/BOX",
+            "Electric Wire THWN/THHN 3.5mm2": "3,750/BOX",
+            "Electric Wire THWN/THHN 5.5mm2": "5,100/BOX",
+            "Single Gang Switch": "100/set",
+            "Two-Gang Switch": "155/set",
+            "Three-Gang Switch": "200/set"
+        },
+        "Miscellaneous and Consumables": {
+            "Electrical tape big": "35/pc",
+            "Solvent cement 100cc": "65/pc",
+            "Concrete nail no.3": "100/kl",
+            "CWN no.3": "60/kl"
+        },
+        "Wires": {
+            "5.5mm2 THHN": "35/m",
+            "3.5mm2 THHN": "26/m",
+            "2.0mm2 THHN": "20/m"
+        },
+        "Masonry Works": {
+            "Concrete Hollow Blocks (CHB) 4?": "12/pc",
+            "Washed sand": "650/cu.m",
+            "10 mm. Dia. x 6.0 M. DSB": "128/pc",
+            "Tie Wire #16": "80/kg"
+        },
+        "Stone Masonry": {
+            "Cement, 40 kg.": "225/bag",
+            "Sand": "550/cu.m"
+        },
+        "Filter Cloth": {
+            "Boulders": "600/cu.m"
+        },
+        "Soil Poisoning \u2013 Termicide": {
+            "Gravel": "800/cu.m",
+            "Wash Sand": "650/cu.m",
+            "Portland Cement, 40kg": "275/bag",
+            "Pozzolan Cement, 40kg": "235/bag"
+        },
+        "Steel Bars": {
+            "\u00a010mm Diameter Deformed Bars": "128/pc",
+            "\u00a012mm Diameter Deformed Bars": "195/pc",
+            "\u00a016mm Diameter Deformed Bars": "345/pc",
+            "\u00a0#16 G.I. Tie Wire": "80/kg",
+            "Hacksaw Blade": "60/pc"
+        },
+        "Formworks": {
+            "\u00a02 x 3 x 10' Coco lumber": "130/pc",
+            "\u00a02 x 4 x 10 Coco lumber": "180/pc",
+            "\u00a01/2? x 4' x 8' Plywood": "1,000/pc"
+        },
+        "Painting Works": {
+            "Paint Enamel": "650/gal",
+            "Paint Latex Gloss": "630/gal",
+            "Thinner Paint": "400/gal",
+            "Thinner Lacquer": "400/gal",
+            "Paint Metal Epoxy": "750/gal",
+            "Concrete neutralizer": "390/gal",
+            "Putty Knife": "45/pc",
+            "Roller paint # 9 w/ tray": "140/pc",
+            "2?paint brush": "35/pc",
+            "Paint thinner": "400/pc",
+            "Sand paper #120": "20/pc",
+            "Paint brush # 4": "95/pc",
+            "Paint brush # 2": "35/pc"
+        }
+    },
+    "D.R. Gualvez Enterprises": {
+        "Electrical Works": {
+            "Electric Wire THWN/THHN 3.5mm2": "3,800/BOX",
+            "Single Gang Switch": "80/set",
+            "Two-Gang Switch": "130/set",
+            "Three-Gang Switch": "180/set",
+            "Duplex Convenience Outlet": "130/set",
+            "Heavy Duty Outlet": "75/set"
+        },
+        "Miscellaneous and Consumables": {
+            "Electrical tape big": "45/pc",
+            "Solvent cement 100cc": "115/pc",
+            "Concrete nail no.3": "120/kl",
+            "CWN no.3": "70/kl"
+        },
+        "Masonry Works": {
+            "Tie Wire #16": "100/kg"
+        },
+        "Steel Bars": {
+            "\u00a0#16 G.I. Tie Wire": "100/kg",
+            "Hacksaw Blade": "65/pc"
+        },
+        "Formworks": {
+            "Common Nail": "85/kg"
+        },
+        "Painting Works": {
+            "Spar Varnish": "405/ltr",
+            "Putty Knife": "35/pc",
+            "Sand paper #120": "20/pc",
+            "Paint brush # 4": "95/pc",
+            "Paint brush # 2": "45/pc"
+        }
+    },
+    "D Zigno Trading and Construction Supply": {
+        "Electrical Works": {
+            "Electric Wire THWN/THHN 2.0mm2": "2,150/BOX",
+            "Electric Wire THWN/THHN 3.5mm2": "2,995/BOX",
+            "Electric Wire THWN/THHN 5.5mm2": "6,000/BOX",
+            "Single Gang Switch": "80/set",
+            "Two-Gang Switch": "130/set",
+            "Three-Gang Switch": "180/set",
+            "Two-way Switch": "150/set",
+            "Duplex Convenience Outlet": "85/set",
+            "Heavy Duty Outlet": "95/set",
+            "Electrical Tape 3/4? x 20 YDS": "40/pc"
+        },
+        "Miscellaneous and Consumables": {
+            "Electrical tape big": "40/pc",
+            "Solvent cement 100cc": "85/pc",
+            "Concrete nail no.3": "100/kl",
+            "CWN no.3": "70/kl"
+        },
+        "Wires": {
+            "8.0mm2 THHN": "60/m",
+            "5.5mm2 THHN": "45/m",
+            "3.5mm2 THHN": "25/m",
+            "2.0mm2 THHN": "20/m"
+        },
+        "Masonry Works": {
+            "Concrete Hollow Blocks (CHB) 4?": "10.50/pc",
+            "Concrete Hollow Blocks (CHB) 6?": "12.50/pc",
+            "Washed sand": "500/cu.m",
+            "10 mm. Dia. x 6.0 M. DSB": "128/pc",
+            "Tie Wire #16": "70/kg"
+        },
+        "Stone Masonry": {
+            "Cement, 40 kg.": "225/bag",
+            "Sand": "500/cu.m",
+            "Gravel Fill": "650/cu.m"
+        },
+        "Filter Cloth": {
+            "Boulders": "650/cu.m",
+            "Screened Sand": "700/cu.m",
+            "Screened Gravel": "1020/cu.m"
+        },
+        "Soil Poisoning \u2013 Termicide": {
+            "Gravel": "650/cu.m",
+            "Wash Sand": "500/cu.m",
+            "Portland Cement, 40kg": "235/bag",
+            "Pozzolan Cement, 40kg": "225/bag"
+        },
+        "Steel Bars": {
+            "\u00a010mm Diameter Deformed Bars": "128/pc",
+            "\u00a012mm Diameter Deformed Bars": "178/pc",
+            "\u00a016mm Diameter Deformed Bars": "330/pc",
+            "\u00a0#16 G.I. Tie Wire": "70/kg",
+            "Hacksaw Blade": "60/pc"
+        },
+        "Formworks": {
+            "\u00a02 x 3 x 10' Coco lumber": "150/pc",
+            "\u00a02 x 4 x 10 Coco lumber": "180/pc",
+            "\u00a01/2? x 4' x 8' Plywood": "900/pc",
+            "\u00a06mm thk. Ordinary Plywood": "280/pc",
+            "\u00a01?x2?x8' Hard wood or its equivalent": "150/pc",
+            "\u00a02?x2?x8' Hard wood or its equivalent": "350/pc",
+            "Common Nail": "70/kg",
+            "Box Nail": "1,250/kg"
+        },
+        "Painting Works": {
+            "Paint Enamel": "650/gal",
+            "Paint Latex Gloss": "620/gal",
+            "Paint Latex Semi-Gloss": "620/gal",
+            "Thinner Paint": "250/gal",
+            "Thinner Lacquer": "230/gal",
+            "Paint Metal Epoxy": "650/gal",
+            "Paint Primer Solvent": "420/gal",
+            "Brush Roller (152mm)": "85/pc",
+            "Brush Steel (101mm)": "50/pc",
+            "Concrete neutralizer": "300/gal",
+            "Putty Knife": "40/pc",
+            "Roller paint # 9 w/ tray": "150/pc",
+            "2?paint brush": "35/pc",
+            "Paint thinner": "250/gal",
+            "Sand paper #120": "18/pc",
+            "Paint brush # 4": "95/pc",
+            "Paint brush # 2": "35/pc",
+            "Red Lead Primer": "420/gal"
+        }
+    },
+    "Enoy Home Improvement Center": {
+        "Electrical Works": {
+            "Utility Box Gauge #16 (50mm x 101mm x 53mm) Deep": "22.75/pc",
+            "Square Box (101mm x 53mm) Deep Type Gague #16": "74.75/pc",
+            "Single Gang Switch": "89.75/set",
+            "Two-Gang Switch": "199.75/set",
+            "Three-Gang Switch": "109.75/set",
+            "Two-way Switch": "109.75/set",
+            "Duplex Convenience Outlet": "167.50/set",
+            "Polarized 3-Prongs (ACU Outlet)": "119.75/set",
+            "Electrical Tape 3/4? x 20 YDS": "38/pc"
+        },
+        "Miscellaneous and Consumables": {
+            "Electrical tape big": "38/pc",
+            "Concrete nail no.3": "100/kl",
+            "CWN no.3": "61/kl"
+        },
+        "Painting Works": {
+            "Paint Enamel": "545/gal",
+            "Paint Latex Gloss": "574/gal",
+            "Paint Latex Semi-Gloss": "574/gal",
+            "Brush Roller (152mm)": "45/pc",
+            "2?paint brush": "95/pc",
+            "Paint thinner": "355/gal",
+            "Sand paper #120": "15.75/pc",
+            "Paint brush # 2": "95/pc"
+        },
+        "Plumbing and Sanitary Works": {
+            "PVC ELBOW 90\u00b0 (75mm)": "64/pc",
+            "PVC Elbow 90\u00b0 (50mm)": "36/pc",
+            "PVC Elbow 45\u00b0 (75mm)": "52/pc",
+            "PVC Elbow 45\u00b0 (50mm)": "29/pc",
+            "Vulca Seal": "55/pc"
+        }
+    },
+    "FJM Construction Supply": {
+        "Electrical Works": {
+            "Electric Wire THWN/THHN 2.0mm2": "2,700/BOX",
+            "Electric Wire THWN/THHN 3.5mm2": "3,750/BOX",
+            "Electric Wire THWN/THHN 5.5mm2": "5,100/BOX",
+            "Single Gang Switch": "100/set",
+            "Two-Gang Switch": "155/set",
+            "Three-Gang Switch": "200/set"
+        },
+        "Miscellaneous and Consumables": {
+            "Electrical tape big": "35/pc",
+            "Solvent cement 100cc": "65/pc",
+            "Concrete nail no.3": "100/kl",
+            "CWN no.3": "60/kl"
+        },
+        "Wires": {
+            "5.5mm2 THHN": "35/m",
+            "3.5mm2 THHN": "26/m",
+            "2.0mm2 THHN": "20/m"
+        },
+        "Masonry Works": {
+            "Concrete Hollow Blocks (CHB) 4?": "12/pc",
+            "Washed sand": "650/cu.m",
+            "10 mm. Dia. x 6.0 M. DSB": "128/pc",
+            "Tie Wire #16": "80/kg"
+        },
+        "Stone Masonry": {
+            "Cement, 40 kg.": "225/bag",
+            "Sand": "550/cu.m"
+        },
+        "Filter Cloth": {
+            "Boulders": "600/cu.m"
+        },
+        "Soil Poisoning \u2013 Termicide": {
+            "Gravel": "800/cu.m",
+            "Wash Sand": "650/cu.m",
+            "Portland Cement, 40kg": "275/bag",
+            "Pozzolan Cement, 40kg": "235/bag"
+        },
+        "Steel Bars": {
+            "\u00a010mm Diameter Deformed Bars": "128/pc",
+            "\u00a012mm Diameter Deformed Bars": "195/pc",
+            "\u00a016mm Diameter Deformed Bars": "345/pc",
+            "\u00a0#16 G.I. Tie Wire": "80/kg",
+            "Hacksaw Blade": "60/pc"
+        },
+        "Formworks": {
+            "\u00a02 x 3 x 10' Coco lumber": "130/pc",
+            "\u00a02 x 4 x 10 Coco lumber": "180/pc",
+            "\u00a01/2? x 4' x 8' Plywood": "1,000/pc"
+        },
+        "Painting Works": {
+            "Paint Enamel": "650/gal",
+            "Paint Latex Gloss": "630/gal",
+            "Thinner Paint": "400/gal",
+            "Thinner Lacquer": "400/gal",
+            "Paint Metal Epoxy": "750/gal",
+            "Concrete neutralizer": "390/gal",
+            "Putty Knife": "45/pc",
+            "Roller paint # 9 w/ tray": "140/pc",
+            "2?paint brush": "35/pc",
+            "Paint thinner": "400/pc",
+            "Sand paper #120": "20/pc",
+            "Paint brush # 4": "95/pc",
+            "Paint brush # 2": "35/pc"
+        }
+    },
+    "*Grace Home Builders": {
+        "Electrical Works": {
+            "Utility Box Gauge #16 (50mm x 101mm x 53mm) Deep": "22.75/pc",
+            "Square Box (101mm x 53mm) Deep Type Gague #16": "74.75/pc",
+            "Single Gang Switch": "89.75/set",
+            "Two-Gang Switch": "199.75/set",
+            "Three-Gang Switch": "109.75/set",
+            "Two-way Switch": "109.75/set",
+            "Duplex Convenience Outlet": "167.50/set",
+            "Polarized 3-Prongs (ACU Outlet)": "119.75/set",
+            "Electrical Tape 3/4? x 20 YDS": "38/pc"
+        },
+        "Miscellaneous and Consumables": {
+            "Electrical tape big": "38/pc",
+            "Concrete nail no.3": "100/kl",
+            "CWN no.3": "61/kl"
+        },
+        "Painting Works": {
+            "Paint Enamel": "545/gal",
+            "Paint Latex Gloss": "574/gal",
+            "Paint Latex Semi-Gloss": "574/gal",
+            "Brush Roller (152mm)": "45/pc",
+            "2?paint brush": "95/pc",
+            "Paint thinner": "355/gal",
+            "Sand paper #120": "15.75/pc",
+            "Paint brush # 2": "95/pc"
+        },
+        "Plumbing and Sanitary Works": {
+            "PVC ELBOW 90\u00b0 (75mm)": "64/pc",
+            "PVC Elbow 90\u00b0 (50mm)": "36/pc",
+            "PVC Elbow 45\u00b0 (75mm)": "52/pc",
+            "PVC Elbow 45\u00b0 (50mm)": "29/pc",
+            "Vulca Seal": "55/pc"
+        }
+    },
+    "GW Sales Hardware": {
+        "Electrical Works": {
+            "Octagonal Junction Box Type Gauge #16 (101mm x 101mm x 53mm) Deep": "35/pc"
+        },
+        "Boxes and Gutter": {
+            "Junction box depth type,metal gauge 16 w/ cover": "35/pc",
+            "Utility box depth type, metal gauge 16 w/cover": "35/pc",
+            "4\u00d74 square box depth, metal gauge 16 w/cover": "75/pc"
+        },
+        "Miscellaneous and Consumables": {
+            "Electrical tape big": "38/pc",
+            "Solvent cement 100cc": "100/pc",
+            "Concrete nail no.3": "100/kl",
+            "CWN no.3": "60/kl"
+        },
+        "Wires": {
+            "5.5mm2 THHN": "38/m",
+            "3.5mm2 THHN": "28/m",
+            "2.0mm2 THHN": "22/m"
+        },
+        "Masonry Works": {
+            "Concrete Hollow Blocks (CHB) 4?": "12/pc",
+            "Concrete Hollow Blocks (CHB) 6?": "16/pc",
+            "Washed sand": "550/cu.m",
+            "Tie Wire #16": "70/kg"
+        },
+        "Stone Masonry": {
+            "Cement, 40 kg.": "230/bag",
+            "Sand": "550/cu.m",
+            "Gravel Fill": "650/cu.m"
+        },
+        "Filter Cloth": {
+            "Boulders": "650/cu.m",
+            "Screened Gravel": "900/cu.m"
+        },
+        "Soil Poisoning \u2013 Termicide": {
+            "Gravel": "650/cu.m",
+            "Portland Cement, 40kg": "240/bag",
+            "Pozzolan Cement, 40kg": "230/bag"
+        },
+        "Steel Bars": {
+            "\u00a010mm Diameter Deformed Bars": "140/pc",
+            "\u00a012mm Diameter Deformed Bars": "195/pc",
+            "\u00a016mm Diameter Deformed Bars": "350/pc",
+            "\u00a0#16 G.I. Tie Wire": "70/kg",
+            "Hacksaw Blade": "60/pc"
+        },
+        "Formworks": {
+            "\u00a01/2? x 4' x 8' Plywood": "950/pc",
+            "\u00a06mm thk. Lawanit board": "250/pc",
+            "Common Nail": "80/kg"
+        },
+        "Painting Works": {
+            "Paint Latex Gloss": "680/gal",
+            "Paint Latex Semi-Gloss": "650/gal",
+            "Thinner Paint": "480/gal",
+            "Thinner Lacquer": "275/gal",
+            "Paint Metal Epoxy": "775/gal",
+            "Brush Roller (152mm)": "75/pc",
+            "Brush Steel (101mm)": "50/pc",
+            "Concrete neutralizer": "250/gal",
+            "2?paint brush": "45/pc",
+            "Paint thinner": "480/gal",
+            "Sand paper #120": "20/pc",
+            "Paint brush # 4": "110/pc",
+            "Paint brush # 2": "45/pc",
+            "Red Lead Primer": "485/gal"
+        },
+        "Plumbing and Sanitary Works": {
+            "PVC ELBOW 90\u00b0 (100mm)": "65/pc",
+            "PVC ELBOW 90\u00b0 (75mm)": "35/pc",
+            "Vulca Seal": "60/pc"
+        }
+    },
+    "HYR Trading": {
+        "Electrical Works": {
+            "Single Gang Switch": "70/set",
+            "Two-Gang Switch": "114/set",
+            "Three-Gang Switch": "158/set",
+            "Two-way Switch": "75/set",
+            "Duplex Convenience Outlet": "35/set"
+        },
+        "Pipe and Fitting": {
+            "20mmdia UPVC\u00a0 pipe": "67/pc",
+            "20mmdia UPVC coupling": "4/pc",
+            "20mmdia\u00a0 UPVC adoptor": "10/pc"
+        },
+        "Miscellaneous and Consumables": {
+            "Electrical tape big": "35/pc",
+            "Solvent cement 100cc": "80/pc",
+            "Concrete nail no.3": "100/kl",
+            "CWN no.3": "58/kl",
+            "Cable Tie": "5/pc"
+        },
+        "Wires": {
+            "8.0mm2 THHN": "55/m",
+            "5.5mm2 THHN": "35.50/m",
+            "3.5mm2 THHN": "23/m",
+            "2.0mm2 THHN": "15.75/m"
+        },
+        "Masonry Works": {
+            "10 mm. Dia. x 6.0 M. DSB": "120/pc"
+        },
+        "Stone Masonry": {
+            "Cement, 40 kg.": "225/bag"
+        },
+        "Soil Poisoning \u2013 Termicide": {
+            "Portland Cement, 40kg": "260/bag",
+            "Pozzolan Cement, 40kg": "240/bag"
+        },
+        "Steel Bars": {
+            "\u00a0#16 G.I. Tie Wire": "80/pc",
+            "Hacksaw Blade": "60/pc"
+        },
+        "Formworks": {
+            "\u00a01?x2?x8' Hard wood or its equivalent": "126/pc",
+            "\u00a02?x2?x8' Hard wood or its equivalent": "253.30/pc",
+            "Common Nail": "64/kg",
+            "Box Nail": "1480/kg"
+        },
+        "Painting Works": {
+            "Paint Latex Semi-Gloss": "610/gal",
+            "Thinner Paint": "365/gal",
+            "Thinner Lacquer": "425/gal",
+            "Concrete neutralizer": "435/gal",
+            "Putty Knife": "20/pc",
+            "Roller paint # 9 w/ tray": "140/pc",
+            "2?paint brush": "40/pc",
+            "Paint thinner": "265/gal",
+            "Sand paper #120": "20/pc",
+            "Paint brush # 4": "100/pc",
+            "Paint brush # 2": "40/pc."
+        },
+        "Plumbing and Sanitary Works": {
+            "100mm dia. PVC": "336/pc",
+            "75mm dia. PVC": "252/pc",
+            "50mm dia PVC (vp & wp)": "125/pc",
+            "PVC Clean Out w/ plug & sealing ring 100mm": "60/pc",
+            "PVC Clean Out w/ plug & sealing ring 150mm": "36/pc",
+            "PVC P-Trap w/ plug & sealing ring 50mm": "20/pc",
+            "PVC Tee (100mm)": "108/pc",
+            "PVC WYE (100mm)": "124/pc",
+            "PVC WYE REDUCER (100mmX50mm)": "114/pc",
+            "PVC WYE REDUCER (100mmX75mm)": "60/pc",
+            "PVC ELBOW 90\u00b0 (100mm)": "36/pc",
+            "PVC ELBOW 90\u00b0 (75mm)": "20/pc"
+        }
+    },
+    "Imperial Enterprises": {
+        "Electrical Works": {
+            "Bushing and Locknut (12.7mm)": "18/pc",
+            "Bushing and Locknut (19mm)": "28/pc",
+            "Bushing and Locknut (25.4mm)": "48/pc",
+            "PVC Conduit Pipe (3m x 12.7mm D)": "265/pc",
+            "PVC Conduit Pipe (3m x 19mm D)": "458/pc",
+            "PVC Conduit Pipe (3m x 25.4mm D)": "690/pc",
+            "PVC Conduit Elbow 90 Degrees (25.4mm D)": "58/pc",
+            "PVC Adapter with Locknut (12.7mm D)": "58/pc",
+            "PVC Adapter with Locknut (19mm D)": "38/pc",
+            "PVC Adapter with Locknut (25.4mm D)": "68/pc",
+            "RS Conduit Coupling (12.7mm D)": "38/pc",
+            "RS Conduit Coupling (25.4mm D)": "65/pc",
+            "PVC Conduit Coupling (12.7mm D)": "38/pc",
+            "PVC Conduit Coupling (19mm D)": "52/pc",
+            "PVC Conduit Coupling (25.4mm D)": "49/pc",
+            "Octagonal Junction Box Type Gauge #16 (101mm x 101mm x 53mm) Deep": "92/pc",
+            "Utility Box Gauge #16 (50mm x 101mm x 53mm) Deep": "75/pc",
+            "Square Box (101mm x 53mm) Deep Type Gague #16": "235/pc",
+            "Square Box (101mm x 63mm) Deep Type Gague #16": "300/pc",
+            "Metal Pull Box (152mm x 152mm x 101mm) Gauge #16": "950/pc",
+            "Metal Pull Box (304mm x 304mm x 101mm) Gauge #16": "1,350/pc",
+            "Mica Tubing": "48/pc",
+            "Electric Wire THWN/THHN 2.0mm2": "2,450/BOX",
+            "Electric Wire THWN/THHN 3.5mm2": "3,600/BOX",
+            "Electric Wire THWN/THHN 5.5mm2": "5620/BOX",
+            "Single Gang Switch": "125/set",
+            "Two-Gang Switch": "180/set",
+            "Three-Gang Switch": "265/set",
+            "Two-way Switch": "195/set",
+            "Duplex Convenience Outlet": "265/set",
+            "Heavy Duty Outlet": "135/set",
+            "Electrical Tape 3/4? x 20 YDS": "39/pc"
+        },
+        "Pipe and Fitting": {
+            "20mmdia UPVC\u00a0 pipe": "65/pc",
+            "20mmdia RSC conduit": "265/pc",
+            "20mmdia RSC coupling": "20/pc",
+            "20mmdia UPVC coupling": "20/pc",
+            "20mmdia\u00a0 UPVC adoptor": "15/pc",
+            "20mm dia. Locknut& bushing": "28/pc",
+            "20mm dia. RSC Locknut& bushing": "28/pc"
+        },
+        "Boxes and Gutter": {
+            "Junction box depth type,metal gauge 16 w/ cover": "85/pc",
+            "Utility box depth type, metal gauge 16 w/cover": "78/pc",
+            "4\u00d74 square box depth, metal gauge 16 w/cover": "165/pc"
+        },
+        "Miscellaneous and Consumables": {
+            "Electrical tape big": "40/pc",
+            "Concrete nail no.3": "100/kl",
+            "CWN no.3": "55/kl",
+            "Terminal Lugs": "52/pc",
+            "Cable Tie": "128/pc"
+        },
+        "Wires": {
+            "8.0mm2 THHN": "65/m",
+            "5.5mm2 THHN": "47/m",
+            "3.5mm2 THHN": "26/m",
+            "2.0mm2 THHN": "22/m"
+        },
+        "Masonry Works": {
+            "Concrete Hollow Blocks (CHB) 4?": "15/pc",
+            "Concrete Hollow Blocks (CHB) 6?": "23/pc",
+            "Washed sand": "580/cu.m",
+            "10 mm. Dia. x 6.0 M. DSB": "120/pc",
+            "Tie Wire #16": "75/kg"
+        },
+        "Stone Masonry": {
+            "Cement, 40 kg.": "245/bag",
+            "Sand": "580/cu.m",
+            "Gravel Fill": "550/cu.m"
+        },
+        "Filter Cloth": {
+            "Boulders": "550/cu.m"
+        },
+        "Soil Poisoning \u2013 Termicide": {
+            "Gravel": "1,100/cu.m",
+            "Wash Sand": "850/cu.m",
+            "Portland Cement, 40kg": "245/bag",
+            "Pozzolan Cement, 40kg": "220/bag"
+        },
+        "Steel Bars": {
+            "\u00a010mm Diameter Deformed Bars": "120/pc",
+            "\u00a012mm Diameter Deformed Bars": "170/pc",
+            "\u00a016mm Diameter Deformed Bars": "330/pc",
+            "\u00a0#16 G.I. Tie Wire": "70/kg",
+            "Hacksaw Blade": "65/pc"
+        },
+        "Formworks": {
+            "\u00a02 x 3 x 10' Coco lumber": "150/pc",
+            "\u00a02 x 4 x 10 Coco lumber": "150/pc",
+            "\u00a01/2? x 4' x 8' Plywood": "880/pc",
+            "\u00a01?x2?x8' Hard wood or its equivalent": "295/pc",
+            "\u00a02?x2?x8' Hard wood or its equivalent": "300/pc"
+        },
+        "Painting Works": {
+            "Paint Latex Semi-Gloss": "571/gal",
+            "Thinner Paint": "265/gal",
+            "Thinner Lacquer": "245/gal",
+            "Paint Metal Epoxy": "740/gal",
+            "Brush Paint (101mm)": "135/pc",
+            "Brush Roller (152mm)": "135/pc",
+            "Brush Steel (101mm)": "85/pc",
+            "Spar Varnish": "450/ltr",
+            "Lacquer Putty": "220/kg",
+            "Concrete neutralizer": "460/gal",
+            "Putty Knife": "48/pc",
+            "Roller paint # 9 w/ tray": "148/pc",
+            "2?paint brush": "38/pc",
+            "Paint thinner": "285/gal",
+            "Sand paper #120": "20/pc",
+            "Paint brush # 4": "58/pc",
+            "Paint brush # 2": "38/pc"
+        },
+        "Plumbing and Sanitary Works": {
+            "100mm dia. PVC": "720/pc",
+            "PVC Clean Out w/ plug & sealing ring 100mm": "68/pc",
+            "PVC Clean Out w/ plug & sealing ring 150mm": "480/pc",
+            "PVC P-Trap w/ plug & sealing ring 50mm": "88/pc",
+            "PVC Te (150mm)": "1,350/pc",
+            "PVC Tee (100mm)": "245/pc",
+            "PVC WYE (100mm)": "245/pc",
+            "PVC WYE REDUCER (100mmX50mm)": "185/pc",
+            "PVC WYE REDUCER (100mmX75mm)": "185/pc",
+            "PVC ELBOW 90\u00b0 (100mm)": "81/pc",
+            "PVC Elbow 90\u00b0 (50mm)": "88/pc",
+            "PVC Elbow 45\u00b0 (100mm)": "81/pc",
+            "PVC Elbow 45\u00b0 (75mm)": "65/pc",
+            "PVC Elbow 45\u00b0 (50mm)": "48/pc",
+            "PVC Coupling (100mm)": "28/pc",
+            "Vulca Seal": "60/pc"
+        }
+    },
+    "Legazpi Asian Marketing Corporation": {
+        "Electrical Works": {
+            "Bushing and Locknut (12.7mm)": "14/pc",
+            "Bushing and Locknut (19mm)": "20/pc",
+            "Bushing and Locknut (25.4mm)": "24/pc",
+            "PVC Conduit Pipe (3m x 12.7mm D)": "82/pc",
+            "PVC Conduit Pipe (3m x 19mm D)": "130/pc",
+            "PVC Conduit Pipe (3m x 25.4mm D)": "165/pc",
+            "PVC Conduit Elbow 90 Degrees (25.4mm D)": "48/pc",
+            "PVC Adapter with Locknut (12.7mm D)": "10/pc",
+            "PVC Adapter with Locknut (19mm D)": "12/pc",
+            "PVC Adapter with Locknut (25.4mm D)": "15/pc",
+            "RS Conduit Coupling (12.7mm D)": "165/pc",
+            "RS Conduit Coupling (25.4mm D)": "14/pc",
+            "PVC Conduit Coupling (12.7mm D)": "6/pc",
+            "PVC Conduit Coupling (19mm D)": "9/pc",
+            "PVC Conduit Coupling (25.4mm D)": "20/pc",
+            "Octagonal Junction Box Type Gauge #16 (101mm x 101mm x 53mm) Deep": "32/pc",
+            "Utility Box Gauge #16 (50mm x 101mm x 53mm) Deep": "26/pc",
+            "Square Box (101mm x 53mm) Deep Type Gague #16": "135/pc",
+            "Square Box (101mm x 63mm) Deep Type Gague #16": "135/pc",
+            "Metal Pull Box (152mm x 152mm x 101mm) Gauge #16": "288/pc",
+            "Metal Pull Box (304mm x 304mm x 101mm) Gauge #16": "760/pc",
+            "Mica Tubing": "40/pc",
+            "Electric Wire THWN/THHN 2.0mm2": "2,278/BOX",
+            "Electric Wire THWN/THHN 3.5mm2": "3,342/BOX",
+            "Electric Wire THWN/THHN 5.5mm2": "5,115/BOX",
+            "Single Gang Switch": "67/set",
+            "Two-Gang Switch": "109/set",
+            "Three-Gang Switch": "151/set",
+            "Two-way Switch": "136/set",
+            "Duplex Convenience Outlet": "195/set",
+            "Heavy Duty Outlet": "109/set",
+            "Polarized 3-Prongs (ACU Outlet)": "125/set",
+            "Electrical Tape 3/4? x 20 YDS": "37/pc"
+        },
+        "Pipe and Fitting": {
+            "20mmdia UPVC\u00a0 pipe": "82/pc",
+            "20mmdia RSC conduit": "245/pc",
+            "20mmdia RSC coupling": "14/pc",
+            "20mmdia UPVC coupling": "5/pc",
+            "20mmdia\u00a0 UPVC adoptor": "10/pc",
+            "20mm dia. Locknut& bushing": "14/pc",
+            "20mm dia. RSC Locknut& bushing": "14/pc"
+        },
+        "Boxes and Gutter": {
+            "Junction box depth type,metal gauge 16 w/ cover": "32/pc",
+            "Utility box depth type, metal gauge 16 w/cover": "26/pc",
+            "4\u00d74 square box depth, metal gauge 16 w/cover": "135/pc"
+        },
+        "Miscellaneous and Consumables": {
+            "Electrical tape big": "37/pc",
+            "Rubber tape big": "125/pc",
+            "Solvent cement 100cc": "100/pc",
+            "G.I. Wire No. 12": "70/kl",
+            "Concrete nail no.3": "90/kl",
+            "CWN no.3": "56/kl",
+            "Terminal Lugs": "190/lot",
+            "Cable Tie": "165/pc"
+        },
+        "Wires": {
+            "8.0mm2 THHN": "62/m",
+            "5.5mm2 THHN": "40/m",
+            "3.5mm2 THHN": "26/m",
+            "2.0mm2 THHN": "18/m"
+        },
+        "Masonry Works": {
+            "10 mm. Dia. x 6.0 M. DSB": "120/pc",
+            "Tie Wire #16": "70/kg"
+        },
+        "Stone Masonry": {
+            "Cement, 40 kg.": "255/bag"
+        },
+        "Soil Poisoning \u2013 Termicide": {
+            "Portland Cement, 40kg": "255/bag",
+            "Pozzolan Cement, 40kg": "220/bag"
+        },
+        "Steel Bars": {
+            "\u00a010mm Diameter Deformed Bars": "120/pc",
+            "\u00a012mm Diameter Deformed Bars": "175/pc",
+            "\u00a016mm Diameter Deformed Bars": "320/pc",
+            "\u00a020mm Diameter Deformed Bars": "540/pc",
+            "\u00a0#16 G.I. Tie Wire": "70/kg",
+            "Hacksaw Blade": "60/pc"
+        },
+        "Formworks": {
+            "\u00a01/2? x 4' x 8' Plywood": "795/pc",
+            "\u00a06mm thk. Lawanit board": "260/pc",
+            "\u00a06mm thk. Ordinary Plywood": "560/pc",
+            "\u00a01?x2?x8' Hard wood or its equivalent": "138/pc",
+            "\u00a02?x2?x8' Hard wood or its equivalent": "254/pc",
+            "\u00a02?x2?x8\u2019Hardwood or its equivalent": "254/pc",
+            "\u00a02?x4?x8' Hard wood or its equivalent": "534/pc",
+            "Common Nail": "64/kg",
+            "Box Nail": "1,300/kg"
+        },
+        "Painting Works": {
+            "Paint Tinting Color": "460/ltr",
+            "Paint Aluminum": "650/gal",
+            "Paint Enamel": "630/gal",
+            "Paint Latex Gloss": "585/gal",
+            "Paint Latex Semi-Gloss": "585/gal",
+            "Paint Red Lead": "395/gal",
+            "Thinner Paint": "250/gal",
+            "Thinner Lacquer": "230/gal",
+            "Brush Paint (101mm)": "145/pc",
+            "Brush Roller (152mm)": "85/pc",
+            "Brush Steel (101mm)": "52/pc",
+            "Oil Paint": "135/ltr",
+            "Spar Varnish": "345/ltr",
+            "Lacquer Putty": "680/gal",
+            "Concrete neutralizer": "485/gal",
+            "Putty Knife": "30/pc",
+            "Roller paint # 9 w/ tray": "127/pc",
+            "2?paint brush": "50/pc",
+            "Paint thinner": "250/gal",
+            "Sand paper #120": "17/pc",
+            "Paint brush # 4": "145/pc",
+            "Paint brush # 2": "50/pc",
+            "Red Lead Primer": "395/gal"
+        },
+        "Plumbing and Sanitary Works": {
+            "100mm dia. PVC": "786/pc",
+            "75mm dia. PVC": "590/pc",
+            "50mm dia PVC (vp & wp)": "275/pc",
+            "PVC Clean Out w/ plug & sealing ring 100mm": "84/pc",
+            "PVC Clean Out w/ plug & sealing ring 150mm": "395/pc",
+            "PVC P-Trap w/ plug & sealing ring 50mm": "110/pc",
+            "PVC Te (150mm)": "1,027/pc",
+            "PVC Tee (100mm)": "192/pc",
+            "PVC WYE (100mm)": "171/pc",
+            "PVC WYE REDUCER (100mmX50mm)": "142/pc",
+            "PVC WYE REDUCER (100mmX75mm)": "225/pc",
+            "PVC ELBOW 90\u00b0 (100mm)": "107/pc",
+            "PVC ELBOW 90\u00b0 (75mm)": "64/pc"
+        }
+    },
+    "Legazpi City Tiles and Paint Center": {
+        "Electrical Works": {
+            "Electric Wire THWN/THHN 2.0mm2": "2,150/BOX",
+            "Electric Wire THWN/THHN 3.5mm2": "2,995/BOX",
+            "Electric Wire THWN/THHN 5.5mm2": "6,000/BOX",
+            "Single Gang Switch": "80/set",
+            "Two-Gang Switch": "130/set",
+            "Three-Gang Switch": "180/set",
+            "Two-way Switch": "150/set",
+            "Duplex Convenience Outlet": "85/set",
+            "Heavy Duty Outlet": "95/set",
+            "Electrical Tape 3/4? x 20 YDS": "40/pc"
+        },
+        "Miscellaneous and Consumables": {
+            "Electrical tape big": "40/pc",
+            "Solvent cement 100cc": "85/pc",
+            "Concrete nail no.3": "100/kl",
+            "CWN no.3": "70/kl"
+        },
+        "Wires": {
+            "8.0mm2 THHN": "60/m",
+            "5.5mm2 THHN": "45/m",
+            "3.5mm2 THHN": "25/m",
+            "2.0mm2 THHN": "20/m"
+        },
+        "Masonry Works": {
+            "Concrete Hollow Blocks (CHB) 4?": "10.50/pc",
+            "Concrete Hollow Blocks (CHB) 6?": "12.50/pc",
+            "Washed sand": "500/cu.m",
+            "10 mm. Dia. x 6.0 M. DSB": "128/pc",
+            "Tie Wire #16": "70/kg"
+        },
+        "Stone Masonry": {
+            "Cement, 40 kg.": "225/bag",
+            "Sand": "500/cu.m",
+            "Gravel Fill": "650/cu.m"
+        },
+        "Filter Cloth": {
+            "Boulders": "650/cu.m",
+            "Screened Sand": "700/cu.m",
+            "Screened Gravel": "1020/cu.m"
+        },
+        "Soil Poisoning \u2013 Termicide": {
+            "Gravel": "650/cu.m",
+            "Wash Sand": "500/cu.m",
+            "Portland Cement, 40kg": "235/bag",
+            "Pozzolan Cement, 40kg": "225/bag"
+        },
+        "Steel Bars": {
+            "\u00a010mm Diameter Deformed Bars": "128/pc",
+            "\u00a012mm Diameter Deformed Bars": "178/pc",
+            "\u00a016mm Diameter Deformed Bars": "330/pc",
+            "\u00a0#16 G.I. Tie Wire": "70/kg",
+            "Hacksaw Blade": "60/pc"
+        },
+        "Formworks": {
+            "\u00a02 x 3 x 10' Coco lumber": "150/pc",
+            "\u00a02 x 4 x 10 Coco lumber": "180/pc",
+            "\u00a01/2? x 4' x 8' Plywood": "900/pc",
+            "\u00a06mm thk. Ordinary Plywood": "280/pc",
+            "\u00a01?x2?x8' Hard wood or its equivalent": "150/pc",
+            "\u00a02?x2?x8' Hard wood or its equivalent": "350/pc",
+            "Common Nail": "70/kg",
+            "Box Nail": "1,250/kg"
+        },
+        "Painting Works": {
+            "Paint Enamel": "650/gal",
+            "Paint Latex Gloss": "620/gal",
+            "Paint Latex Semi-Gloss": "620/gal",
+            "Thinner Paint": "250/gal",
+            "Thinner Lacquer": "230/gal",
+            "Paint Metal Epoxy": "650/gal",
+            "Paint Primer Solvent": "420/gal",
+            "Brush Roller (152mm)": "85/pc",
+            "Brush Steel (101mm)": "50/pc",
+            "Concrete neutralizer": "300/gal",
+            "Putty Knife": "40/pc",
+            "Roller paint # 9 w/ tray": "150/pc",
+            "2?paint brush": "35/pc",
+            "Paint thinner": "250/gal",
+            "Sand paper #120": "18/pc",
+            "Paint brush # 4": "95/pc",
+            "Paint brush # 2": "35/pc",
+            "Red Lead Primer": "420/gal"
+        }
+    },
+    "Legazpi Color Center": {
+        "Electrical Works": {
+            "Two-Gang Switch": "120/set",
+            "Three-Gang Switch": "160/set",
+            "Two-way Switch": "150/set"
+        },
+        "Miscellaneous and Consumables": {
+            "Electrical tape big": "50/pc",
+            "Concrete nail no.3": "180/kl",
+            "CWN no.3": "70/kl"
+        },
+        "Masonry Works": {
+            "Concrete Hollow Blocks (CHB) 4?": "16/pc",
+            "Concrete Hollow Blocks (CHB) 6?": "20/pc"
+        },
+        "Stone Masonry": {
+            "Sand": "700/cu.m"
+        },
+        "Soil Poisoning \u2013 Termicide": {
+            "Gravel": "1,700/cu.m",
+            "Portland Cement, 40kg": "265/bag",
+            "Pozzolan Cement, 40kg": "250/bag"
+        },
+        "Steel Bars": {
+            "\u00a010mm Diameter Deformed Bars": "160/pc",
+            "\u00a012mm Diameter Deformed Bars": "260/pc",
+            "\u00a016mm Diameter Deformed Bars": "350/pc",
+            "Hacksaw Blade": "75/pc"
+        },
+        "Formworks": {
+            "\u00a02 x 3 x 10' Coco lumber": "125/pc",
+            "\u00a02 x 4 x 10 Coco lumber": "170/pc",
+            "\u00a01/2? x 4' x 8' Plywood": "950/pc",
+            "\u00a01?x2?x8' Hard wood or its equivalent": "90/pc",
+            "\u00a02?x2?x8' Hard wood or its equivalent": "190/pc",
+            "\u00a02?x2?x8\u2019Hardwood or its equivalent": "190/pc",
+            "\u00a02?x4?x8' Hard wood or its equivalent": "2,080/pc"
+        },
+        "Painting Works": {
+            "Putty Knife": "40/pc",
+            "2?paint brush": "35/pc",
+            "Paint thinner": "295/gal",
+            "Sand paper #120": "20/pc",
+            "Paint brush # 4": "95/pc",
+            "Paint brush # 2": "45/pc"
+        },
+        "Plumbing and Sanitary Works": {
+            "100mm dia. PVC": "395/pc",
+            "75mm dia. PVC": "295/pc",
+            "50mm dia PVC (vp & wp)": "195/pc",
+            "PVC Clean Out w/ plug & sealing ring 100mm": "95/pc",
+            "PVC Clean Out w/ plug & sealing ring 150mm": "220/pc",
+            "PVC Tee (100mm)": "95/pc",
+            "PVC WYE (100mm)": "95/pc",
+            "PVC WYE REDUCER (100mmX50mm)": "65/pc",
+            "PVC WYE REDUCER (100mmX75mm)": "65/pc",
+            "PVC ELBOW 90\u00b0 (100mm)": "75/pc",
+            "PVC ELBOW 90\u00b0 (75mm)": "65/pc",
+            "PVC Elbow 90\u00b0 (50mm)": "45/pc",
+            "PVC Elbow 45\u00b0 (100mm)": "85/pc",
+            "PVC Elbow 45\u00b0 (75mm)": "65/pc",
+            "PVC Elbow 45\u00b0 (50mm)": "45/pc",
+            "PVC Coupling (100mm)": "35/pc",
+            "Vulca Seal": "55/pc"
+        }
+    },
+    "*Legazpi Halizel Marketing and Fishing Supply": {
+        "Electrical Works": {
+            "Bushing and Locknut (12.7mm)": "18/pc",
+            "Bushing and Locknut (19mm)": "28/pc",
+            "Bushing and Locknut (25.4mm)": "48/pc",
+            "PVC Conduit Pipe (3m x 12.7mm D)": "265/pc",
+            "PVC Conduit Pipe (3m x 19mm D)": "458/pc",
+            "PVC Conduit Pipe (3m x 25.4mm D)": "690/pc",
+            "PVC Conduit Elbow 90 Degrees (25.4mm D)": "58/pc",
+            "PVC Adapter with Locknut (12.7mm D)": "58/pc",
+            "PVC Adapter with Locknut (19mm D)": "38/pc",
+            "PVC Adapter with Locknut (25.4mm D)": "68/pc",
+            "RS Conduit Coupling (12.7mm D)": "38/pc",
+            "RS Conduit Coupling (25.4mm D)": "65/pc",
+            "PVC Conduit Coupling (12.7mm D)": "38/pc",
+            "PVC Conduit Coupling (19mm D)": "52/pc",
+            "PVC Conduit Coupling (25.4mm D)": "49/pc",
+            "Octagonal Junction Box Type Gauge #16 (101mm x 101mm x 53mm) Deep": "92/pc",
+            "Utility Box Gauge #16 (50mm x 101mm x 53mm) Deep": "75/pc",
+            "Square Box (101mm x 53mm) Deep Type Gague #16": "235/pc",
+            "Square Box (101mm x 63mm) Deep Type Gague #16": "300/pc",
+            "Metal Pull Box (152mm x 152mm x 101mm) Gauge #16": "950/pc",
+            "Metal Pull Box (304mm x 304mm x 101mm) Gauge #16": "1,350/pc",
+            "Mica Tubing": "48/pc",
+            "Electric Wire THWN/THHN 2.0mm2": "2,450/BOX",
+            "Electric Wire THWN/THHN 3.5mm2": "3,600/BOX",
+            "Electric Wire THWN/THHN 5.5mm2": "5620/BOX",
+            "Single Gang Switch": "125/set",
+            "Two-Gang Switch": "180/set",
+            "Three-Gang Switch": "265/set",
+            "Two-way Switch": "195/set",
+            "Duplex Convenience Outlet": "265/set",
+            "Heavy Duty Outlet": "135/set",
+            "Electrical Tape 3/4? x 20 YDS": "39/pc"
+        },
+        "Pipe and Fitting": {
+            "20mmdia UPVC\u00a0 pipe": "65/pc",
+            "20mmdia RSC conduit": "265/pc",
+            "20mmdia RSC coupling": "20/pc",
+            "20mmdia UPVC coupling": "20/pc",
+            "20mmdia\u00a0 UPVC adoptor": "15/pc",
+            "20mm dia. Locknut& bushing": "28/pc",
+            "20mm dia. RSC Locknut& bushing": "28/pc"
+        },
+        "Boxes and Gutter": {
+            "Junction box depth type,metal gauge 16 w/ cover": "85/pc",
+            "Utility box depth type, metal gauge 16 w/cover": "78/pc",
+            "4\u00d74 square box depth, metal gauge 16 w/cover": "165/pc"
+        },
+        "Miscellaneous and Consumables": {
+            "Electrical tape big": "40/pc",
+            "Concrete nail no.3": "100/kl",
+            "CWN no.3": "55/kl",
+            "Terminal Lugs": "52/pc",
+            "Cable Tie": "128/pc"
+        },
+        "Wires": {
+            "8.0mm2 THHN": "65/m",
+            "5.5mm2 THHN": "47/m",
+            "3.5mm2 THHN": "26/m",
+            "2.0mm2 THHN": "22/m"
+        },
+        "Masonry Works": {
+            "Concrete Hollow Blocks (CHB) 4?": "15/pc",
+            "Concrete Hollow Blocks (CHB) 6?": "23/pc",
+            "Washed sand": "580/cu.m",
+            "10 mm. Dia. x 6.0 M. DSB": "120/pc",
+            "Tie Wire #16": "75/kg"
+        },
+        "Stone Masonry": {
+            "Cement, 40 kg.": "245/bag",
+            "Sand": "580/cu.m",
+            "Gravel Fill": "550/cu.m"
+        },
+        "Filter Cloth": {
+            "Boulders": "550/cu.m"
+        },
+        "Soil Poisoning \u2013 Termicide": {
+            "Gravel": "1,100/cu.m",
+            "Wash Sand": "850/cu.m",
+            "Portland Cement, 40kg": "245/bag",
+            "Pozzolan Cement, 40kg": "220/bag"
+        },
+        "Steel Bars": {
+            "\u00a010mm Diameter Deformed Bars": "120/pc",
+            "\u00a012mm Diameter Deformed Bars": "170/pc",
+            "\u00a016mm Diameter Deformed Bars": "330/pc",
+            "\u00a0#16 G.I. Tie Wire": "70/kg",
+            "Hacksaw Blade": "65/pc"
+        },
+        "Formworks": {
+            "\u00a02 x 3 x 10' Coco lumber": "150/pc",
+            "\u00a02 x 4 x 10 Coco lumber": "150/pc",
+            "\u00a01/2? x 4' x 8' Plywood": "880/pc",
+            "\u00a01?x2?x8' Hard wood or its equivalent": "295/pc",
+            "\u00a02?x2?x8' Hard wood or its equivalent": "300/pc"
+        },
+        "Painting Works": {
+            "Paint Latex Semi-Gloss": "571/gal",
+            "Thinner Paint": "265/gal",
+            "Thinner Lacquer": "245/gal",
+            "Paint Metal Epoxy": "740/gal",
+            "Brush Paint (101mm)": "135/pc",
+            "Brush Roller (152mm)": "135/pc",
+            "Brush Steel (101mm)": "85/pc",
+            "Spar Varnish": "450/ltr",
+            "Lacquer Putty": "220/kg",
+            "Concrete neutralizer": "460/gal",
+            "Putty Knife": "48/pc",
+            "Roller paint # 9 w/ tray": "148/pc",
+            "2?paint brush": "38/pc",
+            "Paint thinner": "285/gal",
+            "Sand paper #120": "20/pc",
+            "Paint brush # 4": "58/pc",
+            "Paint brush # 2": "38/pc"
+        },
+        "Plumbing and Sanitary Works": {
+            "100mm dia. PVC": "720/pc",
+            "PVC Clean Out w/ plug & sealing ring 100mm": "68/pc",
+            "PVC Clean Out w/ plug & sealing ring 150mm": "480/pc",
+            "PVC P-Trap w/ plug & sealing ring 50mm": "88/pc",
+            "PVC Te (150mm)": "1,350/pc",
+            "PVC Tee (100mm)": "245/pc",
+            "PVC WYE (100mm)": "245/pc",
+            "PVC WYE REDUCER (100mmX50mm)": "185/pc",
+            "PVC WYE REDUCER (100mmX75mm)": "185/pc",
+            "PVC ELBOW 90\u00b0 (100mm)": "81/pc",
+            "PVC Elbow 90\u00b0 (50mm)": "88/pc",
+            "PVC Elbow 45\u00b0 (100mm)": "81/pc",
+            "PVC Elbow 45\u00b0 (75mm)": "65/pc",
+            "PVC Elbow 45\u00b0 (50mm)": "48/pc",
+            "PVC Coupling (100mm)": "28/pc",
+            "Vulca Seal": "60/pc"
+        }
+    },
+    "Legazpi Premium Marketing": {
+        "Electrical Works": {
+            "Electric Wire THWN/THHN 2.0mm2": "2,400/BOX",
+            "Electric Wire THWN/THHN 3.5mm2": "3,500/BOX",
+            "Electric Wire THWN/THHN 5.5mm2": "5,300/BOX",
+            "Single Gang Switch": "130/set",
+            "Two-Gang Switch": "165/set",
+            "Three-Gang Switch": "145/set",
+            "Duplex Convenience Outlet": "58/set",
+            "Heavy Duty Outlet": "85/set",
+            "Polarized 3-Prongs (ACU Outlet)": "180/set",
+            "Electrical Tape 3/4? x 20 YDS": "45/pc"
+        },
+        "Pipe and Fitting": {
+            "20mmdia UPVC\u00a0 pipe": "80/pc",
+            "20mmdia UPVC coupling": "12/pc",
+            "20mmdia\u00a0 UPVC adoptor": "18/pc"
+        },
+        "Miscellaneous and Consumables": {
+            "Electrical tape big": "45/pc",
+            "Rubber tape big": "140/pc",
+            "Solvent cement 100cc": "98/pc",
+            "Concrete nail no.3": "100/kl",
+            "CWN no.3": "65/kl",
+            "Terminal Lugs": "38/pc"
+        },
+        "Wires": {
+            "8.0mm2 THHN": "75/m",
+            "5.5mm2 THHN": "45/m",
+            "3.5mm2 THHN": "25/m",
+            "2.0mm2 THHN": "20/m"
+        },
+        "Masonry Works": {
+            "Concrete Hollow Blocks (CHB) 4?": "15/pc",
+            "Concrete Hollow Blocks (CHB) 6?": "18/pc",
+            "Washed sand": "600/cu.m",
+            "10 mm. Dia. x 6.0 M. DSB": "125/pc",
+            "Tie Wire #16": "70/kg"
+        },
+        "Stone Masonry": {
+            "Cement, 40 kg.": "225/bag",
+            "Sand": "600/cu.m",
+            "Gravel Fill": "700/cu.m"
+        },
+        "Filter Cloth": {
+            "Boulders": "650/cu.m",
+            "Screened Sand": "600/cu.m",
+            "Screened Gravel": "850/cu.m"
+        },
+        "Soil Poisoning \u2013 Termicide": {
+            "Gravel": "700/cu.m",
+            "Wash Sand": "600/cu.m",
+            "Portland Cement, 40kg": "250/bag",
+            "Pozzolan Cement, 40kg": "225/bag"
+        },
+        "Steel Bars": {
+            "\u00a010mm Diameter Deformed Bars": "125/pc",
+            "\u00a012mm Diameter Deformed Bars": "145/pc",
+            "\u00a016mm Diameter Deformed Bars": "345/pc",
+            "\u00a0#16 G.I. Tie Wire": "70/kg",
+            "Hacksaw Blade": "65/pc"
+        },
+        "Formworks": {
+            "\u00a02 x 3 x 10' Coco lumber": "270/pc",
+            "\u00a02 x 4 x 10 Coco lumber": "320/pc",
+            "\u00a01/2? x 4' x 8' Plywood": "700/pc",
+            "\u00a01?x2?x8' Hard wood or its equivalent": "180/pc",
+            "\u00a02?x2?x8' Hard wood or its equivalent": "280/pc",
+            "\u00a02?x2?x8\u2019Hardwood or its equivalent": "280/pc",
+            "Common Nail": "70/kg"
+        },
+        "Painting Works": {
+            "Paint Aluminum": "680/gal",
+            "Paint Enamel": "650/gal",
+            "Paint Latex Gloss": "650/gal",
+            "Paint Latex Semi-Gloss": "650/gal",
+            "Paint Red Lead": "430/gal",
+            "Thinner Paint": "220/gal",
+            "Thinner Lacquer": "230/gal",
+            "Paint Metal Epoxy": "450/gal",
+            "Paint Primer Solvent": "145/gal",
+            "Brush Paint (101mm)": "145/pc",
+            "Brush Roller (152mm)": "105/pc",
+            "Putty Knife": "30/pc",
+            "Roller paint # 9 w/ tray": "195/pc",
+            "2?paint brush": "45/pc",
+            "Paint thinner": "220/gal",
+            "Sand paper #120": "20/pc",
+            "Paint brush # 4": "85/pc",
+            "Paint brush # 2": "45/pc",
+            "Red Lead Primer": "380/gal"
+        },
+        "Plumbing and Sanitary Works": {
+            "100mm dia. PVC": "680/pc",
+            "75mm dia. PVC": "580/pc",
+            "PVC Clean Out w/ plug & sealing ring 100mm": "85/pc",
+            "PVC P-Trap w/ plug & sealing ring 50mm": "145/pc",
+            "PVC Tee (100mm)": "185/pc",
+            "PVC WYE (100mm)": "185/pc",
+            "PVC WYE REDUCER (100mmX50mm)": "185/pc",
+            "PVC WYE REDUCER (100mmX75mm)": "185/pc",
+            "PVC ELBOW 90\u00b0 (100mm)": "95/pc",
+            "PVC ELBOW 90\u00b0 (75mm)": "75/pc",
+            "PVC Elbow 90\u00b0 (50mm)": "65/pc",
+            "PVC Elbow 45\u00b0 (100mm)": "95/pc",
+            "PVC Elbow 45\u00b0 (75mm)": "85/pc",
+            "PVC Elbow 45\u00b0 (50mm)": "65/pc",
+            "PVC Coupling (100mm)": "85/pc",
+            "Vulca Seal": "58/pc"
+        }
+    },
+    "Legazpi Tools and Drill Shop": {
+        "Electrical Works": {
+            "Utility Box Gauge #16 (50mm x 101mm x 53mm) Deep": "22.75/pc",
+            "Square Box (101mm x 53mm) Deep Type Gague #16": "74.75/pc",
+            "Single Gang Switch": "89.75/set",
+            "Two-Gang Switch": "199.75/set",
+            "Three-Gang Switch": "109.75/set",
+            "Two-way Switch": "109.75/set",
+            "Duplex Convenience Outlet": "167.50/set",
+            "Polarized 3-Prongs (ACU Outlet)": "119.75/set",
+            "Electrical Tape 3/4? x 20 YDS": "38/pc"
+        },
+        "Miscellaneous and Consumables": {
+            "Electrical tape big": "38/pc",
+            "Concrete nail no.3": "100/kl",
+            "CWN no.3": "61/kl"
+        },
+        "Painting Works": {
+            "Paint Enamel": "545/gal",
+            "Paint Latex Gloss": "574/gal",
+            "Paint Latex Semi-Gloss": "574/gal",
+            "Brush Roller (152mm)": "45/pc",
+            "2?paint brush": "95/pc",
+            "Paint thinner": "355/gal",
+            "Sand paper #120": "15.75/pc",
+            "Paint brush # 2": "95/pc"
+        },
+        "Plumbing and Sanitary Works": {
+            "PVC ELBOW 90\u00b0 (75mm)": "64/pc",
+            "PVC Elbow 90\u00b0 (50mm)": "36/pc",
+            "PVC Elbow 45\u00b0 (75mm)": "52/pc",
+            "PVC Elbow 45\u00b0 (50mm)": "29/pc",
+            "Vulca Seal": "55/pc"
+        }
+    },
+    "Lightstone Construction and Supply": {
+        "Electrical Works": {
+            "Single Gang Switch": "70/set",
+            "Two-Gang Switch": "114/set",
+            "Three-Gang Switch": "158/set",
+            "Two-way Switch": "75/set",
+            "Duplex Convenience Outlet": "35/set"
+        },
+        "Pipe and Fitting": {
+            "20mmdia UPVC\u00a0 pipe": "67/pc",
+            "20mmdia UPVC coupling": "4/pc",
+            "20mmdia\u00a0 UPVC adoptor": "10/pc"
+        },
+        "Miscellaneous and Consumables": {
+            "Electrical tape big": "35/pc",
+            "Solvent cement 100cc": "80/pc",
+            "Concrete nail no.3": "100/kl",
+            "CWN no.3": "58/kl",
+            "Cable Tie": "5/pc"
+        },
+        "Wires": {
+            "8.0mm2 THHN": "55/m",
+            "5.5mm2 THHN": "35.50/m",
+            "3.5mm2 THHN": "23/m",
+            "2.0mm2 THHN": "15.75/m"
+        },
+        "Masonry Works": {
+            "10 mm. Dia. x 6.0 M. DSB": "120/pc"
+        },
+        "Stone Masonry": {
+            "Cement, 40 kg.": "225/bag"
+        },
+        "Soil Poisoning \u2013 Termicide": {
+            "Portland Cement, 40kg": "260/bag",
+            "Pozzolan Cement, 40kg": "240/bag"
+        },
+        "Steel Bars": {
+            "\u00a0#16 G.I. Tie Wire": "80/pc",
+            "Hacksaw Blade": "60/pc"
+        },
+        "Formworks": {
+            "\u00a01?x2?x8' Hard wood or its equivalent": "126/pc",
+            "\u00a02?x2?x8' Hard wood or its equivalent": "253.30/pc",
+            "Common Nail": "64/kg",
+            "Box Nail": "1480/kg"
+        },
+        "Painting Works": {
+            "Paint Latex Semi-Gloss": "610/gal",
+            "Thinner Paint": "365/gal",
+            "Thinner Lacquer": "425/gal",
+            "Concrete neutralizer": "435/gal",
+            "Putty Knife": "20/pc",
+            "Roller paint # 9 w/ tray": "140/pc",
+            "2?paint brush": "40/pc",
+            "Paint thinner": "265/gal",
+            "Sand paper #120": "20/pc",
+            "Paint brush # 4": "100/pc",
+            "Paint brush # 2": "40/pc."
+        },
+        "Plumbing and Sanitary Works": {
+            "100mm dia. PVC": "336/pc",
+            "75mm dia. PVC": "252/pc",
+            "50mm dia PVC (vp & wp)": "125/pc",
+            "PVC Clean Out w/ plug & sealing ring 100mm": "60/pc",
+            "PVC Clean Out w/ plug & sealing ring 150mm": "36/pc",
+            "PVC P-Trap w/ plug & sealing ring 50mm": "20/pc",
+            "PVC Tee (100mm)": "108/pc",
+            "PVC WYE (100mm)": "124/pc",
+            "PVC WYE REDUCER (100mmX50mm)": "114/pc",
+            "PVC WYE REDUCER (100mmX75mm)": "60/pc",
+            "PVC ELBOW 90\u00b0 (100mm)": "36/pc",
+            "PVC ELBOW 90\u00b0 (75mm)": "20/pc"
+        }
+    },
+    "*Lladones Marketing": {
+        "Electrical Works": {
+            "Two-Gang Switch": "120/set",
+            "Three-Gang Switch": "160/set",
+            "Two-way Switch": "150/set"
+        },
+        "Miscellaneous and Consumables": {
+            "Electrical tape big": "50/pc",
+            "Concrete nail no.3": "180/kl",
+            "CWN no.3": "70/kl"
+        },
+        "Masonry Works": {
+            "Concrete Hollow Blocks (CHB) 4?": "16/pc",
+            "Concrete Hollow Blocks (CHB) 6?": "20/pc"
+        },
+        "Stone Masonry": {
+            "Sand": "700/cu.m"
+        },
+        "Soil Poisoning \u2013 Termicide": {
+            "Gravel": "1,700/cu.m",
+            "Portland Cement, 40kg": "265/bag",
+            "Pozzolan Cement, 40kg": "250/bag"
+        },
+        "Steel Bars": {
+            "\u00a010mm Diameter Deformed Bars": "160/pc",
+            "\u00a012mm Diameter Deformed Bars": "260/pc",
+            "\u00a016mm Diameter Deformed Bars": "350/pc",
+            "Hacksaw Blade": "75/pc"
+        },
+        "Formworks": {
+            "\u00a02 x 3 x 10' Coco lumber": "125/pc",
+            "\u00a02 x 4 x 10 Coco lumber": "170/pc",
+            "\u00a01/2? x 4' x 8' Plywood": "950/pc",
+            "\u00a01?x2?x8' Hard wood or its equivalent": "90/pc",
+            "\u00a02?x2?x8' Hard wood or its equivalent": "190/pc",
+            "\u00a02?x2?x8\u2019Hardwood or its equivalent": "190/pc",
+            "\u00a02?x4?x8' Hard wood or its equivalent": "2,080/pc"
+        },
+        "Painting Works": {
+            "Putty Knife": "40/pc",
+            "2?paint brush": "35/pc",
+            "Paint thinner": "295/gal",
+            "Sand paper #120": "20/pc",
+            "Paint brush # 4": "95/pc",
+            "Paint brush # 2": "45/pc"
+        },
+        "Plumbing and Sanitary Works": {
+            "100mm dia. PVC": "395/pc",
+            "75mm dia. PVC": "295/pc",
+            "50mm dia PVC (vp & wp)": "195/pc",
+            "PVC Clean Out w/ plug & sealing ring 100mm": "95/pc",
+            "PVC Clean Out w/ plug & sealing ring 150mm": "220/pc",
+            "PVC Tee (100mm)": "95/pc",
+            "PVC WYE (100mm)": "95/pc",
+            "PVC WYE REDUCER (100mmX50mm)": "65/pc",
+            "PVC WYE REDUCER (100mmX75mm)": "65/pc",
+            "PVC ELBOW 90\u00b0 (100mm)": "75/pc",
+            "PVC ELBOW 90\u00b0 (75mm)": "65/pc",
+            "PVC Elbow 90\u00b0 (50mm)": "45/pc",
+            "PVC Elbow 45\u00b0 (100mm)": "85/pc",
+            "PVC Elbow 45\u00b0 (75mm)": "65/pc",
+            "PVC Elbow 45\u00b0 (50mm)": "45/pc",
+            "PVC Coupling (100mm)": "35/pc",
+            "Vulca Seal": "55/pc"
+        }
+    },
+    "M. Alcazar Lumber And Hardware": {
+        "Electrical Works": {
+            "Two-Gang Switch": "120/set",
+            "Three-Gang Switch": "160/set",
+            "Two-way Switch": "150/set"
+        },
+        "Miscellaneous and Consumables": {
+            "Electrical tape big": "50/pc",
+            "Concrete nail no.3": "180/kl",
+            "CWN no.3": "70/kl"
+        },
+        "Masonry Works": {
+            "Concrete Hollow Blocks (CHB) 4?": "16/pc",
+            "Concrete Hollow Blocks (CHB) 6?": "20/pc"
+        },
+        "Stone Masonry": {
+            "Sand": "700/cu.m"
+        },
+        "Soil Poisoning \u2013 Termicide": {
+            "Gravel": "1,700/cu.m",
+            "Portland Cement, 40kg": "265/bag",
+            "Pozzolan Cement, 40kg": "250/bag"
+        },
+        "Steel Bars": {
+            "\u00a010mm Diameter Deformed Bars": "160/pc",
+            "\u00a012mm Diameter Deformed Bars": "260/pc",
+            "\u00a016mm Diameter Deformed Bars": "350/pc",
+            "Hacksaw Blade": "75/pc"
+        },
+        "Formworks": {
+            "\u00a02 x 3 x 10' Coco lumber": "125/pc",
+            "\u00a02 x 4 x 10 Coco lumber": "170/pc",
+            "\u00a01/2? x 4' x 8' Plywood": "950/pc",
+            "\u00a01?x2?x8' Hard wood or its equivalent": "90/pc",
+            "\u00a02?x2?x8' Hard wood or its equivalent": "190/pc",
+            "\u00a02?x2?x8\u2019Hardwood or its equivalent": "190/pc",
+            "\u00a02?x4?x8' Hard wood or its equivalent": "2,080/pc"
+        },
+        "Painting Works": {
+            "Putty Knife": "40/pc",
+            "2?paint brush": "35/pc",
+            "Paint thinner": "295/gal",
+            "Sand paper #120": "20/pc",
+            "Paint brush # 4": "95/pc",
+            "Paint brush # 2": "45/pc"
+        },
+        "Plumbing and Sanitary Works": {
+            "100mm dia. PVC": "395/pc",
+            "75mm dia. PVC": "295/pc",
+            "50mm dia PVC (vp & wp)": "195/pc",
+            "PVC Clean Out w/ plug & sealing ring 100mm": "95/pc",
+            "PVC Clean Out w/ plug & sealing ring 150mm": "220/pc",
+            "PVC Tee (100mm)": "95/pc",
+            "PVC WYE (100mm)": "95/pc",
+            "PVC WYE REDUCER (100mmX50mm)": "65/pc",
+            "PVC WYE REDUCER (100mmX75mm)": "65/pc",
+            "PVC ELBOW 90\u00b0 (100mm)": "75/pc",
+            "PVC ELBOW 90\u00b0 (75mm)": "65/pc",
+            "PVC Elbow 90\u00b0 (50mm)": "45/pc",
+            "PVC Elbow 45\u00b0 (100mm)": "85/pc",
+            "PVC Elbow 45\u00b0 (75mm)": "65/pc",
+            "PVC Elbow 45\u00b0 (50mm)": "45/pc",
+            "PVC Coupling (100mm)": "35/pc",
+            "Vulca Seal": "55/pc"
+        }
+    },
+    "Mega Orosteel Marketing Corporation": {
+        "Electrical Works": {
+            "Single Gang Switch": "70/set",
+            "Two-Gang Switch": "114/set",
+            "Three-Gang Switch": "158/set",
+            "Two-way Switch": "75/set",
+            "Duplex Convenience Outlet": "35/set"
+        },
+        "Pipe and Fitting": {
+            "20mmdia UPVC\u00a0 pipe": "67/pc",
+            "20mmdia UPVC coupling": "4/pc",
+            "20mmdia\u00a0 UPVC adoptor": "10/pc"
+        },
+        "Miscellaneous and Consumables": {
+            "Electrical tape big": "35/pc",
+            "Solvent cement 100cc": "80/pc",
+            "Concrete nail no.3": "100/kl",
+            "CWN no.3": "58/kl",
+            "Cable Tie": "5/pc"
+        },
+        "Wires": {
+            "8.0mm2 THHN": "55/m",
+            "5.5mm2 THHN": "35.50/m",
+            "3.5mm2 THHN": "23/m",
+            "2.0mm2 THHN": "15.75/m"
+        },
+        "Masonry Works": {
+            "10 mm. Dia. x 6.0 M. DSB": "120/pc"
+        },
+        "Stone Masonry": {
+            "Cement, 40 kg.": "225/bag"
+        },
+        "Soil Poisoning \u2013 Termicide": {
+            "Portland Cement, 40kg": "260/bag",
+            "Pozzolan Cement, 40kg": "240/bag"
+        },
+        "Steel Bars": {
+            "\u00a0#16 G.I. Tie Wire": "80/pc",
+            "Hacksaw Blade": "60/pc"
+        },
+        "Formworks": {
+            "\u00a01?x2?x8' Hard wood or its equivalent": "126/pc",
+            "\u00a02?x2?x8' Hard wood or its equivalent": "253.30/pc",
+            "Common Nail": "64/kg",
+            "Box Nail": "1480/kg"
+        },
+        "Painting Works": {
+            "Paint Latex Semi-Gloss": "610/gal",
+            "Thinner Paint": "365/gal",
+            "Thinner Lacquer": "425/gal",
+            "Concrete neutralizer": "435/gal",
+            "Putty Knife": "20/pc",
+            "Roller paint # 9 w/ tray": "140/pc",
+            "2?paint brush": "40/pc",
+            "Paint thinner": "265/gal",
+            "Sand paper #120": "20/pc",
+            "Paint brush # 4": "100/pc",
+            "Paint brush # 2": "40/pc."
+        },
+        "Plumbing and Sanitary Works": {
+            "100mm dia. PVC": "336/pc",
+            "75mm dia. PVC": "252/pc",
+            "50mm dia PVC (vp & wp)": "125/pc",
+            "PVC Clean Out w/ plug & sealing ring 100mm": "60/pc",
+            "PVC Clean Out w/ plug & sealing ring 150mm": "36/pc",
+            "PVC P-Trap w/ plug & sealing ring 50mm": "20/pc",
+            "PVC Tee (100mm)": "108/pc",
+            "PVC WYE (100mm)": "124/pc",
+            "PVC WYE REDUCER (100mmX50mm)": "114/pc",
+            "PVC WYE REDUCER (100mmX75mm)": "60/pc",
+            "PVC ELBOW 90\u00b0 (100mm)": "36/pc",
+            "PVC ELBOW 90\u00b0 (75mm)": "20/pc"
+        }
+    },
+    "Metalex General Merchandise": {
+        "Electrical Works": {
+            "Electric Wire THWN/THHN 3.5mm2": "3,800/BOX",
+            "Single Gang Switch": "80/set",
+            "Two-Gang Switch": "130/set",
+            "Three-Gang Switch": "180/set",
+            "Duplex Convenience Outlet": "130/set",
+            "Heavy Duty Outlet": "75/set"
+        },
+        "Miscellaneous and Consumables": {
+            "Electrical tape big": "45/pc",
+            "Solvent cement 100cc": "115/pc",
+            "Concrete nail no.3": "120/kl",
+            "CWN no.3": "70/kl"
+        },
+        "Masonry Works": {
+            "Tie Wire #16": "100/kg"
+        },
+        "Steel Bars": {
+            "\u00a0#16 G.I. Tie Wire": "100/kg",
+            "Hacksaw Blade": "65/pc"
+        },
+        "Formworks": {
+            "Common Nail": "85/kg"
+        },
+        "Painting Works": {
+            "Spar Varnish": "405/ltr",
+            "Putty Knife": "35/pc",
+            "Sand paper #120": "20/pc",
+            "Paint brush # 4": "95/pc",
+            "Paint brush # 2": "45/pc"
+        }
+    },
+    "Morante Builders and Supply": {
+        "Electrical Works": {
+            "Electric Wire THWN/THHN 2.0mm2": "2,400/BOX",
+            "Electric Wire THWN/THHN 3.5mm2": "3,500/BOX",
+            "Electric Wire THWN/THHN 5.5mm2": "5,300/BOX",
+            "Single Gang Switch": "130/set",
+            "Two-Gang Switch": "165/set",
+            "Three-Gang Switch": "145/set",
+            "Duplex Convenience Outlet": "58/set",
+            "Heavy Duty Outlet": "85/set",
+            "Polarized 3-Prongs (ACU Outlet)": "180/set",
+            "Electrical Tape 3/4? x 20 YDS": "45/pc"
+        },
+        "Pipe and Fitting": {
+            "20mmdia UPVC\u00a0 pipe": "80/pc",
+            "20mmdia UPVC coupling": "12/pc",
+            "20mmdia\u00a0 UPVC adoptor": "18/pc"
+        },
+        "Miscellaneous and Consumables": {
+            "Electrical tape big": "45/pc",
+            "Rubber tape big": "140/pc",
+            "Solvent cement 100cc": "98/pc",
+            "Concrete nail no.3": "100/kl",
+            "CWN no.3": "65/kl",
+            "Terminal Lugs": "38/pc"
+        },
+        "Wires": {
+            "8.0mm2 THHN": "75/m",
+            "5.5mm2 THHN": "45/m",
+            "3.5mm2 THHN": "25/m",
+            "2.0mm2 THHN": "20/m"
+        },
+        "Masonry Works": {
+            "Concrete Hollow Blocks (CHB) 4?": "15/pc",
+            "Concrete Hollow Blocks (CHB) 6?": "18/pc",
+            "Washed sand": "600/cu.m",
+            "10 mm. Dia. x 6.0 M. DSB": "125/pc",
+            "Tie Wire #16": "70/kg"
+        },
+        "Stone Masonry": {
+            "Cement, 40 kg.": "225/bag",
+            "Sand": "600/cu.m",
+            "Gravel Fill": "700/cu.m"
+        },
+        "Filter Cloth": {
+            "Boulders": "650/cu.m",
+            "Screened Sand": "600/cu.m",
+            "Screened Gravel": "850/cu.m"
+        },
+        "Soil Poisoning \u2013 Termicide": {
+            "Gravel": "700/cu.m",
+            "Wash Sand": "600/cu.m",
+            "Portland Cement, 40kg": "250/bag",
+            "Pozzolan Cement, 40kg": "225/bag"
+        },
+        "Steel Bars": {
+            "\u00a010mm Diameter Deformed Bars": "125/pc",
+            "\u00a012mm Diameter Deformed Bars": "145/pc",
+            "\u00a016mm Diameter Deformed Bars": "345/pc",
+            "\u00a0#16 G.I. Tie Wire": "70/kg",
+            "Hacksaw Blade": "65/pc"
+        },
+        "Formworks": {
+            "\u00a02 x 3 x 10' Coco lumber": "270/pc",
+            "\u00a02 x 4 x 10 Coco lumber": "320/pc",
+            "\u00a01/2? x 4' x 8' Plywood": "700/pc",
+            "\u00a01?x2?x8' Hard wood or its equivalent": "180/pc",
+            "\u00a02?x2?x8' Hard wood or its equivalent": "280/pc",
+            "\u00a02?x2?x8\u2019Hardwood or its equivalent": "280/pc",
+            "Common Nail": "70/kg"
+        },
+        "Painting Works": {
+            "Paint Aluminum": "680/gal",
+            "Paint Enamel": "650/gal",
+            "Paint Latex Gloss": "650/gal",
+            "Paint Latex Semi-Gloss": "650/gal",
+            "Paint Red Lead": "430/gal",
+            "Thinner Paint": "220/gal",
+            "Thinner Lacquer": "230/gal",
+            "Paint Metal Epoxy": "450/gal",
+            "Paint Primer Solvent": "145/gal",
+            "Brush Paint (101mm)": "145/pc",
+            "Brush Roller (152mm)": "105/pc",
+            "Putty Knife": "30/pc",
+            "Roller paint # 9 w/ tray": "195/pc",
+            "2?paint brush": "45/pc",
+            "Paint thinner": "220/gal",
+            "Sand paper #120": "20/pc",
+            "Paint brush # 4": "85/pc",
+            "Paint brush # 2": "45/pc",
+            "Red Lead Primer": "380/gal"
+        },
+        "Plumbing and Sanitary Works": {
+            "100mm dia. PVC": "680/pc",
+            "75mm dia. PVC": "580/pc",
+            "PVC Clean Out w/ plug & sealing ring 100mm": "85/pc",
+            "PVC P-Trap w/ plug & sealing ring 50mm": "145/pc",
+            "PVC Tee (100mm)": "185/pc",
+            "PVC WYE (100mm)": "185/pc",
+            "PVC WYE REDUCER (100mmX50mm)": "185/pc",
+            "PVC WYE REDUCER (100mmX75mm)": "185/pc",
+            "PVC ELBOW 90\u00b0 (100mm)": "95/pc",
+            "PVC ELBOW 90\u00b0 (75mm)": "75/pc",
+            "PVC Elbow 90\u00b0 (50mm)": "65/pc",
+            "PVC Elbow 45\u00b0 (100mm)": "95/pc",
+            "PVC Elbow 45\u00b0 (75mm)": "85/pc",
+            "PVC Elbow 45\u00b0 (50mm)": "65/pc",
+            "PVC Coupling (100mm)": "85/pc",
+            "Vulca Seal": "58/pc"
+        }
+    },
+    "*Otowe Hardware and Construction Supplies": {
+        "Electrical Works": {
+            "Electric Wire THWN/THHN 2.0mm2": "2,400/BOX",
+            "Electric Wire THWN/THHN 3.5mm2": "3,500/BOX",
+            "Electric Wire THWN/THHN 5.5mm2": "5,300/BOX",
+            "Single Gang Switch": "130/set",
+            "Two-Gang Switch": "165/set",
+            "Three-Gang Switch": "145/set",
+            "Duplex Convenience Outlet": "58/set",
+            "Heavy Duty Outlet": "85/set",
+            "Polarized 3-Prongs (ACU Outlet)": "180/set",
+            "Electrical Tape 3/4? x 20 YDS": "45/pc"
+        },
+        "Pipe and Fitting": {
+            "20mmdia UPVC\u00a0 pipe": "80/pc",
+            "20mmdia UPVC coupling": "12/pc",
+            "20mmdia\u00a0 UPVC adoptor": "18/pc"
+        },
+        "Miscellaneous and Consumables": {
+            "Electrical tape big": "45/pc",
+            "Rubber tape big": "140/pc",
+            "Solvent cement 100cc": "98/pc",
+            "Concrete nail no.3": "100/kl",
+            "CWN no.3": "65/kl",
+            "Terminal Lugs": "38/pc"
+        },
+        "Wires": {
+            "8.0mm2 THHN": "75/m",
+            "5.5mm2 THHN": "45/m",
+            "3.5mm2 THHN": "25/m",
+            "2.0mm2 THHN": "20/m"
+        },
+        "Masonry Works": {
+            "Concrete Hollow Blocks (CHB) 4?": "15/pc",
+            "Concrete Hollow Blocks (CHB) 6?": "18/pc",
+            "Washed sand": "600/cu.m",
+            "10 mm. Dia. x 6.0 M. DSB": "125/pc",
+            "Tie Wire #16": "70/kg"
+        },
+        "Stone Masonry": {
+            "Cement, 40 kg.": "225/bag",
+            "Sand": "600/cu.m",
+            "Gravel Fill": "700/cu.m"
+        },
+        "Filter Cloth": {
+            "Boulders": "650/cu.m",
+            "Screened Sand": "600/cu.m",
+            "Screened Gravel": "850/cu.m"
+        },
+        "Soil Poisoning \u2013 Termicide": {
+            "Gravel": "700/cu.m",
+            "Wash Sand": "600/cu.m",
+            "Portland Cement, 40kg": "250/bag",
+            "Pozzolan Cement, 40kg": "225/bag"
+        },
+        "Steel Bars": {
+            "\u00a010mm Diameter Deformed Bars": "125/pc",
+            "\u00a012mm Diameter Deformed Bars": "145/pc",
+            "\u00a016mm Diameter Deformed Bars": "345/pc",
+            "\u00a0#16 G.I. Tie Wire": "70/kg",
+            "Hacksaw Blade": "65/pc"
+        },
+        "Formworks": {
+            "\u00a02 x 3 x 10' Coco lumber": "270/pc",
+            "\u00a02 x 4 x 10 Coco lumber": "320/pc",
+            "\u00a01/2? x 4' x 8' Plywood": "700/pc",
+            "\u00a01?x2?x8' Hard wood or its equivalent": "180/pc",
+            "\u00a02?x2?x8' Hard wood or its equivalent": "280/pc",
+            "\u00a02?x2?x8\u2019Hardwood or its equivalent": "280/pc",
+            "Common Nail": "70/kg"
+        },
+        "Painting Works": {
+            "Paint Aluminum": "680/gal",
+            "Paint Enamel": "650/gal",
+            "Paint Latex Gloss": "650/gal",
+            "Paint Latex Semi-Gloss": "650/gal",
+            "Paint Red Lead": "430/gal",
+            "Thinner Paint": "220/gal",
+            "Thinner Lacquer": "230/gal",
+            "Paint Metal Epoxy": "450/gal",
+            "Paint Primer Solvent": "145/gal",
+            "Brush Paint (101mm)": "145/pc",
+            "Brush Roller (152mm)": "105/pc",
+            "Putty Knife": "30/pc",
+            "Roller paint # 9 w/ tray": "195/pc",
+            "2?paint brush": "45/pc",
+            "Paint thinner": "220/gal",
+            "Sand paper #120": "20/pc",
+            "Paint brush # 4": "85/pc",
+            "Paint brush # 2": "45/pc",
+            "Red Lead Primer": "380/gal"
+        },
+        "Plumbing and Sanitary Works": {
+            "100mm dia. PVC": "680/pc",
+            "75mm dia. PVC": "580/pc",
+            "PVC Clean Out w/ plug & sealing ring 100mm": "85/pc",
+            "PVC P-Trap w/ plug & sealing ring 50mm": "145/pc",
+            "PVC Tee (100mm)": "185/pc",
+            "PVC WYE (100mm)": "185/pc",
+            "PVC WYE REDUCER (100mmX50mm)": "185/pc",
+            "PVC WYE REDUCER (100mmX75mm)": "185/pc",
+            "PVC ELBOW 90\u00b0 (100mm)": "95/pc",
+            "PVC ELBOW 90\u00b0 (75mm)": "75/pc",
+            "PVC Elbow 90\u00b0 (50mm)": "65/pc",
+            "PVC Elbow 45\u00b0 (100mm)": "95/pc",
+            "PVC Elbow 45\u00b0 (75mm)": "85/pc",
+            "PVC Elbow 45\u00b0 (50mm)": "65/pc",
+            "PVC Coupling (100mm)": "85/pc",
+            "Vulca Seal": "58/pc"
+        }
+    },
+    "Providence Trading Inc.": {
+        "Electrical Works": {
+            "Electric Wire THWN/THHN 3.5mm2": "3,800/BOX",
+            "Single Gang Switch": "80/set",
+            "Two-Gang Switch": "130/set",
+            "Three-Gang Switch": "180/set",
+            "Duplex Convenience Outlet": "130/set",
+            "Heavy Duty Outlet": "75/set"
+        },
+        "Miscellaneous and Consumables": {
+            "Electrical tape big": "45/pc",
+            "Solvent cement 100cc": "115/pc",
+            "Concrete nail no.3": "120/kl",
+            "CWN no.3": "70/kl"
+        },
+        "Masonry Works": {
+            "Tie Wire #16": "100/kg"
+        },
+        "Steel Bars": {
+            "\u00a0#16 G.I. Tie Wire": "100/kg",
+            "Hacksaw Blade": "65/pc"
+        },
+        "Formworks": {
+            "Common Nail": "85/kg"
+        },
+        "Painting Works": {
+            "Spar Varnish": "405/ltr",
+            "Putty Knife": "35/pc",
+            "Sand paper #120": "20/pc",
+            "Paint brush # 4": "95/pc",
+            "Paint brush # 2": "45/pc"
+        }
+    },
+    "Ro-cel Trading": {
+        "Electrical Works": {
+            "Bushing and Locknut (12.7mm)": "18/pc",
+            "Bushing and Locknut (19mm)": "28/pc",
+            "Bushing and Locknut (25.4mm)": "48/pc",
+            "PVC Conduit Pipe (3m x 12.7mm D)": "265/pc",
+            "PVC Conduit Pipe (3m x 19mm D)": "458/pc",
+            "PVC Conduit Pipe (3m x 25.4mm D)": "690/pc",
+            "PVC Conduit Elbow 90 Degrees (25.4mm D)": "58/pc",
+            "PVC Adapter with Locknut (12.7mm D)": "58/pc",
+            "PVC Adapter with Locknut (19mm D)": "38/pc",
+            "PVC Adapter with Locknut (25.4mm D)": "68/pc",
+            "RS Conduit Coupling (12.7mm D)": "38/pc",
+            "RS Conduit Coupling (25.4mm D)": "65/pc",
+            "PVC Conduit Coupling (12.7mm D)": "38/pc",
+            "PVC Conduit Coupling (19mm D)": "52/pc",
+            "PVC Conduit Coupling (25.4mm D)": "49/pc",
+            "Octagonal Junction Box Type Gauge #16 (101mm x 101mm x 53mm) Deep": "92/pc",
+            "Utility Box Gauge #16 (50mm x 101mm x 53mm) Deep": "75/pc",
+            "Square Box (101mm x 53mm) Deep Type Gague #16": "235/pc",
+            "Square Box (101mm x 63mm) Deep Type Gague #16": "300/pc",
+            "Metal Pull Box (152mm x 152mm x 101mm) Gauge #16": "950/pc",
+            "Metal Pull Box (304mm x 304mm x 101mm) Gauge #16": "1,350/pc",
+            "Mica Tubing": "48/pc",
+            "Electric Wire THWN/THHN 2.0mm2": "2,450/BOX",
+            "Electric Wire THWN/THHN 3.5mm2": "3,600/BOX",
+            "Electric Wire THWN/THHN 5.5mm2": "5620/BOX",
+            "Single Gang Switch": "125/set",
+            "Two-Gang Switch": "180/set",
+            "Three-Gang Switch": "265/set",
+            "Two-way Switch": "195/set",
+            "Duplex Convenience Outlet": "265/set",
+            "Heavy Duty Outlet": "135/set",
+            "Electrical Tape 3/4? x 20 YDS": "39/pc"
+        },
+        "Pipe and Fitting": {
+            "20mmdia UPVC\u00a0 pipe": "65/pc",
+            "20mmdia RSC conduit": "265/pc",
+            "20mmdia RSC coupling": "20/pc",
+            "20mmdia UPVC coupling": "20/pc",
+            "20mmdia\u00a0 UPVC adoptor": "15/pc",
+            "20mm dia. Locknut& bushing": "28/pc",
+            "20mm dia. RSC Locknut& bushing": "28/pc"
+        },
+        "Boxes and Gutter": {
+            "Junction box depth type,metal gauge 16 w/ cover": "85/pc",
+            "Utility box depth type, metal gauge 16 w/cover": "78/pc",
+            "4\u00d74 square box depth, metal gauge 16 w/cover": "165/pc"
+        },
+        "Miscellaneous and Consumables": {
+            "Electrical tape big": "40/pc",
+            "Concrete nail no.3": "100/kl",
+            "CWN no.3": "55/kl",
+            "Terminal Lugs": "52/pc",
+            "Cable Tie": "128/pc"
+        },
+        "Wires": {
+            "8.0mm2 THHN": "65/m",
+            "5.5mm2 THHN": "47/m",
+            "3.5mm2 THHN": "26/m",
+            "2.0mm2 THHN": "22/m"
+        },
+        "Masonry Works": {
+            "Concrete Hollow Blocks (CHB) 4?": "15/pc",
+            "Concrete Hollow Blocks (CHB) 6?": "23/pc",
+            "Washed sand": "580/cu.m",
+            "10 mm. Dia. x 6.0 M. DSB": "120/pc",
+            "Tie Wire #16": "75/kg"
+        },
+        "Stone Masonry": {
+            "Cement, 40 kg.": "245/bag",
+            "Sand": "580/cu.m",
+            "Gravel Fill": "550/cu.m"
+        },
+        "Filter Cloth": {
+            "Boulders": "550/cu.m"
+        },
+        "Soil Poisoning \u2013 Termicide": {
+            "Gravel": "1,100/cu.m",
+            "Wash Sand": "850/cu.m",
+            "Portland Cement, 40kg": "245/bag",
+            "Pozzolan Cement, 40kg": "220/bag"
+        },
+        "Steel Bars": {
+            "\u00a010mm Diameter Deformed Bars": "120/pc",
+            "\u00a012mm Diameter Deformed Bars": "170/pc",
+            "\u00a016mm Diameter Deformed Bars": "330/pc",
+            "\u00a0#16 G.I. Tie Wire": "70/kg",
+            "Hacksaw Blade": "65/pc"
+        },
+        "Formworks": {
+            "\u00a02 x 3 x 10' Coco lumber": "150/pc",
+            "\u00a02 x 4 x 10 Coco lumber": "150/pc",
+            "\u00a01/2? x 4' x 8' Plywood": "880/pc",
+            "\u00a01?x2?x8' Hard wood or its equivalent": "295/pc",
+            "\u00a02?x2?x8' Hard wood or its equivalent": "300/pc"
+        },
+        "Painting Works": {
+            "Paint Latex Semi-Gloss": "571/gal",
+            "Thinner Paint": "265/gal",
+            "Thinner Lacquer": "245/gal",
+            "Paint Metal Epoxy": "740/gal",
+            "Brush Paint (101mm)": "135/pc",
+            "Brush Roller (152mm)": "135/pc",
+            "Brush Steel (101mm)": "85/pc",
+            "Spar Varnish": "450/ltr",
+            "Lacquer Putty": "220/kg",
+            "Concrete neutralizer": "460/gal",
+            "Putty Knife": "48/pc",
+            "Roller paint # 9 w/ tray": "148/pc",
+            "2?paint brush": "38/pc",
+            "Paint thinner": "285/gal",
+            "Sand paper #120": "20/pc",
+            "Paint brush # 4": "58/pc",
+            "Paint brush # 2": "38/pc"
+        },
+        "Plumbing and Sanitary Works": {
+            "100mm dia. PVC": "720/pc",
+            "PVC Clean Out w/ plug & sealing ring 100mm": "68/pc",
+            "PVC Clean Out w/ plug & sealing ring 150mm": "480/pc",
+            "PVC P-Trap w/ plug & sealing ring 50mm": "88/pc",
+            "PVC Te (150mm)": "1,350/pc",
+            "PVC Tee (100mm)": "245/pc",
+            "PVC WYE (100mm)": "245/pc",
+            "PVC WYE REDUCER (100mmX50mm)": "185/pc",
+            "PVC WYE REDUCER (100mmX75mm)": "185/pc",
+            "PVC ELBOW 90\u00b0 (100mm)": "81/pc",
+            "PVC Elbow 90\u00b0 (50mm)": "88/pc",
+            "PVC Elbow 45\u00b0 (100mm)": "81/pc",
+            "PVC Elbow 45\u00b0 (75mm)": "65/pc",
+            "PVC Elbow 45\u00b0 (50mm)": "48/pc",
+            "PVC Coupling (100mm)": "28/pc",
+            "Vulca Seal": "60/pc"
+        }
+    },
+    "*Saverite Builders Supply": {
+        "Electrical Works": {
+            "Bushing and Locknut (12.7mm)": "14/pc",
+            "Bushing and Locknut (19mm)": "20/pc",
+            "Bushing and Locknut (25.4mm)": "24/pc",
+            "PVC Conduit Pipe (3m x 12.7mm D)": "82/pc",
+            "PVC Conduit Pipe (3m x 19mm D)": "130/pc",
+            "PVC Conduit Pipe (3m x 25.4mm D)": "165/pc",
+            "PVC Conduit Elbow 90 Degrees (25.4mm D)": "48/pc",
+            "PVC Adapter with Locknut (12.7mm D)": "10/pc",
+            "PVC Adapter with Locknut (19mm D)": "12/pc",
+            "PVC Adapter with Locknut (25.4mm D)": "15/pc",
+            "RS Conduit Coupling (12.7mm D)": "165/pc",
+            "RS Conduit Coupling (25.4mm D)": "14/pc",
+            "PVC Conduit Coupling (12.7mm D)": "6/pc",
+            "PVC Conduit Coupling (19mm D)": "9/pc",
+            "PVC Conduit Coupling (25.4mm D)": "20/pc",
+            "Octagonal Junction Box Type Gauge #16 (101mm x 101mm x 53mm) Deep": "32/pc",
+            "Utility Box Gauge #16 (50mm x 101mm x 53mm) Deep": "26/pc",
+            "Square Box (101mm x 53mm) Deep Type Gague #16": "135/pc",
+            "Square Box (101mm x 63mm) Deep Type Gague #16": "135/pc",
+            "Metal Pull Box (152mm x 152mm x 101mm) Gauge #16": "288/pc",
+            "Metal Pull Box (304mm x 304mm x 101mm) Gauge #16": "760/pc",
+            "Mica Tubing": "40/pc",
+            "Electric Wire THWN/THHN 2.0mm2": "2,278/BOX",
+            "Electric Wire THWN/THHN 3.5mm2": "3,342/BOX",
+            "Electric Wire THWN/THHN 5.5mm2": "5,115/BOX",
+            "Single Gang Switch": "67/set",
+            "Two-Gang Switch": "109/set",
+            "Three-Gang Switch": "151/set",
+            "Two-way Switch": "136/set",
+            "Duplex Convenience Outlet": "195/set",
+            "Heavy Duty Outlet": "109/set",
+            "Polarized 3-Prongs (ACU Outlet)": "125/set",
+            "Electrical Tape 3/4? x 20 YDS": "37/pc"
+        },
+        "Pipe and Fitting": {
+            "20mmdia UPVC\u00a0 pipe": "82/pc",
+            "20mmdia RSC conduit": "245/pc",
+            "20mmdia RSC coupling": "14/pc",
+            "20mmdia UPVC coupling": "5/pc",
+            "20mmdia\u00a0 UPVC adoptor": "10/pc",
+            "20mm dia. Locknut& bushing": "14/pc",
+            "20mm dia. RSC Locknut& bushing": "14/pc"
+        },
+        "Boxes and Gutter": {
+            "Junction box depth type,metal gauge 16 w/ cover": "32/pc",
+            "Utility box depth type, metal gauge 16 w/cover": "26/pc",
+            "4\u00d74 square box depth, metal gauge 16 w/cover": "135/pc"
+        },
+        "Miscellaneous and Consumables": {
+            "Electrical tape big": "37/pc",
+            "Rubber tape big": "125/pc",
+            "Solvent cement 100cc": "100/pc",
+            "G.I. Wire No. 12": "70/kl",
+            "Concrete nail no.3": "90/kl",
+            "CWN no.3": "56/kl",
+            "Terminal Lugs": "190/lot",
+            "Cable Tie": "165/pc"
+        },
+        "Wires": {
+            "8.0mm2 THHN": "62/m",
+            "5.5mm2 THHN": "40/m",
+            "3.5mm2 THHN": "26/m",
+            "2.0mm2 THHN": "18/m"
+        },
+        "Masonry Works": {
+            "10 mm. Dia. x 6.0 M. DSB": "120/pc",
+            "Tie Wire #16": "70/kg"
+        },
+        "Stone Masonry": {
+            "Cement, 40 kg.": "255/bag"
+        },
+        "Soil Poisoning \u2013 Termicide": {
+            "Portland Cement, 40kg": "255/bag",
+            "Pozzolan Cement, 40kg": "220/bag"
+        },
+        "Steel Bars": {
+            "\u00a010mm Diameter Deformed Bars": "120/pc",
+            "\u00a012mm Diameter Deformed Bars": "175/pc",
+            "\u00a016mm Diameter Deformed Bars": "320/pc",
+            "\u00a020mm Diameter Deformed Bars": "540/pc",
+            "\u00a0#16 G.I. Tie Wire": "70/kg",
+            "Hacksaw Blade": "60/pc"
+        },
+        "Formworks": {
+            "\u00a01/2? x 4' x 8' Plywood": "795/pc",
+            "\u00a06mm thk. Lawanit board": "260/pc",
+            "\u00a06mm thk. Ordinary Plywood": "560/pc",
+            "\u00a01?x2?x8' Hard wood or its equivalent": "138/pc",
+            "\u00a02?x2?x8' Hard wood or its equivalent": "254/pc",
+            "\u00a02?x2?x8\u2019Hardwood or its equivalent": "254/pc",
+            "\u00a02?x4?x8' Hard wood or its equivalent": "534/pc",
+            "Common Nail": "64/kg",
+            "Box Nail": "1,300/kg"
+        },
+        "Painting Works": {
+            "Paint Tinting Color": "460/ltr",
+            "Paint Aluminum": "650/gal",
+            "Paint Enamel": "630/gal",
+            "Paint Latex Gloss": "585/gal",
+            "Paint Latex Semi-Gloss": "585/gal",
+            "Paint Red Lead": "395/gal",
+            "Thinner Paint": "250/gal",
+            "Thinner Lacquer": "230/gal",
+            "Brush Paint (101mm)": "145/pc",
+            "Brush Roller (152mm)": "85/pc",
+            "Brush Steel (101mm)": "52/pc",
+            "Oil Paint": "135/ltr",
+            "Spar Varnish": "345/ltr",
+            "Lacquer Putty": "680/gal",
+            "Concrete neutralizer": "485/gal",
+            "Putty Knife": "30/pc",
+            "Roller paint # 9 w/ tray": "127/pc",
+            "2?paint brush": "50/pc",
+            "Paint thinner": "250/gal",
+            "Sand paper #120": "17/pc",
+            "Paint brush # 4": "145/pc",
+            "Paint brush # 2": "50/pc",
+            "Red Lead Primer": "395/gal"
+        },
+        "Plumbing and Sanitary Works": {
+            "100mm dia. PVC": "786/pc",
+            "75mm dia. PVC": "590/pc",
+            "50mm dia PVC (vp & wp)": "275/pc",
+            "PVC Clean Out w/ plug & sealing ring 100mm": "84/pc",
+            "PVC Clean Out w/ plug & sealing ring 150mm": "395/pc",
+            "PVC P-Trap w/ plug & sealing ring 50mm": "110/pc",
+            "PVC Te (150mm)": "1,027/pc",
+            "PVC Tee (100mm)": "192/pc",
+            "PVC WYE (100mm)": "171/pc",
+            "PVC WYE REDUCER (100mmX50mm)": "142/pc",
+            "PVC WYE REDUCER (100mmX75mm)": "225/pc",
+            "PVC ELBOW 90\u00b0 (100mm)": "107/pc",
+            "PVC ELBOW 90\u00b0 (75mm)": "64/pc"
+        }
+    },
+    "*Sherwin Marketing": {
+        "Electrical Works": {
+            "Single Gang Switch": "70/set",
+            "Two-Gang Switch": "114/set",
+            "Three-Gang Switch": "158/set",
+            "Two-way Switch": "75/set",
+            "Duplex Convenience Outlet": "35/set"
+        },
+        "Pipe and Fitting": {
+            "20mmdia UPVC\u00a0 pipe": "67/pc",
+            "20mmdia UPVC coupling": "4/pc",
+            "20mmdia\u00a0 UPVC adoptor": "10/pc"
+        },
+        "Miscellaneous and Consumables": {
+            "Electrical tape big": "35/pc",
+            "Solvent cement 100cc": "80/pc",
+            "Concrete nail no.3": "100/kl",
+            "CWN no.3": "58/kl",
+            "Cable Tie": "5/pc"
+        },
+        "Wires": {
+            "8.0mm2 THHN": "55/m",
+            "5.5mm2 THHN": "35.50/m",
+            "3.5mm2 THHN": "23/m",
+            "2.0mm2 THHN": "15.75/m"
+        },
+        "Masonry Works": {
+            "10 mm. Dia. x 6.0 M. DSB": "120/pc"
+        },
+        "Stone Masonry": {
+            "Cement, 40 kg.": "225/bag"
+        },
+        "Soil Poisoning \u2013 Termicide": {
+            "Portland Cement, 40kg": "260/bag",
+            "Pozzolan Cement, 40kg": "240/bag"
+        },
+        "Steel Bars": {
+            "\u00a0#16 G.I. Tie Wire": "80/pc",
+            "Hacksaw Blade": "60/pc"
+        },
+        "Formworks": {
+            "\u00a01?x2?x8' Hard wood or its equivalent": "126/pc",
+            "\u00a02?x2?x8' Hard wood or its equivalent": "253.30/pc",
+            "Common Nail": "64/kg",
+            "Box Nail": "1480/kg"
+        },
+        "Painting Works": {
+            "Paint Latex Semi-Gloss": "610/gal",
+            "Thinner Paint": "365/gal",
+            "Thinner Lacquer": "425/gal",
+            "Concrete neutralizer": "435/gal",
+            "Putty Knife": "20/pc",
+            "Roller paint # 9 w/ tray": "140/pc",
+            "2?paint brush": "40/pc",
+            "Paint thinner": "265/gal",
+            "Sand paper #120": "20/pc",
+            "Paint brush # 4": "100/pc",
+            "Paint brush # 2": "40/pc."
+        },
+        "Plumbing and Sanitary Works": {
+            "100mm dia. PVC": "336/pc",
+            "75mm dia. PVC": "252/pc",
+            "50mm dia PVC (vp & wp)": "125/pc",
+            "PVC Clean Out w/ plug & sealing ring 100mm": "60/pc",
+            "PVC Clean Out w/ plug & sealing ring 150mm": "36/pc",
+            "PVC P-Trap w/ plug & sealing ring 50mm": "20/pc",
+            "PVC Tee (100mm)": "108/pc",
+            "PVC WYE (100mm)": "124/pc",
+            "PVC WYE REDUCER (100mmX50mm)": "114/pc",
+            "PVC WYE REDUCER (100mmX75mm)": "60/pc",
+            "PVC ELBOW 90\u00b0 (100mm)": "36/pc",
+            "PVC ELBOW 90\u00b0 (75mm)": "20/pc"
+        }
+    },
+    "Tahao Road Enterprises": {
+        "Electrical Works": {
+            "Bushing and Locknut (12.7mm)": "14/pc",
+            "Bushing and Locknut (19mm)": "20/pc",
+            "Bushing and Locknut (25.4mm)": "24/pc",
+            "PVC Conduit Pipe (3m x 12.7mm D)": "82/pc",
+            "PVC Conduit Pipe (3m x 19mm D)": "130/pc",
+            "PVC Conduit Pipe (3m x 25.4mm D)": "165/pc",
+            "PVC Conduit Elbow 90 Degrees (25.4mm D)": "48/pc",
+            "PVC Adapter with Locknut (12.7mm D)": "10/pc",
+            "PVC Adapter with Locknut (19mm D)": "12/pc",
+            "PVC Adapter with Locknut (25.4mm D)": "15/pc",
+            "RS Conduit Coupling (12.7mm D)": "165/pc",
+            "RS Conduit Coupling (25.4mm D)": "14/pc",
+            "PVC Conduit Coupling (12.7mm D)": "6/pc",
+            "PVC Conduit Coupling (19mm D)": "9/pc",
+            "PVC Conduit Coupling (25.4mm D)": "20/pc",
+            "Octagonal Junction Box Type Gauge #16 (101mm x 101mm x 53mm) Deep": "32/pc",
+            "Utility Box Gauge #16 (50mm x 101mm x 53mm) Deep": "26/pc",
+            "Square Box (101mm x 53mm) Deep Type Gague #16": "135/pc",
+            "Square Box (101mm x 63mm) Deep Type Gague #16": "135/pc",
+            "Metal Pull Box (152mm x 152mm x 101mm) Gauge #16": "288/pc",
+            "Metal Pull Box (304mm x 304mm x 101mm) Gauge #16": "760/pc",
+            "Mica Tubing": "40/pc",
+            "Electric Wire THWN/THHN 2.0mm2": "2,278/BOX",
+            "Electric Wire THWN/THHN 3.5mm2": "3,342/BOX",
+            "Electric Wire THWN/THHN 5.5mm2": "5,115/BOX",
+            "Single Gang Switch": "67/set",
+            "Two-Gang Switch": "109/set",
+            "Three-Gang Switch": "151/set",
+            "Two-way Switch": "136/set",
+            "Duplex Convenience Outlet": "195/set",
+            "Heavy Duty Outlet": "109/set",
+            "Polarized 3-Prongs (ACU Outlet)": "125/set",
+            "Electrical Tape 3/4? x 20 YDS": "37/pc"
+        },
+        "Pipe and Fitting": {
+            "20mmdia UPVC\u00a0 pipe": "82/pc",
+            "20mmdia RSC conduit": "245/pc",
+            "20mmdia RSC coupling": "14/pc",
+            "20mmdia UPVC coupling": "5/pc",
+            "20mmdia\u00a0 UPVC adoptor": "10/pc",
+            "20mm dia. Locknut& bushing": "14/pc",
+            "20mm dia. RSC Locknut& bushing": "14/pc"
+        },
+        "Boxes and Gutter": {
+            "Junction box depth type,metal gauge 16 w/ cover": "32/pc",
+            "Utility box depth type, metal gauge 16 w/cover": "26/pc",
+            "4\u00d74 square box depth, metal gauge 16 w/cover": "135/pc"
+        },
+        "Miscellaneous and Consumables": {
+            "Electrical tape big": "37/pc",
+            "Rubber tape big": "125/pc",
+            "Solvent cement 100cc": "100/pc",
+            "G.I. Wire No. 12": "70/kl",
+            "Concrete nail no.3": "90/kl",
+            "CWN no.3": "56/kl",
+            "Terminal Lugs": "190/lot",
+            "Cable Tie": "165/pc"
+        },
+        "Wires": {
+            "8.0mm2 THHN": "62/m",
+            "5.5mm2 THHN": "40/m",
+            "3.5mm2 THHN": "26/m",
+            "2.0mm2 THHN": "18/m"
+        },
+        "Masonry Works": {
+            "10 mm. Dia. x 6.0 M. DSB": "120/pc",
+            "Tie Wire #16": "70/kg"
+        },
+        "Stone Masonry": {
+            "Cement, 40 kg.": "255/bag"
+        },
+        "Soil Poisoning \u2013 Termicide": {
+            "Portland Cement, 40kg": "255/bag",
+            "Pozzolan Cement, 40kg": "220/bag"
+        },
+        "Steel Bars": {
+            "\u00a010mm Diameter Deformed Bars": "120/pc",
+            "\u00a012mm Diameter Deformed Bars": "175/pc",
+            "\u00a016mm Diameter Deformed Bars": "320/pc",
+            "\u00a020mm Diameter Deformed Bars": "540/pc",
+            "\u00a0#16 G.I. Tie Wire": "70/kg",
+            "Hacksaw Blade": "60/pc"
+        },
+        "Formworks": {
+            "\u00a01/2? x 4' x 8' Plywood": "795/pc",
+            "\u00a06mm thk. Lawanit board": "260/pc",
+            "\u00a06mm thk. Ordinary Plywood": "560/pc",
+            "\u00a01?x2?x8' Hard wood or its equivalent": "138/pc",
+            "\u00a02?x2?x8' Hard wood or its equivalent": "254/pc",
+            "\u00a02?x2?x8\u2019Hardwood or its equivalent": "254/pc",
+            "\u00a02?x4?x8' Hard wood or its equivalent": "534/pc",
+            "Common Nail": "64/kg",
+            "Box Nail": "1,300/kg"
+        },
+        "Painting Works": {
+            "Paint Tinting Color": "460/ltr",
+            "Paint Aluminum": "650/gal",
+            "Paint Enamel": "630/gal",
+            "Paint Latex Gloss": "585/gal",
+            "Paint Latex Semi-Gloss": "585/gal",
+            "Paint Red Lead": "395/gal",
+            "Thinner Paint": "250/gal",
+            "Thinner Lacquer": "230/gal",
+            "Brush Paint (101mm)": "145/pc",
+            "Brush Roller (152mm)": "85/pc",
+            "Brush Steel (101mm)": "52/pc",
+            "Oil Paint": "135/ltr",
+            "Spar Varnish": "345/ltr",
+            "Lacquer Putty": "680/gal",
+            "Concrete neutralizer": "485/gal",
+            "Putty Knife": "30/pc",
+            "Roller paint # 9 w/ tray": "127/pc",
+            "2?paint brush": "50/pc",
+            "Paint thinner": "250/gal",
+            "Sand paper #120": "17/pc",
+            "Paint brush # 4": "145/pc",
+            "Paint brush # 2": "50/pc",
+            "Red Lead Primer": "395/gal"
+        },
+        "Plumbing and Sanitary Works": {
+            "100mm dia. PVC": "786/pc",
+            "75mm dia. PVC": "590/pc",
+            "50mm dia PVC (vp & wp)": "275/pc",
+            "PVC Clean Out w/ plug & sealing ring 100mm": "84/pc",
+            "PVC Clean Out w/ plug & sealing ring 150mm": "395/pc",
+            "PVC P-Trap w/ plug & sealing ring 50mm": "110/pc",
+            "PVC Te (150mm)": "1,027/pc",
+            "PVC Tee (100mm)": "192/pc",
+            "PVC WYE (100mm)": "171/pc",
+            "PVC WYE REDUCER (100mmX50mm)": "142/pc",
+            "PVC WYE REDUCER (100mmX75mm)": "225/pc",
+            "PVC ELBOW 90\u00b0 (100mm)": "107/pc",
+            "PVC ELBOW 90\u00b0 (75mm)": "64/pc"
+        }
+    },
+    "TJ Paint Center and General Merchandise": {
+        "Electrical Works": {
+            "Single Gang Switch": "70/set",
+            "Two-Gang Switch": "114/set",
+            "Three-Gang Switch": "158/set",
+            "Two-way Switch": "75/set",
+            "Duplex Convenience Outlet": "35/set"
+        },
+        "Pipe and Fitting": {
+            "20mmdia UPVC\u00a0 pipe": "67/pc",
+            "20mmdia UPVC coupling": "4/pc",
+            "20mmdia\u00a0 UPVC adoptor": "10/pc"
+        },
+        "Miscellaneous and Consumables": {
+            "Electrical tape big": "35/pc",
+            "Solvent cement 100cc": "80/pc",
+            "Concrete nail no.3": "100/kl",
+            "CWN no.3": "58/kl",
+            "Cable Tie": "5/pc"
+        },
+        "Wires": {
+            "8.0mm2 THHN": "55/m",
+            "5.5mm2 THHN": "35.50/m",
+            "3.5mm2 THHN": "23/m",
+            "2.0mm2 THHN": "15.75/m"
+        },
+        "Masonry Works": {
+            "10 mm. Dia. x 6.0 M. DSB": "120/pc"
+        },
+        "Stone Masonry": {
+            "Cement, 40 kg.": "225/bag"
+        },
+        "Soil Poisoning \u2013 Termicide": {
+            "Portland Cement, 40kg": "260/bag",
+            "Pozzolan Cement, 40kg": "240/bag"
+        },
+        "Steel Bars": {
+            "\u00a0#16 G.I. Tie Wire": "80/pc",
+            "Hacksaw Blade": "60/pc"
+        },
+        "Formworks": {
+            "\u00a01?x2?x8' Hard wood or its equivalent": "126/pc",
+            "\u00a02?x2?x8' Hard wood or its equivalent": "253.30/pc",
+            "Common Nail": "64/kg",
+            "Box Nail": "1480/kg"
+        },
+        "Painting Works": {
+            "Paint Latex Semi-Gloss": "610/gal",
+            "Thinner Paint": "365/gal",
+            "Thinner Lacquer": "425/gal",
+            "Concrete neutralizer": "435/gal",
+            "Putty Knife": "20/pc",
+            "Roller paint # 9 w/ tray": "140/pc",
+            "2?paint brush": "40/pc",
+            "Paint thinner": "265/gal",
+            "Sand paper #120": "20/pc",
+            "Paint brush # 4": "100/pc",
+            "Paint brush # 2": "40/pc."
+        },
+        "Plumbing and Sanitary Works": {
+            "100mm dia. PVC": "336/pc",
+            "75mm dia. PVC": "252/pc",
+            "50mm dia PVC (vp & wp)": "125/pc",
+            "PVC Clean Out w/ plug & sealing ring 100mm": "60/pc",
+            "PVC Clean Out w/ plug & sealing ring 150mm": "36/pc",
+            "PVC P-Trap w/ plug & sealing ring 50mm": "20/pc",
+            "PVC Tee (100mm)": "108/pc",
+            "PVC WYE (100mm)": "124/pc",
+            "PVC WYE REDUCER (100mmX50mm)": "114/pc",
+            "PVC WYE REDUCER (100mmX75mm)": "60/pc",
+            "PVC ELBOW 90\u00b0 (100mm)": "36/pc",
+            "PVC ELBOW 90\u00b0 (75mm)": "20/pc"
+        }
+    },
+    "*Unico Trading": {
+        "Electrical Works": {
+            "Bushing and Locknut (12.7mm)": "18/pc",
+            "Bushing and Locknut (19mm)": "28/pc",
+            "Bushing and Locknut (25.4mm)": "48/pc",
+            "PVC Conduit Pipe (3m x 12.7mm D)": "265/pc",
+            "PVC Conduit Pipe (3m x 19mm D)": "458/pc",
+            "PVC Conduit Pipe (3m x 25.4mm D)": "690/pc",
+            "PVC Conduit Elbow 90 Degrees (25.4mm D)": "58/pc",
+            "PVC Adapter with Locknut (12.7mm D)": "58/pc",
+            "PVC Adapter with Locknut (19mm D)": "38/pc",
+            "PVC Adapter with Locknut (25.4mm D)": "68/pc",
+            "RS Conduit Coupling (12.7mm D)": "38/pc",
+            "RS Conduit Coupling (25.4mm D)": "65/pc",
+            "PVC Conduit Coupling (12.7mm D)": "38/pc",
+            "PVC Conduit Coupling (19mm D)": "48/pc",
+            "PVC Conduit Coupling (25.4mm D)": "48/pc",
+            "Octagonal Junction Box Type Gauge #16 (101mm x 101mm x 53mm) Deep": "88/pc",
+            "Utility Box Gauge #16 (50mm x 101mm x 53mm) Deep": "75/pc",
+            "Square Box (101mm x 53mm) Deep Type Gague #16": "265/pc",
+            "Square Box (101mm x 63mm) Deep Type Gague #16": "320/pc",
+            "Metal Pull Box (152mm x 152mm x 101mm) Gauge #16": "950/pc",
+            "Metal Pull Box (304mm x 304mm x 101mm) Gauge #16": "1,350/pc",
+            "Mica Tubing": "48/pc",
+            "Electric Wire THWN/THHN 2.0mm2": "2,450/BOX",
+            "Electric Wire THWN/THHN 3.5mm2": "3,650/BOX",
+            "Electric Wire THWN/THHN 5.5mm2": "5640/BOX",
+            "Single Gang Switch": "135/set",
+            "Two-Gang Switch": "195/set",
+            "Three-Gang Switch": "265/set",
+            "Two-way Switch": "195/set",
+            "Duplex Convenience Outlet": "265/set",
+            "Heavy Duty Outlet": "135/set",
+            "Electrical Tape 3/4? x 20 YDS": "38/pc"
+        },
+        "Pipe and Fitting": {
+            "20mmdia UPVC\u00a0 pipe": "65/pc",
+            "20mmdia RSC conduit": "265/pc",
+            "20mmdia RSC coupling": "18/pc",
+            "20mmdia UPVC coupling": "18/pc",
+            "20mmdia\u00a0 UPVC adoptor": "15/pc",
+            "20mm dia. Locknut& bushing": "28/pc",
+            "20mm dia. RSC Locknut& bushing": "28/pc"
+        },
+        "Boxes and Gutter": {
+            "Junction box depth type,metal gauge 16 w/ cover": "85/pc",
+            "Utility box depth type, metal gauge 16 w/cover": "78/pc",
+            "4\u00d74 square box depth, metal gauge 16 w/cover": "165/pc"
+        },
+        "Miscellaneous and Consumables": {
+            "Electrical tape big": "38/pc",
+            "Rubber tape big": "135/pc",
+            "Solvent cement 100cc": "125/pc",
+            "G.I. Wire No. 12": "125/kl",
+            "Concrete nail no.3": "100/kl",
+            "CWN no.3": "55/kl",
+            "Terminal Lugs": "52/pc",
+            "Cable Tie": "128/pc"
+        },
+        "Wires": {
+            "8.0mm2 THHN": "65/m",
+            "5.5mm2 THHN": "47/m",
+            "3.5mm2 THHN": "26/m",
+            "2.0mm2 THHN": "22/m"
+        },
+        "Masonry Works": {
+            "Concrete Hollow Blocks (CHB) 4?": "15/pc",
+            "Concrete Hollow Blocks (CHB) 6?": "23/pc",
+            "Washed sand": "580/cu.m",
+            "10 mm. Dia. x 6.0 M. DSB": "120/pc",
+            "Tie Wire #16": "75/kg"
+        },
+        "Stone Masonry": {
+            "Cement, 40 kg.": "245/bag",
+            "Sand": "580/cu.m",
+            "Gravel Fill": "550/cu.m"
+        },
+        "Filter Cloth": {
+            "Boulders": "550/cu.m"
+        },
+        "Soil Poisoning \u2013 Termicide": {
+            "Gravel": "1,100/cu.m",
+            "Wash Sand": "850/cu.m",
+            "Portland Cement, 40kg": "245/bag",
+            "Pozzolan Cement, 40kg": "220/bag"
+        },
+        "Steel Bars": {
+            "\u00a010mm Diameter Deformed Bars": "120/pc",
+            "\u00a012mm Diameter Deformed Bars": "170/pc",
+            "\u00a016mm Diameter Deformed Bars": "330/pc",
+            "\u00a0#16 G.I. Tie Wire": "70/kg",
+            "Hacksaw Blade": "65/pc"
+        },
+        "Formworks": {
+            "\u00a02 x 3 x 10' Coco lumber": "150/pc",
+            "\u00a02 x 4 x 10 Coco lumber": "150/pc",
+            "\u00a01/2? x 4' x 8' Plywood": "880/pc",
+            "\u00a01?x2?x8' Hard wood or its equivalent": "295/pc",
+            "\u00a02?x2?x8' Hard wood or its equivalent": "300/pc"
+        },
+        "Painting Works": {
+            "Paint Latex Semi-Gloss": "571/gal",
+            "Thinner Paint": "265/gal",
+            "Thinner Lacquer": "245/gal",
+            "Paint Metal Epoxy": "740/gal",
+            "Brush Paint (101mm)": "135/pc",
+            "Brush Roller (152mm)": "135/pc",
+            "Brush Steel (101mm)": "85/pc",
+            "Spar Varnish": "450/ltr",
+            "Lacquer Putty": "220/kg",
+            "Concrete neutralizer": "460/gal",
+            "Putty Knife": "48/pc",
+            "Roller paint # 9 w/ tray": "148/pc",
+            "2?paint brush": "38/pc",
+            "Paint thinner": "285/gal",
+            "Sand paper #120": "20/pc",
+            "Paint brush # 4": "58/pc",
+            "Paint brush # 2": "38/pc"
+        },
+        "Plumbing and Sanitary Works": {
+            "100mm dia. PVC": "720/pc",
+            "PVC Clean Out w/ plug & sealing ring 100mm": "68/pc",
+            "PVC Clean Out w/ plug & sealing ring 150mm": "480/pc",
+            "PVC P-Trap w/ plug & sealing ring 50mm": "88/pc",
+            "PVC Te (150mm)": "1,350/pc",
+            "PVC Tee (100mm)": "245/pc",
+            "PVC WYE (100mm)": "245/pc",
+            "PVC WYE REDUCER (100mmX50mm)": "185/pc",
+            "PVC WYE REDUCER (100mmX75mm)": "185/pc",
+            "PVC ELBOW 90\u00b0 (100mm)": "81/pc",
+            "PVC Elbow 90\u00b0 (50mm)": "88/pc",
+            "PVC Elbow 45\u00b0 (100mm)": "81/pc",
+            "PVC Elbow 45\u00b0 (75mm)": "65/pc",
+            "PVC Elbow 45\u00b0 (50mm)": "48/pc",
+            "PVC Coupling (100mm)": "28/pc",
+            "Vulca Seal": "60/pc"
+        }
+    },
+    "*Wann Luh Marketing": {
+        "Electrical Works": {
+            "Electric Wire THWN/THHN 3.5mm2": "3,800/BOX",
+            "Single Gang Switch": "80/set",
+            "Two-Gang Switch": "130/set",
+            "Three-Gang Switch": "180/set",
+            "Duplex Convenience Outlet": "130/set",
+            "Heavy Duty Outlet": "75/set"
+        },
+        "Miscellaneous and Consumables": {
+            "Electrical tape big": "45/pc",
+            "Solvent cement 100cc": "115/pc",
+            "Concrete nail no.3": "120/kl",
+            "CWN no.3": "70/kl"
+        },
+        "Masonry Works": {
+            "Tie Wire #16": "100/kg"
+        },
+        "Steel Bars": {
+            "\u00a0#16 G.I. Tie Wire": "100/kg",
+            "Hacksaw Blade": "65/pc"
+        },
+        "Formworks": {
+            "Common Nail": "85/kg"
+        },
+        "Painting Works": {
+            "Spar Varnish": "405/ltr",
+            "Putty Knife": "35/pc",
+            "Sand paper #120": "20/pc",
+            "Paint brush # 4": "95/pc",
+            "Paint brush # 2": "45/pc"
+        }
+    },
+    "Woodlane Builders and Construction Supply": {
+        "Electrical Works": {
+            "Two-Gang Switch": "120/set",
+            "Three-Gang Switch": "160/set",
+            "Two-way Switch": "150/set"
+        },
+        "Miscellaneous and Consumables": {
+            "Electrical tape big": "50/pc",
+            "Concrete nail no.3": "180/kl",
+            "CWN no.3": "70/kl"
+        },
+        "Masonry Works": {
+            "Concrete Hollow Blocks (CHB) 4?": "16/pc",
+            "Concrete Hollow Blocks (CHB) 6?": "20/pc"
+        },
+        "Stone Masonry": {
+            "Sand": "700/cu.m"
+        },
+        "Soil Poisoning \u2013 Termicide": {
+            "Gravel": "1,700/cu.m",
+            "Portland Cement, 40kg": "265/bag",
+            "Pozzolan Cement, 40kg": "250/bag"
+        },
+        "Steel Bars": {
+            "\u00a010mm Diameter Deformed Bars": "160/pc",
+            "\u00a012mm Diameter Deformed Bars": "260/pc",
+            "\u00a016mm Diameter Deformed Bars": "350/pc",
+            "Hacksaw Blade": "75/pc"
+        },
+        "Formworks": {
+            "\u00a02 x 3 x 10' Coco lumber": "125/pc",
+            "\u00a02 x 4 x 10 Coco lumber": "170/pc",
+            "\u00a01/2? x 4' x 8' Plywood": "950/pc",
+            "\u00a01?x2?x8' Hard wood or its equivalent": "90/pc",
+            "\u00a02?x2?x8' Hard wood or its equivalent": "190/pc",
+            "\u00a02?x2?x8\u2019Hardwood or its equivalent": "190/pc",
+            "\u00a02?x4?x8' Hard wood or its equivalent": "2,080/pc"
+        },
+        "Painting Works": {
+            "Putty Knife": "40/pc",
+            "2?paint brush": "35/pc",
+            "Paint thinner": "295/gal",
+            "Sand paper #120": "20/pc",
+            "Paint brush # 4": "95/pc",
+            "Paint brush # 2": "45/pc"
+        },
+        "Plumbing and Sanitary Works": {
+            "100mm dia. PVC": "395/pc",
+            "75mm dia. PVC": "295/pc",
+            "50mm dia PVC (vp & wp)": "195/pc",
+            "PVC Clean Out w/ plug & sealing ring 100mm": "95/pc",
+            "PVC Clean Out w/ plug & sealing ring 150mm": "220/pc",
+            "PVC Tee (100mm)": "95/pc",
+            "PVC WYE (100mm)": "95/pc",
+            "PVC WYE REDUCER (100mmX50mm)": "65/pc",
+            "PVC WYE REDUCER (100mmX75mm)": "65/pc",
+            "PVC ELBOW 90\u00b0 (100mm)": "75/pc",
+            "PVC ELBOW 90\u00b0 (75mm)": "65/pc",
+            "PVC Elbow 90\u00b0 (50mm)": "45/pc",
+            "PVC Elbow 45\u00b0 (100mm)": "85/pc",
+            "PVC Elbow 45\u00b0 (75mm)": "65/pc",
+            "PVC Elbow 45\u00b0 (50mm)": "45/pc",
+            "PVC Coupling (100mm)": "35/pc",
+            "Vulca Seal": "55/pc"
+        }
+    },
+    "*YM Lumber and General Merchandise": {
+        "Electrical Works": {
+            "Electric Wire THWN/THHN 2.0mm2": "2,120/BOX",
+            "Electric Wire THWN/THHN 3.5mm2": "3,000/BOX",
+            "Electric Wire THWN/THHN 5.5mm2": "6,000/BOX",
+            "Single Gang Switch": "85/set",
+            "Two-Gang Switch": "130/set",
+            "Three-Gang Switch": "180/set",
+            "Two-way Switch": "155/set",
+            "Duplex Convenience Outlet": "90/set",
+            "Heavy Duty Outlet": "90/set",
+            "Electrical Tape 3/4? x 20 YDS": "35/pc"
+        },
+        "Miscellaneous and Consumables": {
+            "Electrical tape big": "45/pc",
+            "Solvent cement 100cc": "85/pc",
+            "Concrete nail no.3": "100/kl",
+            "CWN no.3": "80/kl"
+        },
+        "Wires": {
+            "8.0mm2 THHN": "70/m",
+            "5.5mm2 THHN": "50/m",
+            "3.5mm2 THHN": "30/m",
+            "2.0mm2 THHN": "25/m"
+        },
+        "Masonry Works": {
+            "Concrete Hollow Blocks (CHB) 4?": "11/pc",
+            "Concrete Hollow Blocks (CHB) 6?": "13/pc",
+            "Washed sand": "500/cu.m",
+            "10 mm. Dia. x 6.0 M. DSB": "128/pc",
+            "Tie Wire #16": "70/kg"
+        },
+        "Stone Masonry": {
+            "Cement, 40 kg.": "230/bag",
+            "Sand": "550/cu.m",
+            "Gravel Fill": "650/cu.m"
+        },
+        "Filter Cloth": {
+            "Boulders": "670/cu.m",
+            "Screened Sand": "750/cu.m",
+            "Screened Gravel": "1050/cu.m"
+        },
+        "Soil Poisoning \u2013 Termicide": {
+            "Gravel": "700/cu.m",
+            "Portland Cement, 40kg": "250/bag",
+            "Pozzolan Cement, 40kg": "235/bag"
+        },
+        "Steel Bars": {
+            "\u00a010mm Diameter Deformed Bars": "130/pc",
+            "\u00a012mm Diameter Deformed Bars": "180/pc",
+            "Hacksaw Blade": "60/pc"
+        },
+        "Formworks": {
+            "Common Nail": "75/kg"
+        },
+        "Painting Works": {
+            "Paint Enamel": "650/gal",
+            "Paint Latex Gloss": "630/gal",
+            "Paint Latex Semi-Gloss": "630/gal",
+            "Thinner Paint": "480/gal",
+            "Thinner Lacquer": "400/gal",
+            "Brush Roller (152mm)": "90/pc",
+            "Brush Steel (101mm)": "50/pc",
+            "Concrete neutralizer": "300/gal",
+            "Putty Knife": "45/pc",
+            "Roller paint # 9 w/ tray": "140/pc",
+            "2?paint brush": "45/pc",
+            "Paint thinner": "295/gal",
+            "Sand paper #120": "20/pc",
+            "Paint brush # 4": "110/pc",
+            "Paint brush # 2": "35/pc"
+        }
+    }
+}
