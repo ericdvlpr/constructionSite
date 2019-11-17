@@ -47,11 +47,11 @@ function goToStore(name){
     
     storename.innerHTML= name;
     itemtable += "<table class='table table-bordered'>"; 
-    itemtable += "<tr><th><h2>Item Name</h2></th><th><h2>Qty</h2></th></tr>"; 
+    itemtable += "<thead class='thead-dark'><tr><th colspan='2'>Item Name</th><th>Qty</th></tr></thead>"; 
     for(var x in json[name]){
         for(var y in json[name]['inventory']){
             var category = y;
-            itemtable += "<tr><td colspan='3'><b>"+category+"</b></td><td>"; 
+            itemtable += "<tr><td colspan='2'><b>"+category+"</b></td><td>"; 
             for(var z in json[name]['inventory'][y]){
                itemtable += "<tr><td><img src='img/items/"+z+".jpg' width='100' height='100' /></td><td>"+z+"</td><td>"+json[name]['inventory'][y][z]+"</td></tr>"; 
             }
