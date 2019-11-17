@@ -18,8 +18,12 @@ var json = (function() {
 })();
 // goToStore('*Al-sur Electrical and Construction Supply');
 for(var x in json){
+   
     var store_name = x;
-    store_name_row.innerHTML +='<div class="col mb-5"> <div class="card" style="width: 18rem;"><div class="card-body"><h5 class="card-title">'+ store_name +'</h5><button type="button" class="btn btn-primary" onClick="goToStore(\''+ store_name +'\')">Go to Store</button> </div></div></div></div>';
+    store_name_row.innerHTML +='<div class="col mb-5"> <div class="card" style="width: 18rem;"><div class="card-body"><h4 class="card-title">'+ store_name +'</h4><h5 class="card-subtitle mb-2 text-muted">'+json[x]['Address']+'</h5><h6 class="card-subtitle mb-2 text-muted">'+json[x]['Contact']+'</h6> <button type="button" class="btn btn-primary" onClick="goToStore(\''+ store_name +'\')">Go to Store</button> </div></div></div></div>';
+    for(var y in json[x]){
+        console.log(y);
+    }
 }
 
 // for(var v in store){
@@ -49,7 +53,9 @@ function goToStore(name){
     for(var x in json[name]){
         for(var y in json[name][x]){
             // storeDiv.innerHTML +="<p>"+y+"</p>";
-            
+            // if(json[name][x] != 'Address' || json[name][x]!= 'Contact'){
+            //     continue;
+            // }
             // for(var y in json[name][x]){
             itemtable += "<tr><td>"+y+"</td><td>"+json[name][x][y]+"</td></tr>"; 
             console.log(json[name][x]);

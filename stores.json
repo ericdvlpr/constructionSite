@@ -1,5 +1,7 @@
 {
     "*Al-sur Electrical and Construction Supply": {
+        "Address":"165 Marquez St. Maoyod",
+        "Contact" : "052-4807727",
         "Electrical Works": {
             "Electric Wire THWN/THHN 2.0mm2": "2,150/BOX",
             "Electric Wire THWN/THHN 3.5mm2": "2,995/BOX",
@@ -86,6 +88,8 @@
         }
     },
     "Araza General Merchandise and Lumber": {
+        "Address":"Tahao Road, Bitano/ Brgy. Cabangan West",
+        "Contact" : "052-2844044",
         "Electrical Works": {
             "Octagonal Junction Box Type Gauge #16 (101mm x 101mm x 53mm) Deep": "35/pc"
         },
@@ -160,6 +164,8 @@
         }
     },
     "Azotea\u2019s Construction and Supply": {
+        "Address":"73 Marquez St. Brgy 15",
+        "Contact" : "052-4567134",
         "Electrical Works": {
             "Two-Gang Switch": "120/set",
             "Three-Gang Switch": "160/set",
@@ -226,6 +232,8 @@
         }
     },
     "*Banquerohan Enterprises": {
+        "Address":"Purok 3, Brgy. 66, Bulawan St., Washigton / B. Alegre St., Tula-tula",
+        "Contact" : "09192195531",
         "Electrical Works": {
             "Electric Wire THWN/THHN 2.0mm2": "2,700/BOX",
             "Electric Wire THWN/THHN 3.5mm2": "3,750/BOX",
@@ -293,6 +301,8 @@
         }
     },
     "Bicolandia Ceramics": {
+        "Address":"Bitano",
+        "Contact" : "4807952",
         "Electrical Works": {
             "Utility Box Gauge #16 (50mm x 101mm x 53mm) Deep": "22.75/pc",
             "Square Box (101mm x 53mm) Deep Type Gague #16": "74.75/pc",
@@ -328,6 +338,8 @@
         }
     },
     "*Brads Hardware": {
+        "Address":"Circumferential Road",
+        "Contact" : "09067814321",
         "Electrical Works": {
             "Octagonal Junction Box Type Gauge #16 (101mm x 101mm x 53mm) Deep": "35/pc"
         },
@@ -402,6 +414,8 @@
         }
     },
     "CMM Lumber and General Merchandise": {
+        "Address":"Washington Drive",
+        "Contact" : "09089765342",
         "Electrical Works": {
             "Electric Wire THWN/THHN 2.0mm2": "2,150/BOX",
             "Electric Wire THWN/THHN 3.5mm2": "2,995/BOX",
@@ -488,6 +502,8 @@
         }
     },
     "CZN Enterprises": {
+        "Address":"Rizal St., South Ems ",
+        "Contact" : "09067895364",
         "Electrical Works": {
             "Electric Wire THWN/THHN 2.0mm2": "2,700/BOX",
             "Electric Wire THWN/THHN 3.5mm2": "3,750/BOX",
@@ -555,6 +571,8 @@
         }
     },
     "D.R. Gualvez Enterprises": {
+        "Address":"Bitano",
+        "Contact" : "052-4801432",
         "Electrical Works": {
             "Electric Wire THWN/THHN 3.5mm2": "3,800/BOX",
             "Single Gang Switch": "80/set",
@@ -588,6 +606,8 @@
         }
     },
     "D Zigno Trading and Construction Supply": {
+        "Address":"Circumferential Road., Legazpi Port District",
+        "Contact" : "052-4815655",
         "Electrical Works": {
             "Electric Wire THWN/THHN 2.0mm2": "2,150/BOX",
             "Electric Wire THWN/THHN 3.5mm2": "2,995/BOX",
@@ -674,6 +694,8 @@
         }
     },
     "Enoy Home Improvement Center": {
+        "Address":"Rizal St., South Ems",
+        "Contact" : "052-830987",
         "Electrical Works": {
             "Utility Box Gauge #16 (50mm x 101mm x 53mm) Deep": "22.75/pc",
             "Square Box (101mm x 53mm) Deep Type Gague #16": "74.75/pc",
@@ -709,6 +731,8 @@
         }
     },
     "FJM Construction Supply": {
+        "Address":"21 Aquende Drive, Washington Drive",
+        "Contact" : "052-481 034",
         "Electrical Works": {
             "Electric Wire THWN/THHN 2.0mm2": "2,700/BOX",
             "Electric Wire THWN/THHN 3.5mm2": "3,750/BOX",
@@ -776,6 +800,8 @@
         }
     },
     "*Grace Home Builders": {
+        "Address":"Capantawan",
+        "Contact" : "052-8300908",
         "Electrical Works": {
             "Utility Box Gauge #16 (50mm x 101mm x 53mm) Deep": "22.75/pc",
             "Square Box (101mm x 53mm) Deep Type Gague #16": "74.75/pc",
@@ -811,6 +837,8 @@
         }
     },
     "GW Sales Hardware": {
+        "Address":"Sol’s Subd., Brgy. 37, Bitano",
+        "Contact" : "052-4804382",
         "Electrical Works": {
             "Octagonal Junction Box Type Gauge #16 (101mm x 101mm x 53mm) Deep": "35/pc"
         },
@@ -885,6 +913,8 @@
         }
     },
     "HYR Trading": {
+        "Address":"Purok 2, Ems Barrio",
+        "Contact" : "052-217812",
         "Electrical Works": {
             "Single Gang Switch": "70/set",
             "Two-Gang Switch": "114/set",
@@ -959,6 +989,8 @@
         }
     },
     "Imperial Enterprises": {
+        "Address":"Satelite Market Bitano",
+        "Contact" : "052-4526152",
         "Electrical Works": {
             "Bushing and Locknut (12.7mm)": "18/pc",
             "Bushing and Locknut (19mm)": "28/pc",
@@ -1094,6 +1126,8 @@
         }
     },
     "Legazpi Asian Marketing Corporation": {
+        "Address":"Legazpi Port District",
+        "Contact" : "052-524378",
         "Electrical Works": {
             "Bushing and Locknut (12.7mm)": "14/pc",
             "Bushing and Locknut (19mm)": "20/pc",
@@ -1231,6 +1265,8 @@
         }
     },
     "Legazpi City Tiles and Paint Center": {
+        "Address":"Washington Drive",
+        "Contact" : "052-456687",
         "Electrical Works": {
             "Electric Wire THWN/THHN 2.0mm2": "2,150/BOX",
             "Electric Wire THWN/THHN 3.5mm2": "2,995/BOX",
@@ -1317,6 +1353,8 @@
         }
     },
     "Legazpi Color Center": {
+        "Address":"288 Rizal Ave., Legazpi Port District",
+        "Contact" : "052-524176",
         "Electrical Works": {
             "Two-Gang Switch": "120/set",
             "Three-Gang Switch": "160/set",
@@ -1383,6 +1421,8 @@
         }
     },
     "*Legazpi Halizel Marketing and Fishing Supply": {
+        "Address":"Circumferential Road",
+        "Contact" : "052-824178",
         "Electrical Works": {
             "Bushing and Locknut (12.7mm)": "18/pc",
             "Bushing and Locknut (19mm)": "28/pc",
@@ -1518,6 +1558,8 @@
         }
     },
     "Legazpi Premium Marketing": {
+        "Address":"Elizondo Pigcale",
+        "Contact" : "052-341526",
         "Electrical Works": {
             "Electric Wire THWN/THHN 2.0mm2": "2,400/BOX",
             "Electric Wire THWN/THHN 3.5mm2": "3,500/BOX",
@@ -1629,6 +1671,8 @@
         }
     },
     "Legazpi Tools and Drill Shop": {
+        "Address":"59 Quezon Ave. Extension, Oro Site",
+        "Contact" : "052-4808725",
         "Electrical Works": {
             "Utility Box Gauge #16 (50mm x 101mm x 53mm) Deep": "22.75/pc",
             "Square Box (101mm x 53mm) Deep Type Gague #16": "74.75/pc",
@@ -1664,6 +1708,8 @@
         }
     },
     "Lightstone Construction and Supply": {
+        "Address":"Starex St. Central City Subd. Tahao Road",
+        "Contact" : "09067835647",
         "Electrical Works": {
             "Single Gang Switch": "70/set",
             "Two-Gang Switch": "114/set",
@@ -1738,6 +1784,8 @@
         }
     },
     "*Lladones Marketing": {
+        "Address":"26 Elizondo St., Sabang",
+        "Contact" : "052-4807283",
         "Electrical Works": {
             "Two-Gang Switch": "120/set",
             "Three-Gang Switch": "160/set",
@@ -1804,6 +1852,8 @@
         }
     },
     "M. Alcazar Lumber And Hardware": {
+        "Address":"59 Quezon Ave. Extension, Oro Site",
+        "Contact" : "052-2844044",
         "Electrical Works": {
             "Two-Gang Switch": "120/set",
             "Three-Gang Switch": "160/set",
@@ -1870,6 +1920,8 @@
         }
     },
     "Mega Orosteel Marketing Corporation": {
+        "Address":"Diversion Road Corner Bogtong St., Brgy. 41",
+        "Contact" : "052-4802189",
         "Electrical Works": {
             "Single Gang Switch": "70/set",
             "Two-Gang Switch": "114/set",
@@ -1944,6 +1996,8 @@
         }
     },
     "Metalex General Merchandise": {
+        "Address":"Cruzada",
+        "Contact" : "052-8208321",
         "Electrical Works": {
             "Electric Wire THWN/THHN 3.5mm2": "3,800/BOX",
             "Single Gang Switch": "80/set",
@@ -1977,6 +2031,8 @@
         }
     },
     "Morante Builders and Supply": {
+        "Address":"Rizal St., Oro Site",
+        "Contact" : "052-4807518",
         "Electrical Works": {
             "Electric Wire THWN/THHN 2.0mm2": "2,400/BOX",
             "Electric Wire THWN/THHN 3.5mm2": "3,500/BOX",
@@ -2088,6 +2144,8 @@
         }
     },
     "*Otowe Hardware and Construction Supplies": {
+        "Address":"336 Penaranda St., Brgy 39, Bonot ",
+        "Contact" : "052-4808436",
         "Electrical Works": {
             "Electric Wire THWN/THHN 2.0mm2": "2,400/BOX",
             "Electric Wire THWN/THHN 3.5mm2": "3,500/BOX",
@@ -2199,6 +2257,8 @@
         }
     },
     "Providence Trading Inc.": {
+        "Address":"Brgy. 35, Tinago",
+        "Contact" : "052-567432",
         "Electrical Works": {
             "Electric Wire THWN/THHN 3.5mm2": "3,800/BOX",
             "Single Gang Switch": "80/set",
@@ -2232,6 +2292,8 @@
         }
     },
     "Ro-cel Trading": {
+        "Address":"Bonot",
+        "Contact" : "052-4877098",
         "Electrical Works": {
             "Bushing and Locknut (12.7mm)": "18/pc",
             "Bushing and Locknut (19mm)": "28/pc",
@@ -2367,6 +2429,8 @@
         }
     },
     "*Saverite Builders Supply": {
+        "Address":"Quezon Ave., Legazpi City Port District",
+        "Contact" : "052-4808279",
         "Electrical Works": {
             "Bushing and Locknut (12.7mm)": "14/pc",
             "Bushing and Locknut (19mm)": "20/pc",
@@ -2504,6 +2568,8 @@
         }
     },
     "*Sherwin Marketing": {
+        "Address":"Circumferential Road ",
+        "Contact" : "052-4806045",
         "Electrical Works": {
             "Single Gang Switch": "70/set",
             "Two-Gang Switch": "114/set",
@@ -2578,6 +2644,8 @@
         }
     },
     "Tahao Road Enterprises": {
+        "Address":"Tahao Road, Bitano",
+        "Contact" : "052-824150",
         "Electrical Works": {
             "Bushing and Locknut (12.7mm)": "14/pc",
             "Bushing and Locknut (19mm)": "20/pc",
@@ -2715,6 +2783,8 @@
         }
     },
     "TJ Paint Center and General Merchandise": {
+        "Address":"Brgy. 35, Tinago",
+        "Contact" : "09089076891",
         "Electrical Works": {
             "Single Gang Switch": "70/set",
             "Two-Gang Switch": "114/set",
@@ -2789,6 +2859,8 @@
         }
     },
     "*Unico Trading": {
+        "Address":"Magallanes St., Oro Site/ Circumferential Rd., Kapantawan",
+        "Contact" : "052-4807159",
         "Electrical Works": {
             "Bushing and Locknut (12.7mm)": "18/pc",
             "Bushing and Locknut (19mm)": "28/pc",
@@ -2927,6 +2999,8 @@
         }
     },
     "*Wann Luh Marketing": {
+        "Address":"Quezon Ave.",
+        "Contact" : "052-4871500",
         "Electrical Works": {
             "Electric Wire THWN/THHN 3.5mm2": "3,800/BOX",
             "Single Gang Switch": "80/set",
@@ -2960,6 +3034,8 @@
         }
     },
     "Woodlane Builders and Construction Supply": {
+        "Address":"Elizondo Pigcale",
+        "Contact" : "052-8245210",
         "Electrical Works": {
             "Two-Gang Switch": "120/set",
             "Three-Gang Switch": "160/set",
@@ -3026,6 +3102,8 @@
         }
     },
     "*YM Lumber and General Merchandise": {
+        "Address":"Purok 5, Tahao Road",
+        "Contact" : "480-8404",
         "Electrical Works": {
             "Electric Wire THWN/THHN 2.0mm2": "2,120/BOX",
             "Electric Wire THWN/THHN 3.5mm2": "3,000/BOX",
