@@ -53,19 +53,19 @@
                 "Pozzolan Cement, 40kg": "225/bag"
             },
             "Steel Bars": {
-                "\u00a010mm Diameter Deformed Bars": "128/pc",
-                "\u00a012mm Diameter Deformed Bars": "178/pc",
-                "\u00a016mm Diameter Deformed Bars": "330/pc",
-                "\u00a0#16 G.I. Tie Wire": "70/kg",
+                "10mm Diameter Deformed Bars": "128/pc",
+                "12mm Diameter Deformed Bars": "178/pc",
+                "16mm Diameter Deformed Bars": "330/pc",
+                "16 G.I. Tie Wire": "70/kg",
                 "Hacksaw Blade": "60/pc"
             },
             "Formworks": {
-                "\u00a02 x 3 x 10' Coco lumber": "150/pc",
-                "\u00a02 x 4 x 10 Coco lumber": "180/pc",
-                "\u00a01/2? x 4' x 8' Plywood": "900/pc",
-                "\u00a06mm thk. Ordinary Plywood": "280/pc",
-                "\u00a01?x2?x8' Hard wood or its equivalent": "150/pc",
-                "\u00a02?x2?x8' Hard wood or its equivalent": "350/pc",
+                "2 x 3 x 10 Coco lumber": "150/pc",
+                "2 x 4 x 10 Coco lumber": "180/pc",
+                "1-2x 4x 8 Plywood": "900/pc",
+                "6mm thk. Ordinary Plywood": "280/pc",
+                "1x2x8 Hard wood or its equivalent": "150/pc",
+                "2x2x8 Hard wood or its equivalent": "350/pc",
                 "Common Nail": "70/kg",
                 "Box Nail": "1,250/kg"
             },
@@ -82,7 +82,7 @@
                 "Concrete neutralizer": "300/gal",
                 "Putty Knife": "40/pc",
                 "Roller paint 9 w tray": "150/pc",
-                "2?paint brush": "35/pc",
+                "Paint brush 2": "35/pc",
                 "Paint thinner": "250/gal",
                 "Sand paper 120": "18/pc",
                 "Paint brush 4": "95/pc",
@@ -98,12 +98,12 @@
         },
         "inventory": {
             "Electrical Works": {
-                "Octagonal Junction Box Type Gauge 16  (101mm x 101mm x 53mm) Deep": "35/pc"
+                "Octagonal Junction Box Type Gauge 16 (101mm x 101mm x 53mm)": "35/pc"
             },
             "Boxes and Gutter": {
-                "Junction box depth type,metal gauge 16 w/ cover": "35/pc",
-                "Utility box depth type, metal gauge 16 w/cover": "35/pc",
-                "4\u00d74 square box depth, metal gauge 16 w/cover": "75/pc"
+                "Junction box depth type,metal gauge 16 with cover": "35/pc",
+                "Utility box depth type, metal gauge 16 with cover": "35/pc",
+                "4x4 square box depth, metal gauge 16 with cover": "75/pc"
             },
             "Miscellaneous and Consumables": {
                 "Electrical tape big": "38/pc",
@@ -137,15 +137,15 @@
                 "Pozzolan Cement, 40kg": "230/bag"
             },
             "Steel Bars": {
-                "\u00a010mm Diameter Deformed Bars": "140/pc",
-                "\u00a012mm Diameter Deformed Bars": "195/pc",
-                "\u00a016mm Diameter Deformed Bars": "350/pc",
-                "\u00a0#16 G.I. Tie Wire": "70/kg",
+                "10mm Diameter Deformed Bars": "140/pc",
+                "12mm Diameter Deformed Bars": "195/pc",
+                "16mm Diameter Deformed Bars": "350/pc",
+                "16 G.I. Tie Wire": "70/kg",
                 "Hacksaw Blade": "60/pc"
             },
             "Formworks": {
-                "\u00a01/2? x 4' x 8' Plywood": "950/pc",
-                "\u00a06mm thk. Lawanit board": "250/pc",
+                "1-2x 4x 8 Plywood": "950/pc",
+                "6mm thk. Lawanit board": "250/pc",
                 "Common Nail": "80/kg"
             },
             "Painting Works": {
@@ -157,7 +157,7 @@
                 "Brush Roller (152mm)": "75/pc",
                 "Brush Steel (101mm)": "50/pc",
                 "Concrete neutralizer": "250/gal",
-                "2?paint brush": "45/pc",
+                "Paint brush 2": "45/pc",
                 "Paint thinner": "480/gal",
                 "Sand paper 120": "20/pc",
                 "Paint brush 4": "110/pc",
@@ -200,23 +200,22 @@
                 "Pozzolan Cement, 40kg": "250/bag"
             },
             "Steel Bars": {
-                "\u00a010mm Diameter Deformed Bars": "160/pc",
-                "\u00a012mm Diameter Deformed Bars": "260/pc",
-                "\u00a016mm Diameter Deformed Bars": "350/pc",
+                "10mm Diameter Deformed Bars": "160/pc",
+                "12mm Diameter Deformed Bars": "260/pc",
+                "16mm Diameter Deformed Bars": "350/pc",
                 "Hacksaw Blade": "75/pc"
             },
             "Formworks": {
-                "\u00a02 x 3 x 10' Coco lumber": "125/pc",
-                "\u00a02 x 4 x 10 Coco lumber": "170/pc",
-                "\u00a01/2? x 4' x 8' Plywood": "950/pc",
-                "\u00a01?x2?x8' Hard wood or its equivalent": "90/pc",
-                "\u00a02?x2?x8' Hard wood or its equivalent": "190/pc",
-                "\u00a02?x2?x8\u2019Hardwood or its equivalent": "190/pc",
-                "\u00a02?x4?x8' Hard wood or its equivalent": "2,080/pc"
+                "2 x 3 x 10 Coco lumber": "125/pc",
+                "2 x 4 x 10 Coco lumber": "170/pc",
+                "1-2x 4x 8 Plywood": "950/pc",
+                "1x2x8 Hard wood or its equivalent": "90/pc",
+                "2x2x8 Hardwood or its equivalent": "190/pc",
+                "2x4x8 Hard wood or its equivalent": "2,080/pc"
             },
             "Painting Works": {
                 "Putty Knife": "40/pc",
-                "2?paint brush": "35/pc",
+                "Paint brush 2": "35/pc",
                 "Paint thinner": "295/gal",
                 "Sand paper 120": "20/pc",
                 "Paint brush 4": "95/pc",
@@ -226,8 +225,8 @@
                 "100mm dia. PVC": "395/pc",
                 "75mm dia. PVC": "295/pc",
                 "50mm dia PVC (vp & wp)": "195/pc",
-                "PVC Clean Out w/ plug & sealing ring 100mm": "95/pc",
-                "PVC Clean Out w/ plug & sealing ring 150mm": "220/pc",
+                "PVC Clean Out w plug-sealing ring 100mm": "95/pc",
+                "PVC Clean Out w plug & sealing ring 150mm": "220/pc",
                 "PVC Tee (100mm)": "95/pc",
                 "PVC WYE (100mm)": "95/pc",
                 "PVC WYE REDUCER (100mmX50mm)": "65/pc",
@@ -288,16 +287,16 @@
                 "Pozzolan Cement, 40kg": "235/bag"
             },
             "Steel Bars": {
-                "\u00a010mm Diameter Deformed Bars": "128/pc",
-                "\u00a012mm Diameter Deformed Bars": "195/pc",
-                "\u00a016mm Diameter Deformed Bars": "345/pc",
-                "\u00a0#16 G.I. Tie Wire": "80/kg",
+                "10mm Diameter Deformed Bars": "128/pc",
+                "12mm Diameter Deformed Bars": "195/pc",
+                "16mm Diameter Deformed Bars": "345/pc",
+                "16 G.I. Tie Wire": "80/kg",
                 "Hacksaw Blade": "60/pc"
             },
             "Formworks": {
-                "\u00a02 x 3 x 10' Coco lumber": "130/pc",
-                "\u00a02 x 4 x 10 Coco lumber": "180/pc",
-                "\u00a01/2? x 4' x 8' Plywood": "1,000/pc"
+                "2 x 3 x 10 Coco lumber": "130/pc",
+                "2 x 4 x 10 Coco lumber": "180/pc",
+                "1-2x 4x 8 Plywood": "1,000/pc"
             },
             "Painting Works": {
                 "Paint Enamel": "650/gal",
@@ -308,7 +307,7 @@
                 "Concrete neutralizer": "390/gal",
                 "Putty Knife": "45/pc",
                 "Roller paint 9 w tray": "140/pc",
-                "2?paint brush": "35/pc",
+                "Paint brush 2": "35/pc",
                 "Paint thinner": "400/pc",
                 "Sand paper 120": "20/pc",
                 "Paint brush 4": "95/pc",
@@ -323,8 +322,8 @@
         },
         "inventory": {
             "Electrical Works": {
-                "Paint brush 4Utility Box Gauge 16 (50mm x 101mm x 53mm) Deep": "22.75/pc",
-                "Square Box (101mm x 53mm) Deep Type Gague #16": "74.75/pc",
+                "Utility Box Gauge 16 (50mm x 101mm x 53mm) Deep": "22.75/pc",
+                "Square Box (101mm x 53mm) Deep Type Gague 16": "74.75/pc",
                 "Single Gang Switch": "89.75/set",
                 "Two-Gang Switch": "199.75/set",
                 "Three-Gang Switch": "109.75/set",
@@ -343,7 +342,7 @@
                 "Paint Latex Gloss": "574/gal",
                 "Paint Latex Semi-Gloss": "574/gal",
                 "Brush Roller (152mm)": "45/pc",
-                "2?paint brush": "95/pc",
+                "Paint brush 2": "95/pc",
                 "Paint thinner": "355/gal",
                 "Sand paper 120": "15.75/pc",
                 "Paint brush 2": "95/pc"
@@ -364,12 +363,12 @@
         },
         "inventory": {
             "Electrical Works": {
-                "Octagonal Junction Box Type Gauge 16  (101mm x 101mm x 53mm) Deep": "35/pc"
+                "Octagonal Junction Box Type Gauge 16 (101mm x 101mm x 53mm)": "35/pc"
             },
             "Boxes and Gutter": {
-                "Junction box depth type,metal gauge 16 w/ cover": "35/pc",
-                "Utility box depth type, metal gauge 16 w/cover": "35/pc",
-                "4\u00d74 square box depth, metal gauge 16 w/cover": "75/pc"
+                "Junction box depth type,metal gauge 16 with cover": "35/pc",
+                "Utility box depth type, metal gauge 16 with cover": "35/pc",
+                "4x4 square box depth, metal gauge 16 with cover": "75/pc"
             },
             "Miscellaneous and Consumables": {
                 "Electrical tape big": "38/pc",
@@ -403,15 +402,15 @@
                 "Pozzolan Cement, 40kg": "230/bag"
             },
             "Steel Bars": {
-                "\u00a010mm Diameter Deformed Bars": "140/pc",
-                "\u00a012mm Diameter Deformed Bars": "195/pc",
-                "\u00a016mm Diameter Deformed Bars": "350/pc",
-                "\u00a0#16 G.I. Tie Wire": "70/kg",
+                "10mm Diameter Deformed Bars": "140/pc",
+                "12mm Diameter Deformed Bars": "195/pc",
+                "16mm Diameter Deformed Bars": "350/pc",
+                "16 G.I. Tie Wire": "70/kg",
                 "Hacksaw Blade": "60/pc"
             },
             "Formworks": {
-                "\u00a01/2? x 4' x 8' Plywood": "950/pc",
-                "\u00a06mm thk. Lawanit board": "250/pc",
+                "1-2x 4x 8 Plywood": "950/pc",
+                "6mm thk. Lawanit board": "250/pc",
                 "Common Nail": "80/kg"
             },
             "Painting Works": {
@@ -423,7 +422,7 @@
                 "Brush Roller (152mm)": "75/pc",
                 "Brush Steel (101mm)": "50/pc",
                 "Concrete neutralizer": "250/gal",
-                "2?paint brush": "45/pc",
+                "Paint brush 2": "45/pc",
                 "Paint thinner": "480/gal",
                 "Sand paper 120": "20/pc",
                 "Paint brush 4": "110/pc",
@@ -491,19 +490,19 @@
                 "Pozzolan Cement, 40kg": "225/bag"
             },
             "Steel Bars": {
-                "\u00a010mm Diameter Deformed Bars": "128/pc",
-                "\u00a012mm Diameter Deformed Bars": "178/pc",
-                "\u00a016mm Diameter Deformed Bars": "330/pc",
-                "\u00a0#16 G.I. Tie Wire": "70/kg",
+                "10mm Diameter Deformed Bars": "128/pc",
+                "12mm Diameter Deformed Bars": "178/pc",
+                "16mm Diameter Deformed Bars": "330/pc",
+                "16 G.I. Tie Wire": "70/kg",
                 "Hacksaw Blade": "60/pc"
             },
             "Formworks": {
-                "\u00a02 x 3 x 10' Coco lumber": "150/pc",
-                "\u00a02 x 4 x 10 Coco lumber": "180/pc",
-                "\u00a01/2? x 4' x 8' Plywood": "900/pc",
-                "\u00a06mm thk. Ordinary Plywood": "280/pc",
-                "\u00a01?x2?x8' Hard wood or its equivalent": "150/pc",
-                "\u00a02?x2?x8' Hard wood or its equivalent": "350/pc",
+                "2 x 3 x 10 Coco lumber": "150/pc",
+                "2 x 4 x 10 Coco lumber": "180/pc",
+                "1-2x 4x 8 Plywood": "900/pc",
+                "6mm thk. Ordinary Plywood": "280/pc",
+                "1x2x8 Hard wood or its equivalent": "150/pc",
+                "2x2x8 Hard wood or its equivalent": "350/pc",
                 "Common Nail": "70/kg",
                 "Box Nail": "1,250/kg"
             },
@@ -520,7 +519,7 @@
                 "Concrete neutralizer": "300/gal",
                 "Putty Knife": "40/pc",
                 "Roller paint 9 w tray": "150/pc",
-                "2?paint brush": "35/pc",
+                "Paint brush 2": "35/pc",
                 "Paint thinner": "250/gal",
                 "Sand paper 120": "18/pc",
                 "Paint brush 4": "95/pc",
@@ -574,16 +573,16 @@
                 "Pozzolan Cement, 40kg": "235/bag"
             },
             "Steel Bars": {
-                "\u00a010mm Diameter Deformed Bars": "128/pc",
-                "\u00a012mm Diameter Deformed Bars": "195/pc",
-                "\u00a016mm Diameter Deformed Bars": "345/pc",
-                "\u00a0#16 G.I. Tie Wire": "80/kg",
+                "10mm Diameter Deformed Bars": "128/pc",
+                "12mm Diameter Deformed Bars": "195/pc",
+                "16mm Diameter Deformed Bars": "345/pc",
+                "16 G.I. Tie Wire": "80/kg",
                 "Hacksaw Blade": "60/pc"
             },
             "Formworks": {
-                "\u00a02 x 3 x 10' Coco lumber": "130/pc",
-                "\u00a02 x 4 x 10 Coco lumber": "180/pc",
-                "\u00a01/2? x 4' x 8' Plywood": "1,000/pc"
+                "2 x 3 x 10 Coco lumber": "130/pc",
+                "2 x 4 x 10 Coco lumber": "180/pc",
+                "1-2x 4x 8 Plywood": "1,000/pc"
             },
             "Painting Works": {
                 "Paint Enamel": "650/gal",
@@ -594,7 +593,7 @@
                 "Concrete neutralizer": "390/gal",
                 "Putty Knife": "45/pc",
                 "Roller paint 9 w tray": "140/pc",
-                "2?paint brush": "35/pc",
+                "Paint brush 2": "35/pc",
                 "Paint thinner": "400/pc",
                 "Sand paper 120": "20/pc",
                 "Paint brush 4": "95/pc",
@@ -626,7 +625,7 @@
                 "Tie Wire 16": "100/kg"
             },
             "Steel Bars": {
-                "\u00a0#16 G.I. Tie Wire": "100/kg",
+                "16 G.I. Tie Wire": "100/kg",
                 "Hacksaw Blade": "65/pc"
             },
             "Formworks": {
@@ -695,19 +694,19 @@
                 "Pozzolan Cement, 40kg": "225/bag"
             },
             "Steel Bars": {
-                "\u00a010mm Diameter Deformed Bars": "128/pc",
-                "\u00a012mm Diameter Deformed Bars": "178/pc",
-                "\u00a016mm Diameter Deformed Bars": "330/pc",
-                "\u00a0#16 G.I. Tie Wire": "70/kg",
+                "10mm Diameter Deformed Bars": "128/pc",
+                "12mm Diameter Deformed Bars": "178/pc",
+                "16mm Diameter Deformed Bars": "330/pc",
+                "16 G.I. Tie Wire": "70/kg",
                 "Hacksaw Blade": "60/pc"
             },
             "Formworks": {
-                "\u00a02 x 3 x 10' Coco lumber": "150/pc",
-                "\u00a02 x 4 x 10 Coco lumber": "180/pc",
-                "\u00a01/2? x 4' x 8' Plywood": "900/pc",
-                "\u00a06mm thk. Ordinary Plywood": "280/pc",
-                "\u00a01?x2?x8' Hard wood or its equivalent": "150/pc",
-                "\u00a02?x2?x8' Hard wood or its equivalent": "350/pc",
+                "2 x 3 x 10 Coco lumber": "150/pc",
+                "2 x 4 x 10 Coco lumber": "180/pc",
+                "1-2x 4x 8 Plywood": "900/pc",
+                "6mm thk. Ordinary Plywood": "280/pc",
+                "1x2x8 Hard wood or its equivalent": "150/pc",
+                "2x2x8 Hard wood or its equivalent": "350/pc",
                 "Common Nail": "70/kg",
                 "Box Nail": "1,250/kg"
             },
@@ -724,7 +723,7 @@
                 "Concrete neutralizer": "300/gal",
                 "Putty Knife": "40/pc",
                 "Roller paint 9 w tray": "150/pc",
-                "2?paint brush": "35/pc",
+                "Paint brush 2": "35/pc",
                 "Paint thinner": "250/gal",
                 "Sand paper 120": "18/pc",
                 "Paint brush 4": "95/pc",
@@ -740,8 +739,8 @@
         },
         "inventory": {
             "Electrical Works": {
-                "Paint brush 4Utility Box Gauge 16 (50mm x 101mm x 53mm) Deep": "22.75/pc",
-                "Square Box (101mm x 53mm) Deep Type Gague #16": "74.75/pc",
+                "Utility Box Gauge 16 (50mm x 101mm x 53mm) Deep": "22.75/pc",
+                "Square Box (101mm x 53mm) Deep Type Gague 16": "74.75/pc",
                 "Single Gang Switch": "89.75/set",
                 "Two-Gang Switch": "199.75/set",
                 "Three-Gang Switch": "109.75/set",
@@ -760,7 +759,7 @@
                 "Paint Latex Gloss": "574/gal",
                 "Paint Latex Semi-Gloss": "574/gal",
                 "Brush Roller (152mm)": "45/pc",
-                "2?paint brush": "95/pc",
+                "Paint brush 2": "95/pc",
                 "Paint thinner": "355/gal",
                 "Sand paper 120": "15.75/pc",
                 "Paint brush 2": "95/pc"
@@ -819,16 +818,16 @@
                 "Pozzolan Cement, 40kg": "235/bag"
             },
             "Steel Bars": {
-                "\u00a010mm Diameter Deformed Bars": "128/pc",
-                "\u00a012mm Diameter Deformed Bars": "195/pc",
-                "\u00a016mm Diameter Deformed Bars": "345/pc",
-                "\u00a0#16 G.I. Tie Wire": "80/kg",
+                "10mm Diameter Deformed Bars": "128/pc",
+                "12mm Diameter Deformed Bars": "195/pc",
+                "16mm Diameter Deformed Bars": "345/pc",
+                "16 G.I. Tie Wire": "80/kg",
                 "Hacksaw Blade": "60/pc"
             },
             "Formworks": {
-                "\u00a02 x 3 x 10' Coco lumber": "130/pc",
-                "\u00a02 x 4 x 10 Coco lumber": "180/pc",
-                "\u00a01/2? x 4' x 8' Plywood": "1,000/pc"
+                "2 x 3 x 10 Coco lumber": "130/pc",
+                "2 x 4 x 10 Coco lumber": "180/pc",
+                "1-2x 4x 8 Plywood": "1,000/pc"
             },
             "Painting Works": {
                 "Paint Enamel": "650/gal",
@@ -839,7 +838,7 @@
                 "Concrete neutralizer": "390/gal",
                 "Putty Knife": "45/pc",
                 "Roller paint 9 w tray": "140/pc",
-                "2?paint brush": "35/pc",
+                "Paint brush 2": "35/pc",
                 "Paint thinner": "400/pc",
                 "Sand paper 120": "20/pc",
                 "Paint brush 4": "95/pc",
@@ -854,8 +853,8 @@
         },
         "inventory": {
             "Electrical Works": {
-                "Paint brush 4Utility Box Gauge 16 (50mm x 101mm x 53mm) Deep": "22.75/pc",
-                "Square Box (101mm x 53mm) Deep Type Gague #16": "74.75/pc",
+                "Utility Box Gauge 16 (50mm x 101mm x 53mm) Deep": "22.75/pc",
+                "Square Box (101mm x 53mm) Deep Type Gague 16": "74.75/pc",
                 "Single Gang Switch": "89.75/set",
                 "Two-Gang Switch": "199.75/set",
                 "Three-Gang Switch": "109.75/set",
@@ -874,7 +873,7 @@
                 "Paint Latex Gloss": "574/gal",
                 "Paint Latex Semi-Gloss": "574/gal",
                 "Brush Roller (152mm)": "45/pc",
-                "2?paint brush": "95/pc",
+                "Paint brush 2": "95/pc",
                 "Paint thinner": "355/gal",
                 "Sand paper 120": "15.75/pc",
                 "Paint brush 2": "95/pc"
@@ -895,12 +894,12 @@
         },
         "inventory": {
             "Electrical Works": {
-                "Octagonal Junction Box Type Gauge 16  (101mm x 101mm x 53mm) Deep": "35/pc"
+                "Octagonal Junction Box Type Gauge 16 (101mm x 101mm x 53mm)": "35/pc"
             },
             "Boxes and Gutter": {
-                "Junction box depth type,metal gauge 16 w/ cover": "35/pc",
-                "Utility box depth type, metal gauge 16 w/cover": "35/pc",
-                "4\u00d74 square box depth, metal gauge 16 w/cover": "75/pc"
+                "Junction box depth type,metal gauge 16 with cover": "35/pc",
+                "Utility box depth type, metal gauge 16 with cover": "35/pc",
+                "4x4 square box depth, metal gauge 16 with cover": "75/pc"
             },
             "Miscellaneous and Consumables": {
                 "Electrical tape big": "38/pc",
@@ -934,15 +933,15 @@
                 "Pozzolan Cement, 40kg": "230/bag"
             },
             "Steel Bars": {
-                "\u00a010mm Diameter Deformed Bars": "140/pc",
-                "\u00a012mm Diameter Deformed Bars": "195/pc",
-                "\u00a016mm Diameter Deformed Bars": "350/pc",
-                "\u00a0#16 G.I. Tie Wire": "70/kg",
+                "10mm Diameter Deformed Bars": "140/pc",
+                "12mm Diameter Deformed Bars": "195/pc",
+                "16mm Diameter Deformed Bars": "350/pc",
+                "16 G.I. Tie Wire": "70/kg",
                 "Hacksaw Blade": "60/pc"
             },
             "Formworks": {
-                "\u00a01/2? x 4' x 8' Plywood": "950/pc",
-                "\u00a06mm thk. Lawanit board": "250/pc",
+                "1-2x 4x 8 Plywood": "950/pc",
+                "6mm thk. Lawanit board": "250/pc",
                 "Common Nail": "80/kg"
             },
             "Painting Works": {
@@ -954,7 +953,7 @@
                 "Brush Roller (152mm)": "75/pc",
                 "Brush Steel (101mm)": "50/pc",
                 "Concrete neutralizer": "250/gal",
-                "2?paint brush": "45/pc",
+                "Paint brush 2": "45/pc",
                 "Paint thinner": "480/gal",
                 "Sand paper 120": "20/pc",
                 "Paint brush 4": "110/pc",
@@ -982,9 +981,9 @@
                 "Duplex Convenience Outlet": "35/set"
             },
             "Pipe and Fitting": {
-                "20mmdia UPVC\u00a0 pipe": "67/pc",
+                "20mmdia UPVC pipe": "67/pc",
                 "20mmdia UPVC coupling": "4/pc",
-                "20mmdia\u00a0 UPVC adoptor": "10/pc"
+                "20mmdia UPVC adoptor": "10/pc"
             },
             "Miscellaneous and Consumables": {
                 "Electrical tape big": "35/pc",
@@ -1010,12 +1009,12 @@
                 "Pozzolan Cement, 40kg": "240/bag"
             },
             "Steel Bars": {
-                "\u00a0#16 G.I. Tie Wire": "80/pc",
+                "16 G.I. Tie Wire": "80/pc",
                 "Hacksaw Blade": "60/pc"
             },
             "Formworks": {
-                "\u00a01?x2?x8' Hard wood or its equivalent": "126/pc",
-                "\u00a02?x2?x8' Hard wood or its equivalent": "253.30/pc",
+                "1x2x8 Hard wood or its equivalent": "126/pc",
+                "2x2x8 Hard wood or its equivalent": "253.30/pc",
                 "Common Nail": "64/kg",
                 "Box Nail": "1480/kg"
             },
@@ -1026,7 +1025,7 @@
                 "Concrete neutralizer": "435/gal",
                 "Putty Knife": "20/pc",
                 "Roller paint 9 w tray": "140/pc",
-                "2?paint brush": "40/pc",
+                "Paint brush 2": "40/pc",
                 "Paint thinner": "265/gal",
                 "Sand paper 120": "20/pc",
                 "Paint brush 4": "100/pc",
@@ -1036,9 +1035,9 @@
                 "100mm dia. PVC": "336/pc",
                 "75mm dia. PVC": "252/pc",
                 "50mm dia PVC (vp & wp)": "125/pc",
-                "PVC Clean Out w/ plug & sealing ring 100mm": "60/pc",
-                "PVC Clean Out w/ plug & sealing ring 150mm": "36/pc",
-                "PVC P-Trap w/ plug & sealing ring 50mm": "20/pc",
+                "PVC Clean Out w plug-sealing ring 100mm": "60/pc",
+                "PVC Clean Out w plug & sealing ring 150mm": "36/pc",
+                "PVC P-Trap w plug & sealing ring 50mm": "20/pc",
                 "PVC Tee (100mm)": "108/pc",
                 "PVC WYE (100mm)": "124/pc",
                 "PVC WYE REDUCER (100mmX50mm)": "114/pc",
@@ -1070,12 +1069,12 @@
                 "PVC Conduit Coupling (12.7mm D)": "38/pc",
                 "PVC Conduit Coupling (19mm D)": "52/pc",
                 "PVC Conduit Coupling (25.4mm D)": "49/pc",
-                "Octagonal Junction Box Type Gauge 16  (101mm x 101mm x 53mm) Deep": "92/pc",
-                "Paint brush 4Utility Box Gauge 16 (50mm x 101mm x 53mm) Deep": "75/pc",
-                "Square Box (101mm x 53mm) Deep Type Gague #16": "235/pc",
-                "Square Box (101mm x 63mm) Deep Type Gague #16": "300/pc",
-                "Metal Pull Box (152mm x 152mm x 101mm) Gauge #16": "950/pc",
-                "Metal Pull Box (304mm x 304mm x 101mm) Gauge #16": "1,350/pc",
+                "Octagonal Junction Box Type Gauge 16 (101mm x 101mm x 53mm)": "92/pc",
+                "Utility Box Gauge 16 (50mm x 101mm x 53mm) Deep": "75/pc",
+                "Square Box (101mm x 53mm) Deep Type Gague 16": "235/pc",
+                "Square Box (101mm x 63mm) Deep Type Gague 16": "300/pc",
+                "Metal Pull Box (152mm x 152mm x 101mm) Gauge 16": "950/pc",
+                "Metal Pull Box (304mm x 304mm x 101mm) Gauge 16": "1,350/pc",
                 "Mica Tubing": "48/pc",
                 "Electric Wire THWNTHHN 2.0mm2": "2,450/BOX",
                 "Electric Wire THWNTHHN 3.5mm2": "3,600/BOX",
@@ -1089,18 +1088,18 @@
                 "Electrical Tape": "39/pc"
             },
             "Pipe and Fitting": {
-                "20mmdia UPVC\u00a0 pipe": "65/pc",
+                "20mmdia UPVC pipe": "65/pc",
                 "20mmdia RSC conduit": "265/pc",
                 "20mmdia RSC coupling": "20/pc",
                 "20mmdia UPVC coupling": "20/pc",
-                "20mmdia\u00a0 UPVC adoptor": "15/pc",
+                "20mmdia UPVC adoptor": "15/pc",
                 "20mm dia. Locknut& bushing": "28/pc",
                 "20mm dia. RSC Locknut& bushing": "28/pc"
             },
             "Boxes and Gutter": {
-                "Junction box depth type,metal gauge 16 w/ cover": "85/pc",
-                "Utility box depth type, metal gauge 16 w/cover": "78/pc",
-                "4\u00d74 square box depth, metal gauge 16 w/cover": "165/pc"
+                "Junction box depth type,metal gauge 16 with cover": "85/pc",
+                "Utility box depth type, metal gauge 16 with cover": "78/pc",
+                "4x4 square box depth, metal gauge 16 with cover": "165/pc"
             },
             "Miscellaneous and Consumables": {
                 "Electrical tape big": "40/pc",
@@ -1137,18 +1136,18 @@
                 "Pozzolan Cement, 40kg": "220/bag"
             },
             "Steel Bars": {
-                "\u00a010mm Diameter Deformed Bars": "120/pc",
-                "\u00a012mm Diameter Deformed Bars": "170/pc",
-                "\u00a016mm Diameter Deformed Bars": "330/pc",
-                "\u00a0#16 G.I. Tie Wire": "70/kg",
+                "10mm Diameter Deformed Bars": "120/pc",
+                "12mm Diameter Deformed Bars": "170/pc",
+                "16mm Diameter Deformed Bars": "330/pc",
+                "16 G.I. Tie Wire": "70/kg",
                 "Hacksaw Blade": "65/pc"
             },
             "Formworks": {
-                "\u00a02 x 3 x 10' Coco lumber": "150/pc",
-                "\u00a02 x 4 x 10 Coco lumber": "150/pc",
-                "\u00a01/2? x 4' x 8' Plywood": "880/pc",
-                "\u00a01?x2?x8' Hard wood or its equivalent": "295/pc",
-                "\u00a02?x2?x8' Hard wood or its equivalent": "300/pc"
+                "2 x 3 x 10 Coco lumber": "150/pc",
+                "2 x 4 x 10 Coco lumber": "150/pc",
+                "1-2x 4x 8 Plywood": "880/pc",
+                "1x2x8 Hard wood or its equivalent": "295/pc",
+                "2x2x8 Hard wood or its equivalent": "300/pc"
             },
             "Painting Works": {
                 "Paint Latex Semi-Gloss": "571/gal",
@@ -1163,7 +1162,7 @@
                 "Concrete neutralizer": "460/gal",
                 "Putty Knife": "48/pc",
                 "Roller paint 9 w tray": "148/pc",
-                "2?paint brush": "38/pc",
+                "Paint brush 2": "38/pc",
                 "Paint thinner": "285/gal",
                 "Sand paper 120": "20/pc",
                 "Paint brush 4": "58/pc",
@@ -1171,9 +1170,9 @@
             },
             "Plumbing and Sanitary Works": {
                 "100mm dia. PVC": "720/pc",
-                "PVC Clean Out w/ plug & sealing ring 100mm": "68/pc",
-                "PVC Clean Out w/ plug & sealing ring 150mm": "480/pc",
-                "PVC P-Trap w/ plug & sealing ring 50mm": "88/pc",
+                "PVC Clean Out w plug-sealing ring 100mm": "68/pc",
+                "PVC Clean Out w plug & sealing ring 150mm": "480/pc",
+                "PVC P-Trap w plug & sealing ring 50mm": "88/pc",
                 "PVC Te (150mm)": "1,350/pc",
                 "PVC Tee (100mm)": "245/pc",
                 "PVC WYE (100mm)": "245/pc",
@@ -1211,12 +1210,12 @@
                 "PVC Conduit Coupling (12.7mm D)": "6/pc",
                 "PVC Conduit Coupling (19mm D)": "9/pc",
                 "PVC Conduit Coupling (25.4mm D)": "20/pc",
-                "Octagonal Junction Box Type Gauge 16  (101mm x 101mm x 53mm) Deep": "32/pc",
-                "Paint brush 4Utility Box Gauge 16 (50mm x 101mm x 53mm) Deep": "26/pc",
-                "Square Box (101mm x 53mm) Deep Type Gague #16": "135/pc",
-                "Square Box (101mm x 63mm) Deep Type Gague #16": "135/pc",
-                "Metal Pull Box (152mm x 152mm x 101mm) Gauge #16": "288/pc",
-                "Metal Pull Box (304mm x 304mm x 101mm) Gauge #16": "760/pc",
+                "Octagonal Junction Box Type Gauge 16 (101mm x 101mm x 53mm)": "32/pc",
+                "Utility Box Gauge 16 (50mm x 101mm x 53mm) Deep": "26/pc",
+                "Square Box (101mm x 53mm) Deep Type Gague 16": "135/pc",
+                "Square Box (101mm x 63mm) Deep Type Gague 16": "135/pc",
+                "Metal Pull Box (152mm x 152mm x 101mm) Gauge 16": "288/pc",
+                "Metal Pull Box (304mm x 304mm x 101mm) Gauge 16": "760/pc",
                 "Mica Tubing": "40/pc",
                 "Electric Wire THWNTHHN 2.0mm2": "2,278/BOX",
                 "Electric Wire THWNTHHN 3.5mm2": "3,342/BOX",
@@ -1231,18 +1230,18 @@
                 "Electrical Tape": "37/pc"
             },
             "Pipe and Fitting": {
-                "20mmdia UPVC\u00a0 pipe": "82/pc",
+                "20mmdia UPVC pipe": "82/pc",
                 "20mmdia RSC conduit": "245/pc",
                 "20mmdia RSC coupling": "14/pc",
                 "20mmdia UPVC coupling": "5/pc",
-                "20mmdia\u00a0 UPVC adoptor": "10/pc",
+                "20mmdia UPVC adoptor": "10/pc",
                 "20mm dia. Locknut& bushing": "14/pc",
                 "20mm dia. RSC Locknut& bushing": "14/pc"
             },
             "Boxes and Gutter": {
-                "Junction box depth type,metal gauge 16 w/ cover": "32/pc",
-                "Utility box depth type, metal gauge 16 w/cover": "26/pc",
-                "4\u00d74 square box depth, metal gauge 16 w/cover": "135/pc"
+                "Junction box depth type,metal gauge 16 with cover": "32/pc",
+                "Utility box depth type, metal gauge 16 with cover": "26/pc",
+                "4x4 square box depth, metal gauge 16 with cover": "135/pc"
             },
             "Miscellaneous and Consumables": {
                 "Electrical tape big": "37/pc",
@@ -1272,21 +1271,21 @@
                 "Pozzolan Cement, 40kg": "220/bag"
             },
             "Steel Bars": {
-                "\u00a010mm Diameter Deformed Bars": "120/pc",
-                "\u00a012mm Diameter Deformed Bars": "175/pc",
-                "\u00a016mm Diameter Deformed Bars": "320/pc",
-                "\u00a020mm Diameter Deformed Bars": "540/pc",
-                "\u00a0#16 G.I. Tie Wire": "70/kg",
+                "10mm Diameter Deformed Bars": "120/pc",
+                "12mm Diameter Deformed Bars": "175/pc",
+                "16mm Diameter Deformed Bars": "320/pc",
+                "20mm Diameter Deformed Bars": "540/pc",
+                "16 G.I. Tie Wire": "70/kg",
                 "Hacksaw Blade": "60/pc"
             },
             "Formworks": {
-                "\u00a01/2? x 4' x 8' Plywood": "795/pc",
-                "\u00a06mm thk. Lawanit board": "260/pc",
-                "\u00a06mm thk. Ordinary Plywood": "560/pc",
-                "\u00a01?x2?x8' Hard wood or its equivalent": "138/pc",
-                "\u00a02?x2?x8' Hard wood or its equivalent": "254/pc",
-                "\u00a02?x2?x8\u2019Hardwood or its equivalent": "254/pc",
-                "\u00a02?x4?x8' Hard wood or its equivalent": "534/pc",
+                "1-2x 4x 8 Plywood": "795/pc",
+                "6mm thk. Lawanit board": "260/pc",
+                "6mm thk. Ordinary Plywood": "560/pc",
+                "1x2x8 Hard wood or its equivalent": "138/pc",
+                "2x2x8 Hard wood or its equivalent": "254/pc",
+                "2x2x8 Hardwood or its equivalent": "254/pc",
+                "2x4x8 Hard wood or its equivalent": "534/pc",
                 "Common Nail": "64/kg",
                 "Box Nail": "1,300/kg"
             },
@@ -1308,7 +1307,7 @@
                 "Concrete neutralizer": "485/gal",
                 "Putty Knife": "30/pc",
                 "Roller paint 9 w tray": "127/pc",
-                "2?paint brush": "50/pc",
+                "Paint brush 2": "50/pc",
                 "Paint thinner": "250/gal",
                 "Sand paper 120": "17/pc",
                 "Paint brush 4": "145/pc",
@@ -1319,9 +1318,9 @@
                 "100mm dia. PVC": "786/pc",
                 "75mm dia. PVC": "590/pc",
                 "50mm dia PVC (vp & wp)": "275/pc",
-                "PVC Clean Out w/ plug & sealing ring 100mm": "84/pc",
-                "PVC Clean Out w/ plug & sealing ring 150mm": "395/pc",
-                "PVC P-Trap w/ plug & sealing ring 50mm": "110/pc",
+                "PVC Clean Out w plug-sealing ring 100mm": "84/pc",
+                "PVC Clean Out w plug & sealing ring 150mm": "395/pc",
+                "PVC P-Trap w plug & sealing ring 50mm": "110/pc",
                 "PVC Te (150mm)": "1,027/pc",
                 "PVC Tee (100mm)": "192/pc",
                 "PVC WYE (100mm)": "171/pc",
@@ -1386,19 +1385,19 @@
                 "Pozzolan Cement, 40kg": "225/bag"
             },
             "Steel Bars": {
-                "\u00a010mm Diameter Deformed Bars": "128/pc",
-                "\u00a012mm Diameter Deformed Bars": "178/pc",
-                "\u00a016mm Diameter Deformed Bars": "330/pc",
-                "\u00a0#16 G.I. Tie Wire": "70/kg",
+                "10mm Diameter Deformed Bars": "128/pc",
+                "12mm Diameter Deformed Bars": "178/pc",
+                "16mm Diameter Deformed Bars": "330/pc",
+                "16 G.I. Tie Wire": "70/kg",
                 "Hacksaw Blade": "60/pc"
             },
             "Formworks": {
-                "\u00a02 x 3 x 10' Coco lumber": "150/pc",
-                "\u00a02 x 4 x 10 Coco lumber": "180/pc",
-                "\u00a01/2? x 4' x 8' Plywood": "900/pc",
-                "\u00a06mm thk. Ordinary Plywood": "280/pc",
-                "\u00a01?x2?x8' Hard wood or its equivalent": "150/pc",
-                "\u00a02?x2?x8' Hard wood or its equivalent": "350/pc",
+                "2 x 3 x 10 Coco lumber": "150/pc",
+                "2 x 4 x 10 Coco lumber": "180/pc",
+                "1-2x 4x 8 Plywood": "900/pc",
+                "6mm thk. Ordinary Plywood": "280/pc",
+                "1x2x8 Hard wood or its equivalent": "150/pc",
+                "2x2x8 Hard wood or its equivalent": "350/pc",
                 "Common Nail": "70/kg",
                 "Box Nail": "1,250/kg"
             },
@@ -1415,7 +1414,7 @@
                 "Concrete neutralizer": "300/gal",
                 "Putty Knife": "40/pc",
                 "Roller paint 9 w tray": "150/pc",
-                "2?paint brush": "35/pc",
+                "Paint brush 2": "35/pc",
                 "Paint thinner": "250/gal",
                 "Sand paper 120": "18/pc",
                 "Paint brush 4": "95/pc",
@@ -1453,23 +1452,22 @@
                 "Pozzolan Cement, 40kg": "250/bag"
             },
             "Steel Bars": {
-                "\u00a010mm Diameter Deformed Bars": "160/pc",
-                "\u00a012mm Diameter Deformed Bars": "260/pc",
-                "\u00a016mm Diameter Deformed Bars": "350/pc",
+                "10mm Diameter Deformed Bars": "160/pc",
+                "12mm Diameter Deformed Bars": "260/pc",
+                "16mm Diameter Deformed Bars": "350/pc",
                 "Hacksaw Blade": "75/pc"
             },
             "Formworks": {
-                "\u00a02 x 3 x 10' Coco lumber": "125/pc",
-                "\u00a02 x 4 x 10 Coco lumber": "170/pc",
-                "\u00a01/2? x 4' x 8' Plywood": "950/pc",
-                "\u00a01?x2?x8' Hard wood or its equivalent": "90/pc",
-                "\u00a02?x2?x8' Hard wood or its equivalent": "190/pc",
-                "\u00a02?x2?x8\u2019Hardwood or its equivalent": "190/pc",
-                "\u00a02?x4?x8' Hard wood or its equivalent": "2,080/pc"
+                "2 x 3 x 10 Coco lumber": "125/pc",
+                "2 x 4 x 10 Coco lumber": "170/pc",
+                "1-2x 4x 8 Plywood": "950/pc",
+                "1x2x8 Hard wood or its equivalent": "90/pc",
+                "2x2x8 Hardwood or its equivalent": "190/pc",
+                "2x4x8 Hard wood or its equivalent": "2,080/pc"
             },
             "Painting Works": {
                 "Putty Knife": "40/pc",
-                "2?paint brush": "35/pc",
+                "Paint brush 2": "35/pc",
                 "Paint thinner": "295/gal",
                 "Sand paper 120": "20/pc",
                 "Paint brush 4": "95/pc",
@@ -1479,18 +1477,18 @@
                 "100mm dia. PVC": "395/pc",
                 "75mm dia. PVC": "295/pc",
                 "50mm dia PVC (vp & wp)": "195/pc",
-                "PVC Clean Out w/ plug & sealing ring 100mm": "95/pc",
-                "PVC Clean Out w/ plug & sealing ring 150mm": "220/pc",
+                "PVC Clean Out w plug-sealing ring 100mm": "95/pc",
+                "PVC Clean Out w plug & sealing ring 150mm": "220/pc",
                 "PVC Tee (100mm)": "95/pc",
                 "PVC WYE (100mm)": "95/pc",
                 "PVC WYE REDUCER (100mmX50mm)": "65/pc",
                 "PVC WYE REDUCER (100mmX75mm)": "65/pc",
-                "PVC ELBOW 90\u00b0 (100mm)": "75/pc",
-                "PVC ELBOW 90\u00b0 (75mm)": "65/pc",
-                "PVC Elbow 90\u00b0 (50mm)": "45/pc",
-                "PVC Elbow 45\u00b0 (100mm)": "85/pc",
-                "PVC Elbow 45\u00b0 (75mm)": "65/pc",
-                "PVC Elbow 45\u00b0 (50mm)": "45/pc",
+                "PVC ELBOW 90 (100mm)": "75/pc",
+                "PVC ELBOW 90 (75mm)": "65/pc",
+                "PVC Elbow 90 (50mm)": "45/pc",
+                "PVC Elbow 45 (100mm)": "85/pc",
+                "PVC Elbow 45 (75mm)": "65/pc",
+                "PVC Elbow 45 (50mm)": "45/pc",
                 "PVC Coupling (100mm)": "35/pc",
                 "Vulca Seal": "55/pc"
             }
@@ -1518,12 +1516,12 @@
                 "PVC Conduit Coupling (12.7mm D)": "38/pc",
                 "PVC Conduit Coupling (19mm D)": "52/pc",
                 "PVC Conduit Coupling (25.4mm D)": "49/pc",
-                "Octagonal Junction Box Type Gauge 16  (101mm x 101mm x 53mm) Deep": "92/pc",
-                "Paint brush 4Utility Box Gauge 16 (50mm x 101mm x 53mm) Deep": "75/pc",
-                "Square Box (101mm x 53mm) Deep Type Gague #16": "235/pc",
-                "Square Box (101mm x 63mm) Deep Type Gague #16": "300/pc",
-                "Metal Pull Box (152mm x 152mm x 101mm) Gauge #16": "950/pc",
-                "Metal Pull Box (304mm x 304mm x 101mm) Gauge #16": "1,350/pc",
+                "Octagonal Junction Box Type Gauge 16 (101mm x 101mm x 53mm)": "92/pc",
+                "Utility Box Gauge 16 (50mm x 101mm x 53mm) Deep": "75/pc",
+                "Square Box (101mm x 53mm) Deep Type Gague 16": "235/pc",
+                "Square Box (101mm x 63mm) Deep Type Gague 16": "300/pc",
+                "Metal Pull Box (152mm x 152mm x 101mm) Gauge 16": "950/pc",
+                "Metal Pull Box (304mm x 304mm x 101mm) Gauge 16": "1,350/pc",
                 "Mica Tubing": "48/pc",
                 "Electric Wire THWNTHHN 2.0mm2": "2,450/BOX",
                 "Electric Wire THWNTHHN 3.5mm2": "3,600/BOX",
@@ -1537,18 +1535,18 @@
                 "Electrical Tape": "39/pc"
             },
             "Pipe and Fitting": {
-                "20mmdia UPVC\u00a0 pipe": "65/pc",
+                "20mmdia UPVC pipe": "65/pc",
                 "20mmdia RSC conduit": "265/pc",
                 "20mmdia RSC coupling": "20/pc",
                 "20mmdia UPVC coupling": "20/pc",
-                "20mmdia\u00a0 UPVC adoptor": "15/pc",
+                "20mmdia UPVC adoptor": "15/pc",
                 "20mm dia. Locknut& bushing": "28/pc",
                 "20mm dia. RSC Locknut& bushing": "28/pc"
             },
             "Boxes and Gutter": {
-                "Junction box depth type,metal gauge 16 w/ cover": "85/pc",
-                "Utility box depth type, metal gauge 16 w/cover": "78/pc",
-                "4\u00d74 square box depth, metal gauge 16 w/cover": "165/pc"
+                "Junction box depth type,metal gauge 16 with cover": "85/pc",
+                "Utility box depth type, metal gauge 16 with cover": "78/pc",
+                "4x4 square box depth, metal gauge 16 with cover": "165/pc"
             },
             "Miscellaneous and Consumables": {
                 "Electrical tape big": "40/pc",
@@ -1585,18 +1583,18 @@
                 "Pozzolan Cement, 40kg": "220/bag"
             },
             "Steel Bars": {
-                "\u00a010mm Diameter Deformed Bars": "120/pc",
-                "\u00a012mm Diameter Deformed Bars": "170/pc",
-                "\u00a016mm Diameter Deformed Bars": "330/pc",
-                "\u00a0#16 G.I. Tie Wire": "70/kg",
+                "10mm Diameter Deformed Bars": "120/pc",
+                "12mm Diameter Deformed Bars": "170/pc",
+                "16mm Diameter Deformed Bars": "330/pc",
+                "16 G.I. Tie Wire": "70/kg",
                 "Hacksaw Blade": "65/pc"
             },
             "Formworks": {
-                "\u00a02 x 3 x 10' Coco lumber": "150/pc",
-                "\u00a02 x 4 x 10 Coco lumber": "150/pc",
-                "\u00a01/2? x 4' x 8' Plywood": "880/pc",
-                "\u00a01?x2?x8' Hard wood or its equivalent": "295/pc",
-                "\u00a02?x2?x8' Hard wood or its equivalent": "300/pc"
+                "2 x 3 x 10 Coco lumber": "150/pc",
+                "2 x 4 x 10 Coco lumber": "150/pc",
+                "1-2x 4x 8 Plywood": "880/pc",
+                "1x2x8 Hard wood or its equivalent": "295/pc",
+                "2x2x8 Hard wood or its equivalent": "300/pc"
             },
             "Painting Works": {
                 "Paint Latex Semi-Gloss": "571/gal",
@@ -1611,7 +1609,7 @@
                 "Concrete neutralizer": "460/gal",
                 "Putty Knife": "48/pc",
                 "Roller paint 9 w tray": "148/pc",
-                "2?paint brush": "38/pc",
+                "Paint brush 2": "38/pc",
                 "Paint thinner": "285/gal",
                 "Sand paper 120": "20/pc",
                 "Paint brush 4": "58/pc",
@@ -1619,9 +1617,9 @@
             },
             "Plumbing and Sanitary Works": {
                 "100mm dia. PVC": "720/pc",
-                "PVC Clean Out w/ plug & sealing ring 100mm": "68/pc",
-                "PVC Clean Out w/ plug & sealing ring 150mm": "480/pc",
-                "PVC P-Trap w/ plug & sealing ring 50mm": "88/pc",
+                "PVC Clean Out w plug-sealing ring 100mm": "68/pc",
+                "PVC Clean Out w plug & sealing ring 150mm": "480/pc",
+                "PVC P-Trap w plug & sealing ring 50mm": "88/pc",
                 "PVC Te (150mm)": "1,350/pc",
                 "PVC Tee (100mm)": "245/pc",
                 "PVC WYE (100mm)": "245/pc",
@@ -1656,9 +1654,9 @@
                 "Electrical Tape": "45/pc"
             },
             "Pipe and Fitting": {
-                "20mmdia UPVC\u00a0 pipe": "80/pc",
+                "20mmdia UPVC pipe": "80/pc",
                 "20mmdia UPVC coupling": "12/pc",
-                "20mmdia\u00a0 UPVC adoptor": "18/pc"
+                "20mmdia UPVC adoptor": "18/pc"
             },
             "Miscellaneous and Consumables": {
                 "Electrical tape big": "45/pc",
@@ -1698,19 +1696,19 @@
                 "Pozzolan Cement, 40kg": "225/bag"
             },
             "Steel Bars": {
-                "\u00a010mm Diameter Deformed Bars": "125/pc",
-                "\u00a012mm Diameter Deformed Bars": "145/pc",
-                "\u00a016mm Diameter Deformed Bars": "345/pc",
-                "\u00a0#16 G.I. Tie Wire": "70/kg",
+                "10mm Diameter Deformed Bars": "125/pc",
+                "12mm Diameter Deformed Bars": "145/pc",
+                "16mm Diameter Deformed Bars": "345/pc",
+                "16 G.I. Tie Wire": "70/kg",
                 "Hacksaw Blade": "65/pc"
             },
             "Formworks": {
-                "\u00a02 x 3 x 10' Coco lumber": "270/pc",
-                "\u00a02 x 4 x 10 Coco lumber": "320/pc",
-                "\u00a01/2? x 4' x 8' Plywood": "700/pc",
-                "\u00a01?x2?x8' Hard wood or its equivalent": "180/pc",
-                "\u00a02?x2?x8' Hard wood or its equivalent": "280/pc",
-                "\u00a02?x2?x8\u2019Hardwood or its equivalent": "280/pc",
+                "2 x 3 x 10 Coco lumber": "270/pc",
+                "2 x 4 x 10 Coco lumber": "320/pc",
+                "1-2x 4x 8 Plywood": "700/pc",
+                "1x2x8 Hard wood or its equivalent": "180/pc",
+                "2x2x8 Hard wood or its equivalent": "280/pc",
+                "2x2x8 Hardwood or its equivalent": "280/pc",
                 "Common Nail": "70/kg"
             },
             "Painting Works": {
@@ -1727,7 +1725,7 @@
                 "Brush Roller (152mm)": "105/pc",
                 "Putty Knife": "30/pc",
                 "Roller paint 9 w tray": "195/pc",
-                "2?paint brush": "45/pc",
+                "Paint brush 2": "45/pc",
                 "Paint thinner": "220/gal",
                 "Sand paper 120": "20/pc",
                 "Paint brush 4": "85/pc",
@@ -1737,8 +1735,8 @@
             "Plumbing and Sanitary Works": {
                 "100mm dia. PVC": "680/pc",
                 "75mm dia. PVC": "580/pc",
-                "PVC Clean Out w/ plug & sealing ring 100mm": "85/pc",
-                "PVC P-Trap w/ plug & sealing ring 50mm": "145/pc",
+                "PVC Clean Out w plug-sealing ring 100mm": "85/pc",
+                "PVC P-Trap w plug & sealing ring 50mm": "145/pc",
                 "PVC Tee (100mm)": "185/pc",
                 "PVC WYE (100mm)": "185/pc",
                 "PVC WYE REDUCER (100mmX50mm)": "185/pc",
@@ -1761,8 +1759,8 @@
         },
         "inventory": {
             "Electrical Works": {
-                "Paint brush 4Utility Box Gauge 16 (50mm x 101mm x 53mm) Deep": "22.75/pc",
-                "Square Box (101mm x 53mm) Deep Type Gague #16": "74.75/pc",
+                "Utility Box Gauge 16 (50mm x 101mm x 53mm) Deep": "22.75/pc",
+                "Square Box (101mm x 53mm) Deep Type Gague 16": "74.75/pc",
                 "Single Gang Switch": "89.75/set",
                 "Two-Gang Switch": "199.75/set",
                 "Three-Gang Switch": "109.75/set",
@@ -1781,7 +1779,7 @@
                 "Paint Latex Gloss": "574/gal",
                 "Paint Latex Semi-Gloss": "574/gal",
                 "Brush Roller (152mm)": "45/pc",
-                "2?paint brush": "95/pc",
+                "Paint brush 2": "95/pc",
                 "Paint thinner": "355/gal",
                 "Sand paper 120": "15.75/pc",
                 "Paint brush 2": "95/pc"
@@ -1809,9 +1807,9 @@
                 "Duplex Convenience Outlet": "35/set"
             },
             "Pipe and Fitting": {
-                "20mmdia UPVC\u00a0 pipe": "67/pc",
+                "20mmdia UPVC pipe": "67/pc",
                 "20mmdia UPVC coupling": "4/pc",
-                "20mmdia\u00a0 UPVC adoptor": "10/pc"
+                "20mmdia UPVC adoptor": "10/pc"
             },
             "Miscellaneous and Consumables": {
                 "Electrical tape big": "35/pc",
@@ -1837,12 +1835,12 @@
                 "Pozzolan Cement, 40kg": "240/bag"
             },
             "Steel Bars": {
-                "\u00a0#16 G.I. Tie Wire": "80/pc",
+                "16 G.I. Tie Wire": "80/pc",
                 "Hacksaw Blade": "60/pc"
             },
             "Formworks": {
-                "\u00a01?x2?x8' Hard wood or its equivalent": "126/pc",
-                "\u00a02?x2?x8' Hard wood or its equivalent": "253.30/pc",
+                "1x2x8 Hard wood or its equivalent": "126/pc",
+                "2x2x8 Hard wood or its equivalent": "253.30/pc",
                 "Common Nail": "64/kg",
                 "Box Nail": "1480/kg"
             },
@@ -1853,7 +1851,7 @@
                 "Concrete neutralizer": "435/gal",
                 "Putty Knife": "20/pc",
                 "Roller paint 9 w tray": "140/pc",
-                "2?paint brush": "40/pc",
+                "Paint brush 2": "40/pc",
                 "Paint thinner": "265/gal",
                 "Sand paper 120": "20/pc",
                 "Paint brush 4": "100/pc",
@@ -1863,9 +1861,9 @@
                 "100mm dia. PVC": "336/pc",
                 "75mm dia. PVC": "252/pc",
                 "50mm dia PVC (vp & wp)": "125/pc",
-                "PVC Clean Out w/ plug & sealing ring 100mm": "60/pc",
-                "PVC Clean Out w/ plug & sealing ring 150mm": "36/pc",
-                "PVC P-Trap w/ plug & sealing ring 50mm": "20/pc",
+                "PVC Clean Out w plug-sealing ring 100mm": "60/pc",
+                "PVC Clean Out w plug & sealing ring 150mm": "36/pc",
+                "PVC P-Trap w plug & sealing ring 50mm": "20/pc",
                 "PVC Tee (100mm)": "108/pc",
                 "PVC WYE (100mm)": "124/pc",
                 "PVC WYE REDUCER (100mmX50mm)": "114/pc",
@@ -1904,23 +1902,22 @@
                 "Pozzolan Cement, 40kg": "250/bag"
             },
             "Steel Bars": {
-                "\u00a010mm Diameter Deformed Bars": "160/pc",
-                "\u00a012mm Diameter Deformed Bars": "260/pc",
-                "\u00a016mm Diameter Deformed Bars": "350/pc",
+                "10mm Diameter Deformed Bars": "160/pc",
+                "12mm Diameter Deformed Bars": "260/pc",
+                "16mm Diameter Deformed Bars": "350/pc",
                 "Hacksaw Blade": "75/pc"
             },
             "Formworks": {
-                "\u00a02 x 3 x 10' Coco lumber": "125/pc",
-                "\u00a02 x 4 x 10 Coco lumber": "170/pc",
-                "\u00a01/2? x 4' x 8' Plywood": "950/pc",
-                "\u00a01?x2?x8' Hard wood or its equivalent": "90/pc",
-                "\u00a02?x2?x8' Hard wood or its equivalent": "190/pc",
-                "\u00a02?x2?x8\u2019Hardwood or its equivalent": "190/pc",
-                "\u00a02?x4?x8' Hard wood or its equivalent": "2,080/pc"
+                "2 x 3 x 10 Coco lumber": "125/pc",
+                "2 x 4 x 10 Coco lumber": "170/pc",
+                "1-2x 4x 8 Plywood": "950/pc",
+                "1x2x8 Hard wood or its equivalent": "90/pc",
+                "2x2x8 Hardwood or its equivalent": "190/pc",
+                "2x4x8 Hard wood or its equivalent": "2,080/pc"
             },
             "Painting Works": {
                 "Putty Knife": "40/pc",
-                "2?paint brush": "35/pc",
+                "Paint brush 2": "35/pc",
                 "Paint thinner": "295/gal",
                 "Sand paper 120": "20/pc",
                 "Paint brush 4": "95/pc",
@@ -1930,8 +1927,8 @@
                 "100mm dia. PVC": "395/pc",
                 "75mm dia. PVC": "295/pc",
                 "50mm dia PVC (vp & wp)": "195/pc",
-                "PVC Clean Out w/ plug & sealing ring 100mm": "95/pc",
-                "PVC Clean Out w/ plug & sealing ring 150mm": "220/pc",
+                "PVC Clean Out w plug-sealing ring 100mm": "95/pc",
+                "PVC Clean Out w plug & sealing ring 150mm": "220/pc",
                 "PVC Tee (100mm)": "95/pc",
                 "PVC WYE (100mm)": "95/pc",
                 "PVC WYE REDUCER (100mmX50mm)": "65/pc",
@@ -1976,23 +1973,22 @@
                 "Pozzolan Cement, 40kg": "250/bag"
             },
             "Steel Bars": {
-                "\u00a010mm Diameter Deformed Bars": "160/pc",
-                "\u00a012mm Diameter Deformed Bars": "260/pc",
-                "\u00a016mm Diameter Deformed Bars": "350/pc",
+                "10mm Diameter Deformed Bars": "160/pc",
+                "12mm Diameter Deformed Bars": "260/pc",
+                "16mm Diameter Deformed Bars": "350/pc",
                 "Hacksaw Blade": "75/pc"
             },
             "Formworks": {
-                "\u00a02 x 3 x 10' Coco lumber": "125/pc",
-                "\u00a02 x 4 x 10 Coco lumber": "170/pc",
-                "\u00a01/2? x 4' x 8' Plywood": "950/pc",
-                "\u00a01?x2?x8' Hard wood or its equivalent": "90/pc",
-                "\u00a02?x2?x8' Hard wood or its equivalent": "190/pc",
-                "\u00a02?x2?x8\u2019Hardwood or its equivalent": "190/pc",
-                "\u00a02?x4?x8' Hard wood or its equivalent": "2,080/pc"
+                "2 x 3 x 10 Coco lumber": "125/pc",
+                "2 x 4 x 10 Coco lumber": "170/pc",
+                "1-2x 4x 8 Plywood": "950/pc",
+                "1x2x8 Hard wood or its equivalent": "90/pc",
+                "2x2x8 Hardwood or its equivalent": "190/pc",
+                "2x4x8 Hard wood or its equivalent": "2,080/pc"
             },
             "Painting Works": {
                 "Putty Knife": "40/pc",
-                "2?paint brush": "35/pc",
+                "Paint brush 2": "35/pc",
                 "Paint thinner": "295/gal",
                 "Sand paper 120": "20/pc",
                 "Paint brush 4": "95/pc",
@@ -2002,8 +1998,8 @@
                 "100mm dia. PVC": "395/pc",
                 "75mm dia. PVC": "295/pc",
                 "50mm dia PVC (vp & wp)": "195/pc",
-                "PVC Clean Out w/ plug & sealing ring 100mm": "95/pc",
-                "PVC Clean Out w/ plug & sealing ring 150mm": "220/pc",
+                "PVC Clean Out w plug-sealing ring 100mm": "95/pc",
+                "PVC Clean Out w plug & sealing ring 150mm": "220/pc",
                 "PVC Tee (100mm)": "95/pc",
                 "PVC WYE (100mm)": "95/pc",
                 "PVC WYE REDUCER (100mmX50mm)": "65/pc",
@@ -2033,9 +2029,9 @@
                 "Duplex Convenience Outlet": "35/set"
             },
             "Pipe and Fitting": {
-                "20mmdia UPVC\u00a0 pipe": "67/pc",
+                "20mmdia UPVC pipe": "67/pc",
                 "20mmdia UPVC coupling": "4/pc",
-                "20mmdia\u00a0 UPVC adoptor": "10/pc"
+                "20mmdia UPVC adoptor": "10/pc"
             },
             "Miscellaneous and Consumables": {
                 "Electrical tape big": "35/pc",
@@ -2061,12 +2057,12 @@
                 "Pozzolan Cement, 40kg": "240/bag"
             },
             "Steel Bars": {
-                "\u00a0#16 G.I. Tie Wire": "80/pc",
+                "16 G.I. Tie Wire": "80/pc",
                 "Hacksaw Blade": "60/pc"
             },
             "Formworks": {
-                "\u00a01?x2?x8' Hard wood or its equivalent": "126/pc",
-                "\u00a02?x2?x8' Hard wood or its equivalent": "253.30/pc",
+                "1x2x8 Hard wood or its equivalent": "126/pc",
+                "2x2x8 Hard wood or its equivalent": "253.30/pc",
                 "Common Nail": "64/kg",
                 "Box Nail": "1480/kg"
             },
@@ -2077,7 +2073,7 @@
                 "Concrete neutralizer": "435/gal",
                 "Putty Knife": "20/pc",
                 "Roller paint 9 w tray": "140/pc",
-                "2?paint brush": "40/pc",
+                "Paint brush 2": "40/pc",
                 "Paint thinner": "265/gal",
                 "Sand paper 120": "20/pc",
                 "Paint brush 4": "100/pc",
@@ -2087,9 +2083,9 @@
                 "100mm dia. PVC": "336/pc",
                 "75mm dia. PVC": "252/pc",
                 "50mm dia PVC (vp & wp)": "125/pc",
-                "PVC Clean Out w/ plug & sealing ring 100mm": "60/pc",
-                "PVC Clean Out w/ plug & sealing ring 150mm": "36/pc",
-                "PVC P-Trap w/ plug & sealing ring 50mm": "20/pc",
+                "PVC Clean Out w plug-sealing ring 100mm": "60/pc",
+                "PVC Clean Out w plug & sealing ring 150mm": "36/pc",
+                "PVC P-Trap w plug & sealing ring 50mm": "20/pc",
                 "PVC Tee (100mm)": "108/pc",
                 "PVC WYE (100mm)": "124/pc",
                 "PVC WYE REDUCER (100mmX50mm)": "114/pc",
@@ -2123,7 +2119,7 @@
                 "Tie Wire 16": "100/kg"
             },
             "Steel Bars": {
-                "\u00a0#16 G.I. Tie Wire": "100/kg",
+                "16 G.I. Tie Wire": "100/kg",
                 "Hacksaw Blade": "65/pc"
             },
             "Formworks": {
@@ -2157,9 +2153,9 @@
                 "Electrical Tape": "45/pc"
             },
             "Pipe and Fitting": {
-                "20mmdia UPVC\u00a0 pipe": "80/pc",
+                "20mmdia UPVC pipe": "80/pc",
                 "20mmdia UPVC coupling": "12/pc",
-                "20mmdia\u00a0 UPVC adoptor": "18/pc"
+                "20mmdia UPVC adoptor": "18/pc"
             },
             "Miscellaneous and Consumables": {
                 "Electrical tape big": "45/pc",
@@ -2199,19 +2195,19 @@
                 "Pozzolan Cement, 40kg": "225/bag"
             },
             "Steel Bars": {
-                "\u00a010mm Diameter Deformed Bars": "125/pc",
-                "\u00a012mm Diameter Deformed Bars": "145/pc",
-                "\u00a016mm Diameter Deformed Bars": "345/pc",
-                "\u00a0#16 G.I. Tie Wire": "70/kg",
+                "10mm Diameter Deformed Bars": "125/pc",
+                "12mm Diameter Deformed Bars": "145/pc",
+                "16mm Diameter Deformed Bars": "345/pc",
+                "16 G.I. Tie Wire": "70/kg",
                 "Hacksaw Blade": "65/pc"
             },
             "Formworks": {
-                "\u00a02 x 3 x 10' Coco lumber": "270/pc",
-                "\u00a02 x 4 x 10 Coco lumber": "320/pc",
-                "\u00a01/2? x 4' x 8' Plywood": "700/pc",
-                "\u00a01?x2?x8' Hard wood or its equivalent": "180/pc",
-                "\u00a02?x2?x8' Hard wood or its equivalent": "280/pc",
-                "\u00a02?x2?x8\u2019Hardwood or its equivalent": "280/pc",
+                "2 x 3 x 10 Coco lumber": "270/pc",
+                "2 x 4 x 10 Coco lumber": "320/pc",
+                "1-2x 4x 8 Plywood": "700/pc",
+                "1x2x8 Hard wood or its equivalent": "180/pc",
+                "2x2x8 Hard wood or its equivalent": "280/pc",
+                "2x2x8 Hardwood or its equivalent": "280/pc",
                 "Common Nail": "70/kg"
             },
             "Painting Works": {
@@ -2228,7 +2224,7 @@
                 "Brush Roller (152mm)": "105/pc",
                 "Putty Knife": "30/pc",
                 "Roller paint 9 w tray": "195/pc",
-                "2?paint brush": "45/pc",
+                "Paint brush 2": "45/pc",
                 "Paint thinner": "220/gal",
                 "Sand paper 120": "20/pc",
                 "Paint brush 4": "85/pc",
@@ -2238,8 +2234,8 @@
             "Plumbing and Sanitary Works": {
                 "100mm dia. PVC": "680/pc",
                 "75mm dia. PVC": "580/pc",
-                "PVC Clean Out w/ plug & sealing ring 100mm": "85/pc",
-                "PVC P-Trap w/ plug & sealing ring 50mm": "145/pc",
+                "PVC Clean Out w plug-sealing ring 100mm": "85/pc",
+                "PVC P-Trap w plug & sealing ring 50mm": "145/pc",
                 "PVC Tee (100mm)": "185/pc",
                 "PVC WYE (100mm)": "185/pc",
                 "PVC WYE REDUCER (100mmX50mm)": "185/pc",
@@ -2274,9 +2270,9 @@
                 "Electrical Tape": "45/pc"
             },
             "Pipe and Fitting": {
-                "20mmdia UPVC\u00a0 pipe": "80/pc",
+                "20mmdia UPVC pipe": "80/pc",
                 "20mmdia UPVC coupling": "12/pc",
-                "20mmdia\u00a0 UPVC adoptor": "18/pc"
+                "20mmdia UPVC adoptor": "18/pc"
             },
             "Miscellaneous and Consumables": {
                 "Electrical tape big": "45/pc",
@@ -2316,19 +2312,19 @@
                 "Pozzolan Cement, 40kg": "225/bag"
             },
             "Steel Bars": {
-                "\u00a010mm Diameter Deformed Bars": "125/pc",
-                "\u00a012mm Diameter Deformed Bars": "145/pc",
-                "\u00a016mm Diameter Deformed Bars": "345/pc",
-                "\u00a0#16 G.I. Tie Wire": "70/kg",
+                "10mm Diameter Deformed Bars": "125/pc",
+                "12mm Diameter Deformed Bars": "145/pc",
+                "16mm Diameter Deformed Bars": "345/pc",
+                "16 G.I. Tie Wire": "70/kg",
                 "Hacksaw Blade": "65/pc"
             },
             "Formworks": {
-                "\u00a02 x 3 x 10' Coco lumber": "270/pc",
-                "\u00a02 x 4 x 10 Coco lumber": "320/pc",
-                "\u00a01/2? x 4' x 8' Plywood": "700/pc",
-                "\u00a01?x2?x8' Hard wood or its equivalent": "180/pc",
-                "\u00a02?x2?x8' Hard wood or its equivalent": "280/pc",
-                "\u00a02?x2?x8\u2019Hardwood or its equivalent": "280/pc",
+                "2 x 3 x 10 Coco lumber": "270/pc",
+                "2 x 4 x 10 Coco lumber": "320/pc",
+                "1-2x 4x 8 Plywood": "700/pc",
+                "1x2x8 Hard wood or its equivalent": "180/pc",
+                "2x2x8 Hard wood or its equivalent": "280/pc",
+                "2x2x8 Hardwood or its equivalent": "280/pc",
                 "Common Nail": "70/kg"
             },
             "Painting Works": {
@@ -2345,7 +2341,7 @@
                 "Brush Roller (152mm)": "105/pc",
                 "Putty Knife": "30/pc",
                 "Roller paint 9 w tray": "195/pc",
-                "2?paint brush": "45/pc",
+                "Paint brush 2": "45/pc",
                 "Paint thinner": "220/gal",
                 "Sand paper 120": "20/pc",
                 "Paint brush 4": "85/pc",
@@ -2355,8 +2351,8 @@
             "Plumbing and Sanitary Works": {
                 "100mm dia. PVC": "680/pc",
                 "75mm dia. PVC": "580/pc",
-                "PVC Clean Out w/ plug & sealing ring 100mm": "85/pc",
-                "PVC P-Trap w/ plug & sealing ring 50mm": "145/pc",
+                "PVC Clean Out w plug-sealing ring 100mm": "85/pc",
+                "PVC P-Trap w plug & sealing ring 50mm": "145/pc",
                 "PVC Tee (100mm)": "185/pc",
                 "PVC WYE (100mm)": "185/pc",
                 "PVC WYE REDUCER (100mmX50mm)": "185/pc",
@@ -2396,7 +2392,7 @@
                 "Tie Wire 16": "100/kg"
             },
             "Steel Bars": {
-                "\u00a0#16 G.I. Tie Wire": "100/kg",
+                "16 G.I. Tie Wire": "100/kg",
                 "Hacksaw Blade": "65/pc"
             },
             "Formworks": {
@@ -2433,12 +2429,12 @@
                 "PVC Conduit Coupling (12.7mm D)": "38/pc",
                 "PVC Conduit Coupling (19mm D)": "52/pc",
                 "PVC Conduit Coupling (25.4mm D)": "49/pc",
-                "Octagonal Junction Box Type Gauge 16  (101mm x 101mm x 53mm) Deep": "92/pc",
-                "Paint brush 4Utility Box Gauge 16 (50mm x 101mm x 53mm) Deep": "75/pc",
-                "Square Box (101mm x 53mm) Deep Type Gague #16": "235/pc",
-                "Square Box (101mm x 63mm) Deep Type Gague #16": "300/pc",
-                "Metal Pull Box (152mm x 152mm x 101mm) Gauge #16": "950/pc",
-                "Metal Pull Box (304mm x 304mm x 101mm) Gauge #16": "1,350/pc",
+                "Octagonal Junction Box Type Gauge 16 (101mm x 101mm x 53mm)": "92/pc",
+                "Utility Box Gauge 16 (50mm x 101mm x 53mm) Deep": "75/pc",
+                "Square Box (101mm x 53mm) Deep Type Gague 16": "235/pc",
+                "Square Box (101mm x 63mm) Deep Type Gague 16": "300/pc",
+                "Metal Pull Box (152mm x 152mm x 101mm) Gauge 16": "950/pc",
+                "Metal Pull Box (304mm x 304mm x 101mm) Gauge 16": "1,350/pc",
                 "Mica Tubing": "48/pc",
                 "Electric Wire THWNTHHN 2.0mm2": "2,450/BOX",
                 "Electric Wire THWNTHHN 3.5mm2": "3,600/BOX",
@@ -2452,18 +2448,18 @@
                 "Electrical Tape": "39/pc"
             },
             "Pipe and Fitting": {
-                "20mmdia UPVC\u00a0 pipe": "65/pc",
+                "20mmdia UPVC pipe": "65/pc",
                 "20mmdia RSC conduit": "265/pc",
                 "20mmdia RSC coupling": "20/pc",
                 "20mmdia UPVC coupling": "20/pc",
-                "20mmdia\u00a0 UPVC adoptor": "15/pc",
+                "20mmdia UPVC adoptor": "15/pc",
                 "20mm dia. Locknut& bushing": "28/pc",
-                "20mm dia. RSC Locknut& bushing": "28/pc"
+                "20mmdia. RSC Locknut& bushing": "28/pc"
             },
             "Boxes and Gutter": {
-                "Junction box depth type,metal gauge 16 w/ cover": "85/pc",
-                "Utility box depth type, metal gauge 16 w/cover": "78/pc",
-                "4\u00d74 square box depth, metal gauge 16 w/cover": "165/pc"
+                "Junction box depth type,metal gauge 16 with cover": "85/pc",
+                "Utility box depth type, metal gauge 16 with cover": "78/pc",
+                "4x4 square box depth, metal gauge 16 with cover": "165/pc"
             },
             "Miscellaneous and Consumables": {
                 "Electrical tape big": "40/pc",
@@ -2500,18 +2496,18 @@
                 "Pozzolan Cement, 40kg": "220/bag"
             },
             "Steel Bars": {
-                "\u00a010mm Diameter Deformed Bars": "120/pc",
-                "\u00a012mm Diameter Deformed Bars": "170/pc",
-                "\u00a016mm Diameter Deformed Bars": "330/pc",
-                "\u00a0#16 G.I. Tie Wire": "70/kg",
+                "10mm Diameter Deformed Bars": "120/pc",
+                "12mm Diameter Deformed Bars": "170/pc",
+                "16mm Diameter Deformed Bars": "330/pc",
+                "16 G.I. Tie Wire": "70/kg",
                 "Hacksaw Blade": "65/pc"
             },
             "Formworks": {
-                "\u00a02 x 3 x 10' Coco lumber": "150/pc",
-                "\u00a02 x 4 x 10 Coco lumber": "150/pc",
-                "\u00a01/2? x 4' x 8' Plywood": "880/pc",
-                "\u00a01?x2?x8' Hard wood or its equivalent": "295/pc",
-                "\u00a02?x2?x8' Hard wood or its equivalent": "300/pc"
+                "2 x 3 x 10 Coco lumber": "150/pc",
+                "2 x 4 x 10 Coco lumber": "150/pc",
+                "1-2x 4x 8 Plywood": "880/pc",
+                "1x2x8 Hard wood or its equivalent": "295/pc",
+                "2x2x8 Hard wood or its equivalent": "300/pc"
             },
             "Painting Works": {
                 "Paint Latex Semi-Gloss": "571/gal",
@@ -2526,7 +2522,7 @@
                 "Concrete neutralizer": "460/gal",
                 "Putty Knife": "48/pc",
                 "Roller paint 9 w tray": "148/pc",
-                "2?paint brush": "38/pc",
+                "Paint brush 2": "38/pc",
                 "Paint thinner": "285/gal",
                 "Sand paper 120": "20/pc",
                 "Paint brush 4": "58/pc",
@@ -2534,9 +2530,9 @@
             },
             "Plumbing and Sanitary Works": {
                 "100mm dia. PVC": "720/pc",
-                "PVC Clean Out w/ plug & sealing ring 100mm": "68/pc",
-                "PVC Clean Out w/ plug & sealing ring 150mm": "480/pc",
-                "PVC P-Trap w/ plug & sealing ring 50mm": "88/pc",
+                "PVC Clean Out w plug-sealing ring 100mm": "68/pc",
+                "PVC Clean Out w plug & sealing ring 150mm": "480/pc",
+                "PVC P-Trap w plug & sealing ring 50mm": "88/pc",
                 "PVC Te (150mm)": "1,350/pc",
                 "PVC Tee (100mm)": "245/pc",
                 "PVC WYE (100mm)": "245/pc",
@@ -2574,12 +2570,12 @@
                 "PVC Conduit Coupling (12.7mm D)": "6/pc",
                 "PVC Conduit Coupling (19mm D)": "9/pc",
                 "PVC Conduit Coupling (25.4mm D)": "20/pc",
-                "Octagonal Junction Box Type Gauge 16  (101mm x 101mm x 53mm) Deep": "32/pc",
-                "Paint brush 4Utility Box Gauge 16 (50mm x 101mm x 53mm) Deep": "26/pc",
-                "Square Box (101mm x 53mm) Deep Type Gague #16": "135/pc",
-                "Square Box (101mm x 63mm) Deep Type Gague #16": "135/pc",
-                "Metal Pull Box (152mm x 152mm x 101mm) Gauge #16": "288/pc",
-                "Metal Pull Box (304mm x 304mm x 101mm) Gauge #16": "760/pc",
+                "Octagonal Junction Box Type Gauge 16 (101mm x 101mm x 53mm)": "32/pc",
+                "Utility Box Gauge 16 (50mm x 101mm x 53mm) Deep": "26/pc",
+                "Square Box (101mm x 53mm) Deep Type Gague 16": "135/pc",
+                "Square Box (101mm x 63mm) Deep Type Gague 16": "135/pc",
+                "Metal Pull Box (152mm x 152mm x 101mm) Gauge 16": "288/pc",
+                "Metal Pull Box (304mm x 304mm x 101mm) Gauge 16": "760/pc",
                 "Mica Tubing": "40/pc",
                 "Electric Wire THWNTHHN 2.0mm2": "2,278/BOX",
                 "Electric Wire THWNTHHN 3.5mm2": "3,342/BOX",
@@ -2594,18 +2590,18 @@
                 "Electrical Tape": "37/pc"
             },
             "Pipe and Fitting": {
-                "20mmdia UPVC\u00a0 pipe": "82/pc",
+                "20mmdia UPVC pipe": "82/pc",
                 "20mmdia RSC conduit": "245/pc",
                 "20mmdia RSC coupling": "14/pc",
                 "20mmdia UPVC coupling": "5/pc",
-                "20mmdia\u00a0 UPVC adoptor": "10/pc",
+                "20mmdia UPVC adoptor": "10/pc",
                 "20mm dia. Locknut& bushing": "14/pc",
                 "20mm dia. RSC Locknut& bushing": "14/pc"
             },
             "Boxes and Gutter": {
-                "Junction box depth type,metal gauge 16 w/ cover": "32/pc",
-                "Utility box depth type, metal gauge 16 w/cover": "26/pc",
-                "4\u00d74 square box depth, metal gauge 16 w/cover": "135/pc"
+                "Junction box depth type,metal gauge 16 with cover": "32/pc",
+                "Utility box depth type, metal gauge 16 with cover": "26/pc",
+                "4x4 square box depth, metal gauge 16 with cover": "135/pc"
             },
             "Miscellaneous and Consumables": {
                 "Electrical tape big": "37/pc",
@@ -2635,21 +2631,21 @@
                 "Pozzolan Cement, 40kg": "220/bag"
             },
             "Steel Bars": {
-                "\u00a010mm Diameter Deformed Bars": "120/pc",
-                "\u00a012mm Diameter Deformed Bars": "175/pc",
-                "\u00a016mm Diameter Deformed Bars": "320/pc",
-                "\u00a020mm Diameter Deformed Bars": "540/pc",
-                "\u00a0#16 G.I. Tie Wire": "70/kg",
+                "10mm Diameter Deformed Bars": "120/pc",
+                "12mm Diameter Deformed Bars": "175/pc",
+                "16mm Diameter Deformed Bars": "320/pc",
+                "20mm Diameter Deformed Bars": "540/pc",
+                "16 G.I. Tie Wire": "70/kg",
                 "Hacksaw Blade": "60/pc"
             },
             "Formworks": {
-                "\u00a01/2? x 4' x 8' Plywood": "795/pc",
-                "\u00a06mm thk. Lawanit board": "260/pc",
-                "\u00a06mm thk. Ordinary Plywood": "560/pc",
-                "\u00a01?x2?x8' Hard wood or its equivalent": "138/pc",
-                "\u00a02?x2?x8' Hard wood or its equivalent": "254/pc",
-                "\u00a02?x2?x8\u2019Hardwood or its equivalent": "254/pc",
-                "\u00a02?x4?x8' Hard wood or its equivalent": "534/pc",
+                "1-2x 4x 8 Plywood": "795/pc",
+                "6mm thk. Lawanit board": "260/pc",
+                "6mm thk. Ordinary Plywood": "560/pc",
+                "1x2x8 Hard wood or its equivalent": "138/pc",
+                "2x2x8 Hard wood or its equivalent": "254/pc",
+                "2x2x8 Hardwood or its equivalent": "254/pc",
+                "2x4x8 Hard wood or its equivalent": "534/pc",
                 "Common Nail": "64/kg",
                 "Box Nail": "1,300/kg"
             },
@@ -2671,7 +2667,7 @@
                 "Concrete neutralizer": "485/gal",
                 "Putty Knife": "30/pc",
                 "Roller paint 9 w tray": "127/pc",
-                "2?paint brush": "50/pc",
+                "Paint brush 2": "50/pc",
                 "Paint thinner": "250/gal",
                 "Sand paper 120": "17/pc",
                 "Paint brush 4": "145/pc",
@@ -2682,9 +2678,9 @@
                 "100mm dia. PVC": "786/pc",
                 "75mm dia. PVC": "590/pc",
                 "50mm dia PVC (vp & wp)": "275/pc",
-                "PVC Clean Out w/ plug & sealing ring 100mm": "84/pc",
-                "PVC Clean Out w/ plug & sealing ring 150mm": "395/pc",
-                "PVC P-Trap w/ plug & sealing ring 50mm": "110/pc",
+                "PVC Clean Out w plug-sealing ring 100mm": "84/pc",
+                "PVC Clean Out w plug & sealing ring 150mm": "395/pc",
+                "PVC P-Trap w plug & sealing ring 50mm": "110/pc",
                 "PVC Te (150mm)": "1,027/pc",
                 "PVC Tee (100mm)": "192/pc",
                 "PVC WYE (100mm)": "171/pc",
@@ -2709,9 +2705,9 @@
                 "Duplex Convenience Outlet": "35/set"
             },
             "Pipe and Fitting": {
-                "20mmdia UPVC\u00a0 pipe": "67/pc",
+                "20mmdia UPVC pipe": "67/pc",
                 "20mmdia UPVC coupling": "4/pc",
-                "20mmdia\u00a0 UPVC adoptor": "10/pc"
+                "20mmdia UPVC adoptor": "10/pc"
             },
             "Miscellaneous and Consumables": {
                 "Electrical tape big": "35/pc",
@@ -2737,12 +2733,12 @@
                 "Pozzolan Cement, 40kg": "240/bag"
             },
             "Steel Bars": {
-                "\u00a0#16 G.I. Tie Wire": "80/pc",
+                "16 G.I. Tie Wire": "80/pc",
                 "Hacksaw Blade": "60/pc"
             },
             "Formworks": {
-                "\u00a01?x2?x8' Hard wood or its equivalent": "126/pc",
-                "\u00a02?x2?x8' Hard wood or its equivalent": "253.30/pc",
+                "1x2x8 Hard wood or its equivalent": "126/pc",
+                "2x2x8 Hard wood or its equivalent": "253.30/pc",
                 "Common Nail": "64/kg",
                 "Box Nail": "1480/kg"
             },
@@ -2753,7 +2749,7 @@
                 "Concrete neutralizer": "435/gal",
                 "Putty Knife": "20/pc",
                 "Roller paint 9 w tray": "140/pc",
-                "2?paint brush": "40/pc",
+                "Paint brush 2": "40/pc",
                 "Paint thinner": "265/gal",
                 "Sand paper 120": "20/pc",
                 "Paint brush 4": "100/pc",
@@ -2763,9 +2759,9 @@
                 "100mm dia. PVC": "336/pc",
                 "75mm dia. PVC": "252/pc",
                 "50mm dia PVC (vp & wp)": "125/pc",
-                "PVC Clean Out w/ plug & sealing ring 100mm": "60/pc",
-                "PVC Clean Out w/ plug & sealing ring 150mm": "36/pc",
-                "PVC P-Trap w/ plug & sealing ring 50mm": "20/pc",
+                "PVC Clean Out w plug-sealing ring 100mm": "60/pc",
+                "PVC Clean Out w plug & sealing ring 150mm": "36/pc",
+                "PVC P-Trap w plug & sealing ring 50mm": "20/pc",
                 "PVC Tee (100mm)": "108/pc",
                 "PVC WYE (100mm)": "124/pc",
                 "PVC WYE REDUCER (100mmX50mm)": "114/pc",
@@ -2797,12 +2793,12 @@
                 "PVC Conduit Coupling (12.7mm D)": "6/pc",
                 "PVC Conduit Coupling (19mm D)": "9/pc",
                 "PVC Conduit Coupling (25.4mm D)": "20/pc",
-                "Octagonal Junction Box Type Gauge 16  (101mm x 101mm x 53mm) Deep": "32/pc",
-                "Paint brush 4Utility Box Gauge 16 (50mm x 101mm x 53mm) Deep": "26/pc",
-                "Square Box (101mm x 53mm) Deep Type Gague #16": "135/pc",
-                "Square Box (101mm x 63mm) Deep Type Gague #16": "135/pc",
-                "Metal Pull Box (152mm x 152mm x 101mm) Gauge #16": "288/pc",
-                "Metal Pull Box (304mm x 304mm x 101mm) Gauge #16": "760/pc",
+                "Octagonal Junction Box Type Gauge 16 (101mm x 101mm x 53mm)": "32/pc",
+                "Utility Box Gauge 16 (50mm x 101mm x 53mm) Deep": "26/pc",
+                "Square Box (101mm x 53mm) Deep Type Gague 16": "135/pc",
+                "Square Box (101mm x 63mm) Deep Type Gague 16": "135/pc",
+                "Metal Pull Box (152mm x 152mm x 101mm) Gauge 16": "288/pc",
+                "Metal Pull Box (304mm x 304mm x 101mm) Gauge 16": "760/pc",
                 "Mica Tubing": "40/pc",
                 "Electric Wire THWNTHHN 2.0mm2": "2,278/BOX",
                 "Electric Wire THWNTHHN 3.5mm2": "3,342/BOX",
@@ -2817,18 +2813,18 @@
                 "Electrical Tape": "37/pc"
             },
             "Pipe and Fitting": {
-                "20mmdia UPVC\u00a0 pipe": "82/pc",
+                "20mmdia UPVC pipe": "82/pc",
                 "20mmdia RSC conduit": "245/pc",
                 "20mmdia RSC coupling": "14/pc",
                 "20mmdia UPVC coupling": "5/pc",
-                "20mmdia\u00a0 UPVC adoptor": "10/pc",
+                "20mmdia UPVC adoptor": "10/pc",
                 "20mm dia. Locknut& bushing": "14/pc",
                 "20mm dia. RSC Locknut& bushing": "14/pc"
             },
             "Boxes and Gutter": {
-                "Junction box depth type,metal gauge 16 w/ cover": "32/pc",
-                "Utility box depth type, metal gauge 16 w/cover": "26/pc",
-                "4\u00d74 square box depth, metal gauge 16 w/cover": "135/pc"
+                "Junction box depth type,metal gauge 16 with cover": "32/pc",
+                "Utility box depth type, metal gauge 16 with cover": "26/pc",
+                "4x4 square box depth, metal gauge 16 with cover": "135/pc"
             },
             "Miscellaneous and Consumables": {
                 "Electrical tape big": "37/pc",
@@ -2858,21 +2854,21 @@
                 "Pozzolan Cement, 40kg": "220/bag"
             },
             "Steel Bars": {
-                "\u00a010mm Diameter Deformed Bars": "120/pc",
-                "\u00a012mm Diameter Deformed Bars": "175/pc",
-                "\u00a016mm Diameter Deformed Bars": "320/pc",
-                "\u00a020mm Diameter Deformed Bars": "540/pc",
-                "\u00a0#16 G.I. Tie Wire": "70/kg",
+                "10mm Diameter Deformed Bars": "120/pc",
+                "12mm Diameter Deformed Bars": "175/pc",
+                "16mm Diameter Deformed Bars": "320/pc",
+                "20mm Diameter Deformed Bars": "540/pc",
+                "16 G.I. Tie Wire": "70/kg",
                 "Hacksaw Blade": "60/pc"
             },
             "Formworks": {
-                "\u00a01/2? x 4' x 8' Plywood": "795/pc",
-                "\u00a06mm thk. Lawanit board": "260/pc",
-                "\u00a06mm thk. Ordinary Plywood": "560/pc",
-                "\u00a01?x2?x8' Hard wood or its equivalent": "138/pc",
-                "\u00a02?x2?x8' Hard wood or its equivalent": "254/pc",
-                "\u00a02?x2?x8\u2019Hardwood or its equivalent": "254/pc",
-                "\u00a02?x4?x8' Hard wood or its equivalent": "534/pc",
+                "1-2x 4x 8 Plywood": "795/pc",
+                "6mm thk. Lawanit board": "260/pc",
+                "6mm thk. Ordinary Plywood": "560/pc",
+                "1x2x8 Hard wood or its equivalent": "138/pc",
+                "2x2x8 Hard wood or its equivalent": "254/pc",
+                "2x2x8 Hardwood or its equivalent": "254/pc",
+                "2x4x8 Hard wood or its equivalent": "534/pc",
                 "Common Nail": "64/kg",
                 "Box Nail": "1,300/kg"
             },
@@ -2894,7 +2890,7 @@
                 "Concrete neutralizer": "485/gal",
                 "Putty Knife": "30/pc",
                 "Roller paint 9 w tray": "127/pc",
-                "2?paint brush": "50/pc",
+                "Paint brush 2": "50/pc",
                 "Paint thinner": "250/gal",
                 "Sand paper 120": "17/pc",
                 "Paint brush 2": "145/pc",
@@ -2905,9 +2901,9 @@
                 "100mm dia. PVC": "786/pc",
                 "75mm dia. PVC": "590/pc",
                 "50mm dia PVC (vp & wp)": "275/pc",
-                "PVC Clean Out w/ plug & sealing ring 100mm": "84/pc",
-                "PVC Clean Out w/ plug & sealing ring 150mm": "395/pc",
-                "PVC P-Trap w/ plug & sealing ring 50mm": "110/pc",
+                "PVC Clean Out w plug-sealing ring 100mm": "84/pc",
+                "PVC Clean Out w plug & sealing ring 150mm": "395/pc",
+                "PVC P-Trap w plug & sealing ring 50mm": "110/pc",
                 "PVC Te (150mm)": "1,027/pc",
                 "PVC Tee (100mm)": "192/pc",
                 "PVC WYE (100mm)": "171/pc",
@@ -2932,9 +2928,9 @@
                 "Duplex Convenience Outlet": "35/set"
             },
             "Pipe and Fitting": {
-                "20mmdia UPVC\u00a0 pipe": "67/pc",
+                "20mmdia UPVC pipe": "67/pc",
                 "20mmdia UPVC coupling": "4/pc",
-                "20mmdia\u00a0 UPVC adoptor": "10/pc"
+                "20mmdia UPVC adoptor": "10/pc"
             },
             "Miscellaneous and Consumables": {
                 "Electrical tape big": "35/pc",
@@ -2960,12 +2956,12 @@
                 "Pozzolan Cement, 40kg": "240/bag"
             },
             "Steel Bars": {
-                "\u00a0#16 G.I. Tie Wire": "80/pc",
+                "16 G.I. Tie Wire": "80/pc",
                 "Hacksaw Blade": "60/pc"
             },
             "Formworks": {
-                "\u00a01?x2?x8' Hard wood or its equivalent": "126/pc",
-                "\u00a02?x2?x8' Hard wood or its equivalent": "253.30/pc",
+                "1x2x8 Hard wood or its equivalent": "126/pc",
+                "2x2x8 Hard wood or its equivalent": "253.30/pc",
                 "Common Nail": "64/kg",
                 "Box Nail": "1480/kg"
             },
@@ -2976,7 +2972,7 @@
                 "Concrete neutralizer": "435/gal",
                 "Putty Knife": "20/pc",
                 "Roller paint 9 w tray": "140/pc",
-                "2?paint brush": "40/pc",
+                "Paint brush 2": "40/pc",
                 "Paint thinner": "265/gal",
                 "Sand paper 120": "20/pc",
                 "Paint brush 4": "100/pc",
@@ -2986,9 +2982,9 @@
                 "100mm dia. PVC": "336/pc",
                 "75mm dia. PVC": "252/pc",
                 "50mm dia PVC (vp & wp)": "125/pc",
-                "PVC Clean Out w/ plug & sealing ring 100mm": "60/pc",
-                "PVC Clean Out w/ plug & sealing ring 150mm": "36/pc",
-                "PVC P-Trap w/ plug & sealing ring 50mm": "20/pc",
+                "PVC Clean Out w plug-sealing ring 100mm": "60/pc",
+                "PVC Clean Out w plug & sealing ring 150mm": "36/pc",
+                "PVC P-Trap w plug & sealing ring 50mm": "20/pc",
                 "PVC Tee (100mm)": "108/pc",
                 "PVC WYE (100mm)": "124/pc",
                 "PVC WYE REDUCER (100mmX50mm)": "114/pc",
@@ -3020,12 +3016,12 @@
                 "PVC Conduit Coupling (12.7mm D)": "38/pc",
                 "PVC Conduit Coupling (19mm D)": "48/pc",
                 "PVC Conduit Coupling (25.4mm D)": "48/pc",
-                "Octagonal Junction Box Type Gauge 16  (101mm x 101mm x 53mm) Deep": "88/pc",
-                "Paint brush 4Utility Box Gauge 16 (50mm x 101mm x 53mm) Deep": "75/pc",
-                "Square Box (101mm x 53mm) Deep Type Gague #16": "265/pc",
-                "Square Box (101mm x 63mm) Deep Type Gague #16": "320/pc",
-                "Metal Pull Box (152mm x 152mm x 101mm) Gauge #16": "950/pc",
-                "Metal Pull Box (304mm x 304mm x 101mm) Gauge #16": "1,350/pc",
+                "Octagonal Junction Box Type Gauge 16 (101mm x 101mm x 53mm)": "88/pc",
+                "Utility Box Gauge 16 (50mm x 101mm x 53mm) Deep": "75/pc",
+                "Square Box (101mm x 53mm) Deep Type Gague 16": "265/pc",
+                "Square Box (101mm x 63mm) Deep Type Gague 16": "320/pc",
+                "Metal Pull Box (152mm x 152mm x 101mm) Gauge 16": "950/pc",
+                "Metal Pull Box (304mm x 304mm x 101mm) Gauge 16": "1,350/pc",
                 "Mica Tubing": "48/pc",
                 "Electric Wire THWNTHHN 2.0mm2": "2,450/BOX",
                 "Electric Wire THWNTHHN 3.5mm2": "3,650/BOX",
@@ -3039,18 +3035,18 @@
                 "Electrical Tape": "38/pc"
             },
             "Pipe and Fitting": {
-                "20mmdia UPVC\u00a0 pipe": "65/pc",
+                "20mmdia UPVC pipe": "65/pc",
                 "20mmdia RSC conduit": "265/pc",
                 "20mmdia RSC coupling": "18/pc",
                 "20mmdia UPVC coupling": "18/pc",
-                "20mmdia\u00a0 UPVC adoptor": "15/pc",
+                "20mmdia UPVC adoptor": "15/pc",
                 "20mm dia. Locknut& bushing": "28/pc",
                 "20mm dia. RSC Locknut& bushing": "28/pc"
             },
             "Boxes and Gutter": {
-                "Junction box depth type,metal gauge 16 w/ cover": "85/pc",
-                "Utility box depth type, metal gauge 16 w/cover": "78/pc",
-                "4\u00d74 square box depth, metal gauge 16 w/cover": "165/pc"
+                "Junction box depth type,metal gauge 16 with cover": "85/pc",
+                "Utility box depth type, metal gauge 16 with cover": "78/pc",
+                "4x4 square box depth, metal gauge 16 with cover": "165/pc"
             },
             "Miscellaneous and Consumables": {
                 "Electrical tape big": "38/pc",
@@ -3090,18 +3086,18 @@
                 "Pozzolan Cement, 40kg": "220/bag"
             },
             "Steel Bars": {
-                "\u00a010mm Diameter Deformed Bars": "120/pc",
-                "\u00a012mm Diameter Deformed Bars": "170/pc",
-                "\u00a016mm Diameter Deformed Bars": "330/pc",
-                "\u00a0#16 G.I. Tie Wire": "70/kg",
+                "10mm Diameter Deformed Bars": "120/pc",
+                "12mm Diameter Deformed Bars": "170/pc",
+                "16mm Diameter Deformed Bars": "330/pc",
+                "16 G.I. Tie Wire": "70/kg",
                 "Hacksaw Blade": "65/pc"
             },
             "Formworks": {
-                "\u00a02 x 3 x 10' Coco lumber": "150/pc",
-                "\u00a02 x 4 x 10 Coco lumber": "150/pc",
-                "\u00a01/2? x 4' x 8' Plywood": "880/pc",
-                "\u00a01?x2?x8' Hard wood or its equivalent": "295/pc",
-                "\u00a02?x2?x8' Hard wood or its equivalent": "300/pc"
+                "2 x 3 x 10 Coco lumber": "150/pc",
+                "2 x 4 x 10 Coco lumber": "150/pc",
+                "1-2x 4x 8 Plywood": "880/pc",
+                "1x2x8 Hard wood or its equivalent": "295/pc",
+                "2x2x8 Hard wood or its equivalent": "300/pc"
             },
             "Painting Works": {
                 "Paint Latex Semi-Gloss": "571/gal",
@@ -3116,7 +3112,7 @@
                 "Concrete neutralizer": "460/gal",
                 "Putty Knife": "48/pc",
                 "Roller paint 9 w tray": "148/pc",
-                "2?paint brush": "38/pc",
+                "Paint brush 2": "38/pc",
                 "Paint thinner": "285/gal",
                 "Sand paper 120": "20/pc",
                 "Paint brush 4": "58/pc",
@@ -3124,9 +3120,9 @@
             },
             "Plumbing and Sanitary Works": {
                 "100mm dia. PVC": "720/pc",
-                "PVC Clean Out w/ plug & sealing ring 100mm": "68/pc",
-                "PVC Clean Out w/ plug & sealing ring 150mm": "480/pc",
-                "PVC P-Trap w/ plug & sealing ring 50mm": "88/pc",
+                "PVC Clean Out w plug-sealing ring 100mm": "68/pc",
+                "PVC Clean Out w plug & sealing ring 150mm": "480/pc",
+                "PVC P-Trap w plug & sealing ring 50mm": "88/pc",
                 "PVC Te (150mm)": "1,350/pc",
                 "PVC Tee (100mm)": "245/pc",
                 "PVC WYE (100mm)": "245/pc",
@@ -3166,7 +3162,7 @@
                 "Tie Wire 16": "100/kg"
             },
             "Steel Bars": {
-                "\u00a0#16 G.I. Tie Wire": "100/kg",
+                "16 G.I. Tie Wire": "100/kg",
                 "Hacksaw Blade": "65/pc"
             },
             "Formworks": {
@@ -3210,23 +3206,22 @@
                 "Pozzolan Cement, 40kg": "250/bag"
             },
             "Steel Bars": {
-                "\u00a010mm Diameter Deformed Bars": "160/pc",
-                "\u00a012mm Diameter Deformed Bars": "260/pc",
-                "\u00a016mm Diameter Deformed Bars": "350/pc",
+                "10mm Diameter Deformed Bars": "160/pc",
+                "12mm Diameter Deformed Bars": "260/pc",
+                "16mm Diameter Deformed Bars": "350/pc",
                 "Hacksaw Blade": "75/pc"
             },
             "Formworks": {
-                "\u00a02 x 3 x 10' Coco lumber": "125/pc",
-                "\u00a02 x 4 x 10 Coco lumber": "170/pc",
-                "\u00a01/2? x 4' x 8' Plywood": "950/pc",
-                "\u00a01?x2?x8' Hard wood or its equivalent": "90/pc",
-                "\u00a02?x2?x8' Hard wood or its equivalent": "190/pc",
-                "\u00a02?x2?x8\u2019Hardwood or its equivalent": "190/pc",
-                "\u00a02?x4?x8' Hard wood or its equivalent": "2,080/pc"
+                "2 x 3 x 10 Coco lumber": "125/pc",
+                "2 x 4 x 10 Coco lumber": "170/pc",
+                "1-2x 4x 8 Plywood": "950/pc",
+                "1x2x8 Hard wood or its equivalent": "90/pc",
+                "2x2x8 Hardwood or its equivalent": "190/pc",
+                "2x4x8 Hard wood or its equivalent": "2,080/pc"
             },
             "Painting Works": {
                 "Putty Knife": "40/pc",
-                "2?paint brush": "35/pc",
+                "Paint brush 2": "35/pc",
                 "Paint thinner": "295/gal",
                 "Sand paper 120": "20/pc",
                 "Paint brush 4": "95/pc",
@@ -3236,8 +3231,8 @@
                 "100mm dia. PVC": "395/pc",
                 "75mm dia. PVC": "295/pc",
                 "50mm dia PVC (vp & wp)": "195/pc",
-                "PVC Clean Out w/ plug & sealing ring 100mm": "95/pc",
-                "PVC Clean Out w/ plug & sealing ring 150mm": "220/pc",
+                "PVC Clean Out w plug-sealing ring 100mm": "95/pc",
+                "PVC Clean Out w plug & sealing ring 150mm": "220/pc",
                 "PVC Tee (100mm)": "95/pc",
                 "PVC WYE (100mm)": "95/pc",
                 "PVC WYE REDUCER (100mmX50mm)": "65/pc",
@@ -3306,8 +3301,8 @@
                 "Pozzolan Cement, 40kg": "235/bag"
             },
             "Steel Bars": {
-                "\u00a010mm Diameter Deformed Bars": "130/pc",
-                "\u00a012mm Diameter Deformed Bars": "180/pc",
+                "10mm Diameter Deformed Bars": "130/pc",
+                "12mm Diameter Deformed Bars": "180/pc",
                 "Hacksaw Blade": "60/pc"
             },
             "Formworks": {
@@ -3324,7 +3319,7 @@
                 "Concrete neutralizer": "300/gal",
                 "Putty Knife": "45/pc",
                 "Roller paint 9 w tray": "140/pc",
-                "2?paint brush": "45/pc",
+                "Paint brush 2": "45/pc",
                 "Paint thinner": "295/gal",
                 "Sand paper 120": "20/pc",
                 "Paint brush 4": "110/pc",
