@@ -3398,7 +3398,7 @@
                 "Concrete neutralizer": "300/gal",
                 "Putty Knife": "45/pc",
                 "Roller paint 9 w tray": "140/pc",
-                "Paint brush 2": "45/pc",
+                "Paint brush #2":"45/pc",
                 "Paint thinner": "295/gal",
                 "Sand paper 120": "20/pc",
                 "Paint brush 4": "110/pc",
@@ -3406,11 +3406,13 @@
             }
         }
     },
-        "WORK BEST ENTERPRISES & GENERAL MERCHANDISE":{
+    
+    "WORK BEST ENTERPRISES & GENERAL MERCHANDISE":{
         "info":{
             "Contact":"9995261424",
             "Address":"NATIONAL ROAD, LIBJO"
-        },"inventory": {
+        },
+        "inventory": {
             "Electrical Works": {
                 "Electric Wire THWNTHHN 2.0mm2": "2,120/BOX",
                 "Electric Wire THWNTHHN 3.5mm2": "3,000/BOX",
@@ -3476,7 +3478,7 @@
                 "Concrete neutralizer": "300/gal",
                 "Putty Knife": "45/pc",
                 "Roller paint 9 w tray": "140/pc",
-                "Paint brush 2": "45/pc",
+                "Paint brush #2":"45/pc",
                 "Paint thinner": "295/gal",
                 "Sand paper 120": "20/pc",
                 "Paint brush 4": "110/pc",
@@ -3554,7 +3556,7 @@
                 "Concrete neutralizer": "300/gal",
                 "Putty Knife": "45/pc",
                 "Roller paint 9 w tray": "140/pc",
-                "Paint brush 2": "45/pc",
+                "Paint brush #2":"45/pc",
                 "Paint thinner": "295/gal",
                 "Sand paper 120": "20/pc",
                 "Paint brush 4": "110/pc",
@@ -3632,7 +3634,7 @@
                 "Concrete neutralizer": "300/gal",
                 "Putty Knife": "45/pc",
                 "Roller paint 9 w tray": "140/pc",
-                "Paint brush 2": "45/pc",
+                "Paint brush #2":"45/pc",
                 "Paint thinner": "295/gal",
                 "Sand paper 120": "20/pc",
                 "Paint brush 4": "110/pc",
@@ -3710,7 +3712,7 @@
                 "Concrete neutralizer": "300/gal",
                 "Putty Knife": "45/pc",
                 "Roller paint 9 w tray": "140/pc",
-                "Paint brush 2": "45/pc",
+                "Paint brush #2":"45/pc",
                 "Paint thinner": "295/gal",
                 "Sand paper 120": "20/pc",
                 "Paint brush 4": "110/pc",
@@ -3788,7 +3790,7 @@
                 "Concrete neutralizer": "300/gal",
                 "Putty Knife": "45/pc",
                 "Roller paint 9 w tray": "140/pc",
-                "Paint brush 2": "45/pc",
+                "Paint brush #2":"45/pc",
                 "Paint thinner": "295/gal",
                 "Sand paper 120": "20/pc",
                 "Paint brush 4": "110/pc",
@@ -3796,7 +3798,7 @@
             }
         }
     },
-        "SEVEN R CONSTRUCTION & SUPPLY":{
+    "SEVEN R CONSTRUCTION & SUPPLY":{
         "info":{
             "Contact":"",
             "Address":"TIGBI TIWI"
@@ -3866,7 +3868,7 @@
                 "Concrete neutralizer": "300/gal",
                 "Putty Knife": "45/pc",
                 "Roller paint 9 w tray": "140/pc",
-                "Paint brush 2": "45/pc",
+                "Paint brush #2":"45/pc",
                 "Paint thinner": "295/gal",
                 "Sand paper 120": "20/pc",
                 "Paint brush 4": "110/pc",
@@ -3944,7 +3946,7 @@
                 "Concrete neutralizer": "300/gal",
                 "Putty Knife": "45/pc",
                 "Roller paint 9 w tray": "140/pc",
-                "Paint brush 2": "45/pc",
+                "Paint brush #2":"45/pc",
                 "Paint thinner": "295/gal",
                 "Sand paper 120": "20/pc",
                 "Paint brush 4": "110/pc",
@@ -4022,7 +4024,7 @@
                 "Concrete neutralizer": "300/gal",
                 "Putty Knife": "45/pc",
                 "Roller paint 9 w tray": "140/pc",
-                "Paint brush 2": "45/pc",
+                "Paint brush #2":"45/pc",
                 "Paint thinner": "295/gal",
                 "Sand paper 120": "20/pc",
                 "Paint brush 4": "110/pc",
@@ -4100,7 +4102,7 @@
                 "Concrete neutralizer": "300/gal",
                 "Putty Knife": "45/pc",
                 "Roller paint 9 w tray": "140/pc",
-                "Paint brush 2": "45/pc",
+                "Paint brush #2":"45/pc",
                 "Paint thinner": "295/gal",
                 "Sand paper 120": "20/pc",
                 "Paint brush 4": "110/pc",
@@ -4178,7 +4180,7 @@
                 "Concrete neutralizer": "300/gal",
                 "Putty Knife": "45/pc",
                 "Roller paint 9 w tray": "140/pc",
-                "Paint brush 2": "45/pc",
+                "Paint brush #2":"45/pc",
                 "Paint thinner": "295/gal",
                 "Sand paper 120": "20/pc",
                 "Paint brush 4": "110/pc",
@@ -4256,7 +4258,7 @@
                 "Concrete neutralizer": "300/gal",
                 "Putty Knife": "45/pc",
                 "Roller paint 9 w tray": "140/pc",
-                "Paint brush 2": "45/pc",
+                "Paint brush #2":"45/pc",
                 "Paint thinner": "295/gal",
                 "Sand paper 120": "20/pc",
                 "Paint brush 4": "110/pc",
@@ -4334,7 +4336,7 @@
                 "Concrete neutralizer": "300/gal",
                 "Putty Knife": "45/pc",
                 "Roller paint 9 w tray": "140/pc",
-                "Paint brush 2": "45/pc",
+                "Paint brush #2":"45/pc",
                 "Paint thinner": "295/gal",
                 "Sand paper 120": "20/pc",
                 "Paint brush 4": "110/pc",
@@ -4412,7 +4414,7 @@
                 "Concrete neutralizer": "300/gal",
                 "Putty Knife": "45/pc",
                 "Roller paint 9 w tray": "140/pc",
-                "Paint brush 2": "45/pc",
+                "Paint brush #2":"45/pc",
                 "Paint thinner": "295/gal",
                 "Sand paper 120": "20/pc",
                 "Paint brush 4": "110/pc",
@@ -4423,8 +4425,9 @@
     "NN HARDWARE AND ELECTRICAL SUPPLIES":{
         "info":{
             "Contact":"4875904",
-            "Address":"A.A. BERCES ST., BASUD TABACO CITY",
-        } ,"inventory": {
+            "Address":"A.A. BERCES ST., BASUD TABACO CITY"
+        },
+        "inventory": {
             "Electrical Works": {
                 "Electric Wire THWNTHHN 2.0mm2": "2,120/BOX",
                 "Electric Wire THWNTHHN 3.5mm2": "3,000/BOX",
@@ -4490,7 +4493,86 @@
                 "Concrete neutralizer": "300/gal",
                 "Putty Knife": "45/pc",
                 "Roller paint 9 w tray": "140/pc",
-                "Paint brush 2": "45/pc",
+                "Paint brush #2":"45/pc",
+                "Paint thinner": "295/gal",
+                "Sand paper 120": "20/pc",
+                "Paint brush 4": "110/pc",
+                "Paint brush 2": "35/pc"
+            }
+        }
+    },
+    "NN HARDWARE AND ELECTRICAL SUPPLIES":{
+        "info":{
+            "Contact":"4875904",
+            "Address":"A.A. BERCES ST., BASUD TABACO CITY"
+        },
+        "inventory": {
+            "Electrical Works": {
+                "Electric Wire THWNTHHN 2.0mm2": "2,120/BOX",
+                "Electric Wire THWNTHHN 3.5mm2": "3,000/BOX",
+                "Electric Wire THWNTHHN 5.5mm2": "6,000/BOX",
+                "Single Gang Switch": "85/set",
+                "Two-Gang Switch": "130/set",
+                "Three-Gang Switch": "180/set",
+                "Two-way Switch": "155/set",
+                "Duplex Convenience Outlet": "90/set",
+                "Heavy Duty Outlet": "90/set",
+                "Electrical Tape": "35/pc"
+            },
+            "Miscellaneous and Consumables": {
+                "Electrical tape big": "45/pc",
+                "Solvent cement 100cc": "85/pc",
+                "Concrete nail no.3": "100/kl",
+                "CWN no.3": "80/kl"
+            },
+            "Wires": {
+                "8.0mm2 THHN": "70/m",
+                "5.5mm2 THHN": "50/m",
+                "3.5mm2 THHN": "30/m",
+                "2.0mm2 THHN": "25/m"
+            },
+            "Masonry Works": {
+                "Concrete Hollow Blocks (CHB) 4": "11/pc",
+                "Concrete Hollow Blocks (CHB) 6": "13/pc",
+                "Washed sand": "500/cu.m",
+                "10 mm. Dia. x 6.0 M. DSB": "128/pc",
+                "Tie Wire 16": "70/kg"
+            },
+            "Stone Masonry": {
+                "Cement, 40 kg.": "230/bag",
+                "Sand": "550/cu.m",
+                "Gravel Fill": "650/cu.m"
+            },
+            "Filter Cloth": {
+                "Boulders": "670/cu.m",
+                "Screened Sand": "750/cu.m",
+                "Screened Gravel": "1050/cu.m"
+            },
+            "Soil Poisoning \u2013 Termicide": {
+                "Gravel": "700/cu.m",
+                "Portland Cement, 40kg": "250/bag",
+                "Pozzolan Cement, 40kg": "235/bag"
+            },
+            "Steel Bars": {
+                "10mm Diameter Deformed Bars": "130/pc",
+                "12mm Diameter Deformed Bars": "180/pc",
+                "Hacksaw Blade": "60/pc"
+            },
+            "Formworks": {
+                "Common Nail": "75/kg"
+            },
+            "Painting Works": {
+                "Paint Enamel": "650/gal",
+                "Paint Latex Gloss": "630/gal",
+                "Paint Latex Semi-Gloss": "630/gal",
+                "Thinner Paint": "480/gal",
+                "Thinner Lacquer": "400/gal",
+                "Brush Roller (152mm)": "90/pc",
+                "Brush Steel (101mm)": "50/pc",
+                "Concrete neutralizer": "300/gal",
+                "Putty Knife": "45/pc",
+                "Roller paint 9 w tray": "140/pc",
+                "Paint brush #2":"45/pc",
                 "Paint thinner": "295/gal",
                 "Sand paper 120": "20/pc",
                 "Paint brush 4": "110/pc",
@@ -4501,7 +4583,7 @@
         "BRONCATE CONSTRUCTION SUPPLIES":{
         "info":{
             "Contact":"9283178564",
-            "Address":"ILANG-ILANG ST., BOMBON TABACO CITY",
+            "Address":"ILANG-ILANG ST., BOMBON TABACO CITY"
         } ,"inventory": {
             "Electrical Works": {
                 "Electric Wire THWNTHHN 2.0mm2": "2,120/BOX",
@@ -4568,14 +4650,13 @@
                 "Concrete neutralizer": "300/gal",
                 "Putty Knife": "45/pc",
                 "Roller paint 9 w tray": "140/pc",
-                "Paint brush 2": "45/pc",
+                "Paint brush #2":"45/pc",
                 "Paint thinner": "295/gal",
                 "Sand paper 120": "20/pc",
                 "Paint brush 4": "110/pc",
                 "Paint brush 2": "35/pc"
             }
         }
-    
     },
     "NEW TEJA LIGHT ENTERPRISES":{
         "info":{
@@ -4647,7 +4728,7 @@
                 "Concrete neutralizer": "300/gal",
                 "Putty Knife": "45/pc",
                 "Roller paint 9 w tray": "140/pc",
-                "Paint brush 2": "45/pc",
+                "Paint brush #2":"45/pc",
                 "Paint thinner": "295/gal",
                 "Sand paper 120": "20/pc",
                 "Paint brush 4": "110/pc",
@@ -4726,7 +4807,7 @@
                 "Concrete neutralizer": "300/gal",
                 "Putty Knife": "45/pc",
                 "Roller paint 9 w tray": "140/pc",
-                "Paint brush 2": "45/pc",
+                "Paint brush #2":"45/pc",
                 "Paint thinner": "295/gal",
                 "Sand paper 120": "20/pc",
                 "Paint brush 4": "110/pc",
@@ -4736,7 +4817,7 @@
     },
     "MMC MARKETING":{
         "info":{
-            "Contact":,
+            "Contact":"",
             "Address":"LLORENTE ST., TABACO CITY"
         } ,"inventory": {
             "Electrical Works": {
@@ -4804,7 +4885,7 @@
                 "Concrete neutralizer": "300/gal",
                 "Putty Knife": "45/pc",
                 "Roller paint 9 w tray": "140/pc",
-                "Paint brush 2": "45/pc",
+                "Paint brush #2":"45/pc",
                 "Paint thinner": "295/gal",
                 "Sand paper 120": "20/pc",
                 "Paint brush 4": "110/pc",
@@ -4815,7 +4896,7 @@
     "TABACO SANTIAGO TRADING":{
         "info":{
             "Contact": "4877014",
-            "Address":"ZIGA AVENUE TABACO CITY",
+            "Address":"ZIGA AVENUE TABACO CITY"
         } ,"inventory": {
             "Electrical Works": {
                 "Electric Wire THWNTHHN 2.0mm2": "2,120/BOX",
@@ -4882,7 +4963,7 @@
                 "Concrete neutralizer": "300/gal",
                 "Putty Knife": "45/pc",
                 "Roller paint 9 w tray": "140/pc",
-                "Paint brush 2": "45/pc",
+                "Paint brush #2":"45/pc",
                 "Paint thinner": "295/gal",
                 "Sand paper 120": "20/pc",
                 "Paint brush 4": "110/pc",
@@ -4960,7 +5041,7 @@
                 "Concrete neutralizer": "300/gal",
                 "Putty Knife": "45/pc",
                 "Roller paint 9 w tray": "140/pc",
-                "Paint brush 2": "45/pc",
+                "Paint brush #2":"45/pc",
                 "Paint thinner": "295/gal",
                 "Sand paper 120": "20/pc",
                 "Paint brush 4": "110/pc",
@@ -5038,7 +5119,7 @@
                 "Concrete neutralizer": "300/gal",
                 "Putty Knife": "45/pc",
                 "Roller paint 9 w tray": "140/pc",
-                "Paint brush 2": "45/pc",
+                "Paint brush #2":"45/pc",
                 "Paint thinner": "295/gal",
                 "Sand paper 120": "20/pc",
                 "Paint brush 4": "110/pc",
@@ -5116,7 +5197,7 @@
                 "Concrete neutralizer": "300/gal",
                 "Putty Knife": "45/pc",
                 "Roller paint 9 w tray": "140/pc",
-                "Paint brush 2": "45/pc",
+                "Paint brush #2":"45/pc",
                 "Paint thinner": "295/gal",
                 "Sand paper 120": "20/pc",
                 "Paint brush 4": "110/pc",
@@ -5194,7 +5275,7 @@
                 "Concrete neutralizer": "300/gal",
                 "Putty Knife": "45/pc",
                 "Roller paint 9 w tray": "140/pc",
-                "Paint brush 2": "45/pc",
+                "Paint brush #2":"45/pc",
                 "Paint thinner": "295/gal",
                 "Sand paper 120": "20/pc",
                 "Paint brush 4": "110/pc",
@@ -5273,7 +5354,7 @@
                 "Concrete neutralizer": "300/gal",
                 "Putty Knife": "45/pc",
                 "Roller paint 9 w tray": "140/pc",
-                "Paint brush 2": "45/pc",
+                "Paint brush #2":"45/pc",
                 "Paint thinner": "295/gal",
                 "Sand paper 120": "20/pc",
                 "Paint brush 4": "110/pc",
@@ -5351,7 +5432,7 @@
                 "Concrete neutralizer": "300/gal",
                 "Putty Knife": "45/pc",
                 "Roller paint 9 w tray": "140/pc",
-                "Paint brush 2": "45/pc",
+                "Paint brush #2":"45/pc",
                 "Paint thinner": "295/gal",
                 "Sand paper 120": "20/pc",
                 "Paint brush 4": "110/pc",
@@ -5429,7 +5510,7 @@
                 "Concrete neutralizer": "300/gal",
                 "Putty Knife": "45/pc",
                 "Roller paint 9 w tray": "140/pc",
-                "Paint brush 2": "45/pc",
+                "Paint brush #2":"45/pc",
                 "Paint thinner": "295/gal",
                 "Sand paper 120": "20/pc",
                 "Paint brush 4": "110/pc",
@@ -5507,7 +5588,7 @@
                 "Concrete neutralizer": "300/gal",
                 "Putty Knife": "45/pc",
                 "Roller paint 9 w tray": "140/pc",
-                "Paint brush 2": "45/pc",
+                "Paint brush #2":"45/pc",
                 "Paint thinner": "295/gal",
                 "Sand paper 120": "20/pc",
                 "Paint brush 4": "110/pc",
@@ -5585,7 +5666,7 @@
                 "Concrete neutralizer": "300/gal",
                 "Putty Knife": "45/pc",
                 "Roller paint 9 w tray": "140/pc",
-                "Paint brush 2": "45/pc",
+                "Paint brush #2":"45/pc",
                 "Paint thinner": "295/gal",
                 "Sand paper 120": "20/pc",
                 "Paint brush 4": "110/pc",
@@ -5663,7 +5744,7 @@
                 "Concrete neutralizer": "300/gal",
                 "Putty Knife": "45/pc",
                 "Roller paint 9 w tray": "140/pc",
-                "Paint brush 2": "45/pc",
+                "Paint brush #2":"45/pc",
                 "Paint thinner": "295/gal",
                 "Sand paper 120": "20/pc",
                 "Paint brush 4": "110/pc",
@@ -5741,7 +5822,7 @@
                 "Concrete neutralizer": "300/gal",
                 "Putty Knife": "45/pc",
                 "Roller paint 9 w tray": "140/pc",
-                "Paint brush 2": "45/pc",
+                "Paint brush #2":"45/pc",
                 "Paint thinner": "295/gal",
                 "Sand paper 120": "20/pc",
                 "Paint brush 4": "110/pc",
@@ -5819,7 +5900,7 @@
                 "Concrete neutralizer": "300/gal",
                 "Putty Knife": "45/pc",
                 "Roller paint 9 w tray": "140/pc",
-                "Paint brush 2": "45/pc",
+                "Paint brush #2":"45/pc",
                 "Paint thinner": "295/gal",
                 "Sand paper 120": "20/pc",
                 "Paint brush 4": "110/pc",
@@ -5897,7 +5978,7 @@
                 "Concrete neutralizer": "300/gal",
                 "Putty Knife": "45/pc",
                 "Roller paint 9 w tray": "140/pc",
-                "Paint brush 2": "45/pc",
+                "Paint brush #2":"45/pc",
                 "Paint thinner": "295/gal",
                 "Sand paper 120": "20/pc",
                 "Paint brush 4": "110/pc",
@@ -5975,7 +6056,7 @@
                 "Concrete neutralizer": "300/gal",
                 "Putty Knife": "45/pc",
                 "Roller paint 9 w tray": "140/pc",
-                "Paint brush 2": "45/pc",
+                "Paint brush #2":"45/pc",
                 "Paint thinner": "295/gal",
                 "Sand paper 120": "20/pc",
                 "Paint brush 4": "110/pc",
@@ -6053,7 +6134,7 @@
                 "Concrete neutralizer": "300/gal",
                 "Putty Knife": "45/pc",
                 "Roller paint 9 w tray": "140/pc",
-                "Paint brush 2": "45/pc",
+                "Paint brush #2":"45/pc",
                 "Paint thinner": "295/gal",
                 "Sand paper 120": "20/pc",
                 "Paint brush 4": "110/pc",
@@ -6131,7 +6212,7 @@
                 "Concrete neutralizer": "300/gal",
                 "Putty Knife": "45/pc",
                 "Roller paint 9 w tray": "140/pc",
-                "Paint brush 2": "45/pc",
+                "Paint brush #2":"45/pc",
                 "Paint thinner": "295/gal",
                 "Sand paper 120": "20/pc",
                 "Paint brush 4": "110/pc",
@@ -6209,7 +6290,7 @@
                 "Concrete neutralizer": "300/gal",
                 "Putty Knife": "45/pc",
                 "Roller paint 9 w tray": "140/pc",
-                "Paint brush 2": "45/pc",
+                "Paint brush #2":"45/pc",
                 "Paint thinner": "295/gal",
                 "Sand paper 120": "20/pc",
                 "Paint brush 4": "110/pc",
@@ -6287,7 +6368,7 @@
                 "Concrete neutralizer": "300/gal",
                 "Putty Knife": "45/pc",
                 "Roller paint 9 w tray": "140/pc",
-                "Paint brush 2": "45/pc",
+                "Paint brush #2":"45/pc",
                 "Paint thinner": "295/gal",
                 "Sand paper 120": "20/pc",
                 "Paint brush 4": "110/pc",
@@ -6365,7 +6446,7 @@
                 "Concrete neutralizer": "300/gal",
                 "Putty Knife": "45/pc",
                 "Roller paint 9 w tray": "140/pc",
-                "Paint brush 2": "45/pc",
+                "Paint brush #2":"45/pc",
                 "Paint thinner": "295/gal",
                 "Sand paper 120": "20/pc",
                 "Paint brush 4": "110/pc",
@@ -6376,7 +6457,7 @@
     "JOY ENTERPRISES":{
         "info":{
             "Contact":"",
-            "Address":"RIZAL ST., BGY. 1 MALILIPOT"
+            "Address":"RIZAL ST. BGY. 1 MALILIPOT"
         } ,"inventory": {
             "Electrical Works": {
                 "Electric Wire THWNTHHN 2.0mm2": "2,120/BOX",
@@ -6443,7 +6524,7 @@
                 "Concrete neutralizer": "300/gal",
                 "Putty Knife": "45/pc",
                 "Roller paint 9 w tray": "140/pc",
-                "Paint brush 2": "45/pc",
+                "Paint brush #2":"45/pc",
                 "Paint thinner": "295/gal",
                 "Sand paper 120": "20/pc",
                 "Paint brush 4": "110/pc",
@@ -6521,7 +6602,7 @@
                 "Concrete neutralizer": "300/gal",
                 "Putty Knife": "45/pc",
                 "Roller paint 9 w tray": "140/pc",
-                "Paint brush 2": "45/pc",
+                "Paint brush #2":"45/pc",
                 "Paint thinner": "295/gal",
                 "Sand paper 120": "20/pc",
                 "Paint brush 4": "110/pc",
@@ -6599,7 +6680,7 @@
                 "Concrete neutralizer": "300/gal",
                 "Putty Knife": "45/pc",
                 "Roller paint 9 w tray": "140/pc",
-                "Paint brush 2": "45/pc",
+                "Paint brush #2":"45/pc",
                 "Paint thinner": "295/gal",
                 "Sand paper 120": "20/pc",
                 "Paint brush 4": "110/pc",
@@ -6677,7 +6758,7 @@
                 "Concrete neutralizer": "300/gal",
                 "Putty Knife": "45/pc",
                 "Roller paint 9 w tray": "140/pc",
-                "Paint brush 2": "45/pc",
+                "Paint brush #2":"45/pc",
                 "Paint thinner": "295/gal",
                 "Sand paper 120": "20/pc",
                 "Paint brush 4": "110/pc",
@@ -6755,7 +6836,7 @@
                 "Concrete neutralizer": "300/gal",
                 "Putty Knife": "45/pc",
                 "Roller paint 9 w tray": "140/pc",
-                "Paint brush 2": "45/pc",
+                "Paint brush #2":"45/pc",
                 "Paint thinner": "295/gal",
                 "Sand paper 120": "20/pc",
                 "Paint brush 4": "110/pc",
@@ -6833,7 +6914,7 @@
                 "Concrete neutralizer": "300/gal",
                 "Putty Knife": "45/pc",
                 "Roller paint 9 w tray": "140/pc",
-                "Paint brush 2": "45/pc",
+                "Paint brush #2":"45/pc",
                 "Paint thinner": "295/gal",
                 "Sand paper 120": "20/pc",
                 "Paint brush 4": "110/pc",
@@ -6911,7 +6992,7 @@
                 "Concrete neutralizer": "300/gal",
                 "Putty Knife": "45/pc",
                 "Roller paint 9 w tray": "140/pc",
-                "Paint brush 2": "45/pc",
+                "Paint brush #2":"45/pc",
                 "Paint thinner": "295/gal",
                 "Sand paper 120": "20/pc",
                 "Paint brush 4": "110/pc",
@@ -6989,7 +7070,7 @@
                 "Concrete neutralizer": "300/gal",
                 "Putty Knife": "45/pc",
                 "Roller paint 9 w tray": "140/pc",
-                "Paint brush 2": "45/pc",
+                "Paint brush #2":"45/pc",
                 "Paint thinner": "295/gal",
                 "Sand paper 120": "20/pc",
                 "Paint brush 4": "110/pc",
@@ -7067,7 +7148,476 @@
                 "Concrete neutralizer": "300/gal",
                 "Putty Knife": "45/pc",
                 "Roller paint 9 w tray": "140/pc",
-                "Paint brush 2": "45/pc",
+                "Paint brush #2":"45/pc",
+                "Paint thinner": "295/gal",
+                "Sand paper 120": "20/pc",
+                "Paint brush 4": "110/pc",
+                "Paint brush 2": "35/pc"
+            }
+        }
+    },
+    "MALILIPOT HARDWARE AND GENERAL MERCHANDISE":{
+        "info":{
+            "Contact":"",
+            "Address":"REAL ST., BRGY. III MALILIPOT"
+        } ,"inventory": {
+            "Electrical Works": {
+                "Electric Wire THWNTHHN 2.0mm2": "2,120/BOX",
+                "Electric Wire THWNTHHN 3.5mm2": "3,000/BOX",
+                "Electric Wire THWNTHHN 5.5mm2": "6,000/BOX",
+                "Single Gang Switch": "85/set",
+                "Two-Gang Switch": "130/set",
+                "Three-Gang Switch": "180/set",
+                "Two-way Switch": "155/set",
+                "Duplex Convenience Outlet": "90/set",
+                "Heavy Duty Outlet": "90/set",
+                "Electrical Tape": "35/pc"
+            },
+            "Miscellaneous and Consumables": {
+                "Electrical tape big": "45/pc",
+                "Solvent cement 100cc": "85/pc",
+                "Concrete nail no.3": "100/kl",
+                "CWN no.3": "80/kl"
+            },
+            "Wires": {
+                "8.0mm2 THHN": "70/m",
+                "5.5mm2 THHN": "50/m",
+                "3.5mm2 THHN": "30/m",
+                "2.0mm2 THHN": "25/m"
+            },
+            "Masonry Works": {
+                "Concrete Hollow Blocks (CHB) 4": "11/pc",
+                "Concrete Hollow Blocks (CHB) 6": "13/pc",
+                "Washed sand": "500/cu.m",
+                "10 mm. Dia. x 6.0 M. DSB": "128/pc",
+                "Tie Wire 16": "70/kg"
+            },
+            "Stone Masonry": {
+                "Cement, 40 kg.": "230/bag",
+                "Sand": "550/cu.m",
+                "Gravel Fill": "650/cu.m"
+            },
+            "Filter Cloth": {
+                "Boulders": "670/cu.m",
+                "Screened Sand": "750/cu.m",
+                "Screened Gravel": "1050/cu.m"
+            },
+            "Soil Poisoning \u2013 Termicide": {
+                "Gravel": "700/cu.m",
+                "Portland Cement, 40kg": "250/bag",
+                "Pozzolan Cement, 40kg": "235/bag"
+            },
+            "Steel Bars": {
+                "10mm Diameter Deformed Bars": "130/pc",
+                "12mm Diameter Deformed Bars": "180/pc",
+                "Hacksaw Blade": "60/pc"
+            },
+            "Formworks": {
+                "Common Nail": "75/kg"
+            },
+            "Painting Works": {
+                "Paint Enamel": "650/gal",
+                "Paint Latex Gloss": "630/gal",
+                "Paint Latex Semi-Gloss": "630/gal",
+                "Thinner Paint": "480/gal",
+                "Thinner Lacquer": "400/gal",
+                "Brush Roller (152mm)": "90/pc",
+                "Brush Steel (101mm)": "50/pc",
+                "Concrete neutralizer": "300/gal",
+                "Putty Knife": "45/pc",
+                "Roller paint 9 w tray": "140/pc",
+                "Paint brush #2":"45/pc",
+                "Paint thinner": "295/gal",
+                "Sand paper 120": "20/pc",
+                "Paint brush 4": "110/pc",
+                "Paint brush 2": "35/pc"
+            }
+        }
+    },
+    
+    "E.BELLEZA HARDWARE":{
+        "info":{
+            "Contact":"",
+            "Address":"MAGSAYSAY AVE. BACACAY"
+        } ,"inventory": {
+            "Electrical Works": {
+                "Electric Wire THWNTHHN 2.0mm2": "2,120/BOX",
+                "Electric Wire THWNTHHN 3.5mm2": "3,000/BOX",
+                "Electric Wire THWNTHHN 5.5mm2": "6,000/BOX",
+                "Single Gang Switch": "85/set",
+                "Two-Gang Switch": "130/set",
+                "Three-Gang Switch": "180/set",
+                "Two-way Switch": "155/set",
+                "Duplex Convenience Outlet": "90/set",
+                "Heavy Duty Outlet": "90/set",
+                "Electrical Tape": "35/pc"
+            },
+            "Miscellaneous and Consumables": {
+                "Electrical tape big": "45/pc",
+                "Solvent cement 100cc": "85/pc",
+                "Concrete nail no.3": "100/kl",
+                "CWN no.3": "80/kl"
+            },
+            "Wires": {
+                "8.0mm2 THHN": "70/m",
+                "5.5mm2 THHN": "50/m",
+                "3.5mm2 THHN": "30/m",
+                "2.0mm2 THHN": "25/m"
+            },
+            "Masonry Works": {
+                "Concrete Hollow Blocks (CHB) 4": "11/pc",
+                "Concrete Hollow Blocks (CHB) 6": "13/pc",
+                "Washed sand": "500/cu.m",
+                "10 mm. Dia. x 6.0 M. DSB": "128/pc",
+                "Tie Wire 16": "70/kg"
+            },
+            "Stone Masonry": {
+                "Cement, 40 kg.": "230/bag",
+                "Sand": "550/cu.m",
+                "Gravel Fill": "650/cu.m"
+            },
+            "Filter Cloth": {
+                "Boulders": "670/cu.m",
+                "Screened Sand": "750/cu.m",
+                "Screened Gravel": "1050/cu.m"
+            },
+            "Soil Poisoning \u2013 Termicide": {
+                "Gravel": "700/cu.m",
+                "Portland Cement, 40kg": "250/bag",
+                "Pozzolan Cement, 40kg": "235/bag"
+            },
+            "Steel Bars": {
+                "10mm Diameter Deformed Bars": "130/pc",
+                "12mm Diameter Deformed Bars": "180/pc",
+                "Hacksaw Blade": "60/pc"
+            },
+            "Formworks": {
+                "Common Nail": "75/kg"
+            },
+            "Painting Works": {
+                "Paint Enamel": "650/gal",
+                "Paint Latex Gloss": "630/gal",
+                "Paint Latex Semi-Gloss": "630/gal",
+                "Thinner Paint": "480/gal",
+                "Thinner Lacquer": "400/gal",
+                "Brush Roller (152mm)": "90/pc",
+                "Brush Steel (101mm)": "50/pc",
+                "Concrete neutralizer": "300/gal",
+                "Putty Knife": "45/pc",
+                "Roller paint 9 w tray": "140/pc",
+                "Paint brush #2":"45/pc",
+                "Paint thinner": "295/gal",
+                "Sand paper 120": "20/pc",
+                "Paint brush 4": "110/pc",
+                "Paint brush 2": "35/pc"
+            }
+        }
+    },
+    "ALCAZAR MARKETING":{
+        "info":{
+            "Contact":"",
+            "Address":"Magsaysay Ave. BACACAY"
+        } ,"inventory": {
+            "Electrical Works": {
+                "Electric Wire THWNTHHN 2.0mm2": "2,120/BOX",
+                "Electric Wire THWNTHHN 3.5mm2": "3,000/BOX",
+                "Electric Wire THWNTHHN 5.5mm2": "6,000/BOX",
+                "Single Gang Switch": "85/set",
+                "Two-Gang Switch": "130/set",
+                "Three-Gang Switch": "180/set",
+                "Two-way Switch": "155/set",
+                "Duplex Convenience Outlet": "90/set",
+                "Heavy Duty Outlet": "90/set",
+                "Electrical Tape": "35/pc"
+            },
+            "Miscellaneous and Consumables": {
+                "Electrical tape big": "45/pc",
+                "Solvent cement 100cc": "85/pc",
+                "Concrete nail no.3": "100/kl",
+                "CWN no.3": "80/kl"
+            },
+            "Wires": {
+                "8.0mm2 THHN": "70/m",
+                "5.5mm2 THHN": "50/m",
+                "3.5mm2 THHN": "30/m",
+                "2.0mm2 THHN": "25/m"
+            },
+            "Masonry Works": {
+                "Concrete Hollow Blocks (CHB) 4": "11/pc",
+                "Concrete Hollow Blocks (CHB) 6": "13/pc",
+                "Washed sand": "500/cu.m",
+                "10 mm. Dia. x 6.0 M. DSB": "128/pc",
+                "Tie Wire 16": "70/kg"
+            },
+            "Stone Masonry": {
+                "Cement, 40 kg.": "230/bag",
+                "Sand": "550/cu.m",
+                "Gravel Fill": "650/cu.m"
+            },
+            "Filter Cloth": {
+                "Boulders": "670/cu.m",
+                "Screened Sand": "750/cu.m",
+                "Screened Gravel": "1050/cu.m"
+            },
+            "Soil Poisoning \u2013 Termicide": {
+                "Gravel": "700/cu.m",
+                "Portland Cement, 40kg": "250/bag",
+                "Pozzolan Cement, 40kg": "235/bag"
+            },
+            "Steel Bars": {
+                "10mm Diameter Deformed Bars": "130/pc",
+                "12mm Diameter Deformed Bars": "180/pc",
+                "Hacksaw Blade": "60/pc"
+            },
+            "Formworks": {
+                "Common Nail": "75/kg"
+            },
+            "Painting Works": {
+                "Paint Enamel": "650/gal",
+                "Paint Latex Gloss": "630/gal",
+                "Paint Latex Semi-Gloss": "630/gal",
+                "Thinner Paint": "480/gal",
+                "Thinner Lacquer": "400/gal",
+                "Brush Roller (152mm)": "90/pc",
+                "Brush Steel (101mm)": "50/pc",
+                "Concrete neutralizer": "300/gal",
+                "Putty Knife": "45/pc",
+                "Roller paint 9 w tray": "140/pc",
+                "Paint brush #2":"45/pc",
+                "Paint thinner": "295/gal",
+                "Sand paper 120": "20/pc",
+                "Paint brush 4": "110/pc",
+                "Paint brush 2": "35/pc"
+            }
+        }
+    },
+    "BICOL POWERGOLD MARKETING":{
+        "info":{
+            "Contact":"",
+            "Address":"Upper Bonga BACACAY"
+        } ,"inventory": {
+            "Electrical Works": {
+                "Electric Wire THWNTHHN 2.0mm2": "2,120/BOX",
+                "Electric Wire THWNTHHN 3.5mm2": "3,000/BOX",
+                "Electric Wire THWNTHHN 5.5mm2": "6,000/BOX",
+                "Single Gang Switch": "85/set",
+                "Two-Gang Switch": "130/set",
+                "Three-Gang Switch": "180/set",
+                "Two-way Switch": "155/set",
+                "Duplex Convenience Outlet": "90/set",
+                "Heavy Duty Outlet": "90/set",
+                "Electrical Tape": "35/pc"
+            },
+            "Miscellaneous and Consumables": {
+                "Electrical tape big": "45/pc",
+                "Solvent cement 100cc": "85/pc",
+                "Concrete nail no.3": "100/kl",
+                "CWN no.3": "80/kl"
+            },
+            "Wires": {
+                "8.0mm2 THHN": "70/m",
+                "5.5mm2 THHN": "50/m",
+                "3.5mm2 THHN": "30/m",
+                "2.0mm2 THHN": "25/m"
+            },
+            "Masonry Works": {
+                "Concrete Hollow Blocks (CHB) 4": "11/pc",
+                "Concrete Hollow Blocks (CHB) 6": "13/pc",
+                "Washed sand": "500/cu.m",
+                "10 mm. Dia. x 6.0 M. DSB": "128/pc",
+                "Tie Wire 16": "70/kg"
+            },
+            "Stone Masonry": {
+                "Cement, 40 kg.": "230/bag",
+                "Sand": "550/cu.m",
+                "Gravel Fill": "650/cu.m"
+            },
+            "Filter Cloth": {
+                "Boulders": "670/cu.m",
+                "Screened Sand": "750/cu.m",
+                "Screened Gravel": "1050/cu.m"
+            },
+            "Soil Poisoning \u2013 Termicide": {
+                "Gravel": "700/cu.m",
+                "Portland Cement, 40kg": "250/bag",
+                "Pozzolan Cement, 40kg": "235/bag"
+            },
+            "Steel Bars": {
+                "10mm Diameter Deformed Bars": "130/pc",
+                "12mm Diameter Deformed Bars": "180/pc",
+                "Hacksaw Blade": "60/pc"
+            },
+            "Formworks": {
+                "Common Nail": "75/kg"
+            },
+            "Painting Works": {
+                "Paint Enamel": "650/gal",
+                "Paint Latex Gloss": "630/gal",
+                "Paint Latex Semi-Gloss": "630/gal",
+                "Thinner Paint": "480/gal",
+                "Thinner Lacquer": "400/gal",
+                "Brush Roller (152mm)": "90/pc",
+                "Brush Steel (101mm)": "50/pc",
+                "Concrete neutralizer": "300/gal",
+                "Putty Knife": "45/pc",
+                "Roller paint 9 w tray": "140/pc",
+                "Paint brush #2":"45/pc",
+                "Paint thinner": "295/gal",
+                "Sand paper 120": "20/pc",
+                "Paint brush 4": "110/pc",
+                "Paint brush 2": "35/pc"
+            }
+        }
+    },
+    "JAMAICA MAE ENTERPRISES":{
+        "info":{
+            "Contact":"",
+            "Address":"Mora St., BACACAY"
+        } ,"inventory": {
+            "Electrical Works": {
+                "Electric Wire THWNTHHN 2.0mm2": "2,120/BOX",
+                "Electric Wire THWNTHHN 3.5mm2": "3,000/BOX",
+                "Electric Wire THWNTHHN 5.5mm2": "6,000/BOX",
+                "Single Gang Switch": "85/set",
+                "Two-Gang Switch": "130/set",
+                "Three-Gang Switch": "180/set",
+                "Two-way Switch": "155/set",
+                "Duplex Convenience Outlet": "90/set",
+                "Heavy Duty Outlet": "90/set",
+                "Electrical Tape": "35/pc"
+            },
+            "Miscellaneous and Consumables": {
+                "Electrical tape big": "45/pc",
+                "Solvent cement 100cc": "85/pc",
+                "Concrete nail no.3": "100/kl",
+                "CWN no.3": "80/kl"
+            },
+            "Wires": {
+                "8.0mm2 THHN": "70/m",
+                "5.5mm2 THHN": "50/m",
+                "3.5mm2 THHN": "30/m",
+                "2.0mm2 THHN": "25/m"
+            },
+            "Masonry Works": {
+                "Concrete Hollow Blocks (CHB) 4": "11/pc",
+                "Concrete Hollow Blocks (CHB) 6": "13/pc",
+                "Washed sand": "500/cu.m",
+                "10 mm. Dia. x 6.0 M. DSB": "128/pc",
+                "Tie Wire 16": "70/kg"
+            },
+            "Stone Masonry": {
+                "Cement, 40 kg.": "230/bag",
+                "Sand": "550/cu.m",
+                "Gravel Fill": "650/cu.m"
+            },
+            "Filter Cloth": {
+                "Boulders": "670/cu.m",
+                "Screened Sand": "750/cu.m",
+                "Screened Gravel": "1050/cu.m"
+            },
+            "Soil Poisoning \u2013 Termicide": {
+                "Gravel": "700/cu.m",
+                "Portland Cement, 40kg": "250/bag",
+                "Pozzolan Cement, 40kg": "235/bag"
+            },
+            "Steel Bars": {
+                "10mm Diameter Deformed Bars": "130/pc",
+                "12mm Diameter Deformed Bars": "180/pc",
+                "Hacksaw Blade": "60/pc"
+            },
+            "Formworks": {
+                "Common Nail": "75/kg"
+            },
+            "Painting Works": {
+                "Paint Enamel": "650/gal",
+                "Paint Latex Gloss": "630/gal",
+                "Paint Latex Semi-Gloss": "630/gal",
+                "Thinner Paint": "480/gal",
+                "Thinner Lacquer": "400/gal",
+                "Brush Roller (152mm)": "90/pc",
+                "Brush Steel (101mm)": "50/pc",
+                "Concrete neutralizer": "300/gal",
+                "Putty Knife": "45/pc",
+                "Roller paint 9 w tray": "140/pc",
+                "Paint brush #2":"45/pc",
+                "Paint thinner": "295/gal",
+                "Sand paper 120": "20/pc",
+                "Paint brush 4": "110/pc",
+                "Paint brush 2": "35/pc"
+            }
+        }
+    },
+    "JENKIES GENERAL MERCHANDISE":{
+        "info":{
+            "Contact":"",
+            "Address":"Poblacion BACACAY"
+        } ,"inventory": {
+            "Electrical Works": {
+                "Electric Wire THWNTHHN 2.0mm2": "2,120/BOX",
+                "Electric Wire THWNTHHN 3.5mm2": "3,000/BOX",
+                "Electric Wire THWNTHHN 5.5mm2": "6,000/BOX",
+                "Single Gang Switch": "85/set",
+                "Two-Gang Switch": "130/set",
+                "Three-Gang Switch": "180/set",
+                "Two-way Switch": "155/set",
+                "Duplex Convenience Outlet": "90/set",
+                "Heavy Duty Outlet": "90/set",
+                "Electrical Tape": "35/pc"
+            },
+            "Miscellaneous and Consumables": {
+                "Electrical tape big": "45/pc",
+                "Solvent cement 100cc": "85/pc",
+                "Concrete nail no.3": "100/kl",
+                "CWN no.3": "80/kl"
+            },
+            "Wires": {
+                "8.0mm2 THHN": "70/m",
+                "5.5mm2 THHN": "50/m",
+                "3.5mm2 THHN": "30/m",
+                "2.0mm2 THHN": "25/m"
+            },
+            "Masonry Works": {
+                "Concrete Hollow Blocks (CHB) 4": "11/pc",
+                "Concrete Hollow Blocks (CHB) 6": "13/pc",
+                "Washed sand": "500/cu.m",
+                "10 mm. Dia. x 6.0 M. DSB": "128/pc",
+                "Tie Wire 16": "70/kg"
+            },
+            "Stone Masonry": {
+                "Cement, 40 kg.": "230/bag",
+                "Sand": "550/cu.m",
+                "Gravel Fill": "650/cu.m"
+            },
+            "Filter Cloth": {
+                "Boulders": "670/cu.m",
+                "Screened Sand": "750/cu.m",
+                "Screened Gravel": "1050/cu.m"
+            },
+            "Soil Poisoning \u2013 Termicide": {
+                "Gravel": "700/cu.m",
+                "Portland Cement, 40kg": "250/bag",
+                "Pozzolan Cement, 40kg": "235/bag"
+            },
+            "Steel Bars": {
+                "10mm Diameter Deformed Bars": "130/pc",
+                "12mm Diameter Deformed Bars": "180/pc",
+                "Hacksaw Blade": "60/pc"
+            },
+            "Formworks": {
+                "Common Nail": "75/kg"
+            },
+            "Painting Works": {
+                "Paint Enamel": "650/gal",
+                "Paint Latex Gloss": "630/gal",
+                "Paint Latex Semi-Gloss": "630/gal",
+                "Thinner Paint": "480/gal",
+                "Thinner Lacquer": "400/gal",
+                "Brush Roller (152mm)": "90/pc",
+                "Brush Steel (101mm)": "50/pc",
+                "Concrete neutralizer": "300/gal",
+                "Putty Knife": "45/pc",
+                "Roller paint 9 w tray": "140/pc",
+                "Paint brush #2":"45/pc",
                 "Paint thinner": "295/gal",
                 "Sand paper 120": "20/pc",
                 "Paint brush 4": "110/pc",
@@ -7145,7 +7695,7 @@
                 "Concrete neutralizer": "300/gal",
                 "Putty Knife": "45/pc",
                 "Roller paint 9 w tray": "140/pc",
-                "Paint brush 2": "45/pc",
+                "Paint brush #2":"45/pc",
                 "Paint thinner": "295/gal",
                 "Sand paper 120": "20/pc",
                 "Paint brush 4": "110/pc",
@@ -7223,7 +7773,7 @@
                 "Concrete neutralizer": "300/gal",
                 "Putty Knife": "45/pc",
                 "Roller paint 9 w tray": "140/pc",
-                "Paint brush 2": "45/pc",
+                "Paint brush #2":"45/pc",
                 "Paint thinner": "295/gal",
                 "Sand paper 120": "20/pc",
                 "Paint brush 4": "110/pc",
@@ -7301,7 +7851,7 @@
                 "Concrete neutralizer": "300/gal",
                 "Putty Knife": "45/pc",
                 "Roller paint 9 w tray": "140/pc",
-                "Paint brush 2": "45/pc",
+                "Paint brush #2":"45/pc",
                 "Paint thinner": "295/gal",
                 "Sand paper 120": "20/pc",
                 "Paint brush 4": "110/pc",
@@ -7379,7 +7929,7 @@
                 "Concrete neutralizer": "300/gal",
                 "Putty Knife": "45/pc",
                 "Roller paint 9 w tray": "140/pc",
-                "Paint brush 2": "45/pc",
+                "Paint brush #2":"45/pc",
                 "Paint thinner": "295/gal",
                 "Sand paper 120": "20/pc",
                 "Paint brush 4": "110/pc",
@@ -7457,7 +8007,7 @@
                 "Concrete neutralizer": "300/gal",
                 "Putty Knife": "45/pc",
                 "Roller paint 9 w tray": "140/pc",
-                "Paint brush 2": "45/pc",
+                "Paint brush #2":"45/pc",
                 "Paint thinner": "295/gal",
                 "Sand paper 120": "20/pc",
                 "Paint brush 4": "110/pc",
@@ -7465,6 +8015,7 @@
             }
         }
     },
+    
     "DEN-ZEN TRADING":{
         "info":{
             "Contact":"",
@@ -7535,7 +8086,7 @@
                 "Concrete neutralizer": "300/gal",
                 "Putty Knife": "45/pc",
                 "Roller paint 9 w tray": "140/pc",
-                "Paint brush 2": "45/pc",
+                "Paint brush #2":"45/pc",
                 "Paint thinner": "295/gal",
                 "Sand paper 120": "20/pc",
                 "Paint brush 4": "110/pc",
@@ -7613,7 +8164,7 @@
                 "Concrete neutralizer": "300/gal",
                 "Putty Knife": "45/pc",
                 "Roller paint 9 w tray": "140/pc",
-                "Paint brush 2": "45/pc",
+                "Paint brush #2":"45/pc",
                 "Paint thinner": "295/gal",
                 "Sand paper 120": "20/pc",
                 "Paint brush 4": "110/pc",
@@ -7624,7 +8175,7 @@
     "BANQUEROHAN ENTERPRISES":{
         "info":{
             "Contact":"4817462",
-            "Address":"B. ALEGRE ST., TULA-TULA LEGASPI CITY",
+            "Address":"B. ALEGRE ST., TULA-TULA LEGASPI CITY"
         } ,"inventory": {
             "Electrical Works": {
                 "Electric Wire THWNTHHN 2.0mm2": "2,120/BOX",
@@ -7691,7 +8242,7 @@
                 "Concrete neutralizer": "300/gal",
                 "Putty Knife": "45/pc",
                 "Roller paint 9 w tray": "140/pc",
-                "Paint brush 2": "45/pc",
+                "Paint brush #2":"45/pc",
                 "Paint thinner": "295/gal",
                 "Sand paper 120": "20/pc",
                 "Paint brush 4": "110/pc",
@@ -7769,7 +8320,7 @@
                 "Concrete neutralizer": "300/gal",
                 "Putty Knife": "45/pc",
                 "Roller paint 9 w tray": "140/pc",
-                "Paint brush 2": "45/pc",
+                "Paint brush #2":"45/pc",
                 "Paint thinner": "295/gal",
                 "Sand paper 120": "20/pc",
                 "Paint brush 4": "110/pc",
@@ -7847,7 +8398,7 @@
                 "Concrete neutralizer": "300/gal",
                 "Putty Knife": "45/pc",
                 "Roller paint 9 w tray": "140/pc",
-                "Paint brush 2": "45/pc",
+                "Paint brush #2":"45/pc",
                 "Paint thinner": "295/gal",
                 "Sand paper 120": "20/pc",
                 "Paint brush 4": "110/pc",
@@ -7925,7 +8476,7 @@
                 "Concrete neutralizer": "300/gal",
                 "Putty Knife": "45/pc",
                 "Roller paint 9 w tray": "140/pc",
-                "Paint brush 2": "45/pc",
+                "Paint brush #2":"45/pc",
                 "Paint thinner": "295/gal",
                 "Sand paper 120": "20/pc",
                 "Paint brush 4": "110/pc",
@@ -8003,7 +8554,7 @@
                 "Concrete neutralizer": "300/gal",
                 "Putty Knife": "45/pc",
                 "Roller paint 9 w tray": "140/pc",
-                "Paint brush 2": "45/pc",
+                "Paint brush #2":"45/pc",
                 "Paint thinner": "295/gal",
                 "Sand paper 120": "20/pc",
                 "Paint brush 4": "110/pc",
@@ -8081,7 +8632,7 @@
                 "Concrete neutralizer": "300/gal",
                 "Putty Knife": "45/pc",
                 "Roller paint 9 w tray": "140/pc",
-                "Paint brush 2": "45/pc",
+                "Paint brush #2":"45/pc",
                 "Paint thinner": "295/gal",
                 "Sand paper 120": "20/pc",
                 "Paint brush 4": "110/pc",
@@ -8159,7 +8710,7 @@
                 "Concrete neutralizer": "300/gal",
                 "Putty Knife": "45/pc",
                 "Roller paint 9 w tray": "140/pc",
-                "Paint brush 2": "45/pc",
+                "Paint brush #2":"45/pc",
                 "Paint thinner": "295/gal",
                 "Sand paper 120": "20/pc",
                 "Paint brush 4": "110/pc",
@@ -8237,7 +8788,7 @@
                 "Concrete neutralizer": "300/gal",
                 "Putty Knife": "45/pc",
                 "Roller paint 9 w tray": "140/pc",
-                "Paint brush 2": "45/pc",
+                "Paint brush #2":"45/pc",
                 "Paint thinner": "295/gal",
                 "Sand paper 120": "20/pc",
                 "Paint brush 4": "110/pc",
@@ -8315,7 +8866,7 @@
                 "Concrete neutralizer": "300/gal",
                 "Putty Knife": "45/pc",
                 "Roller paint 9 w tray": "140/pc",
-                "Paint brush 2": "45/pc",
+                "Paint brush #2":"45/pc",
                 "Paint thinner": "295/gal",
                 "Sand paper 120": "20/pc",
                 "Paint brush 4": "110/pc",
@@ -8393,7 +8944,7 @@
                 "Concrete neutralizer": "300/gal",
                 "Putty Knife": "45/pc",
                 "Roller paint 9 w tray": "140/pc",
-                "Paint brush 2": "45/pc",
+                "Paint brush #2":"45/pc",
                 "Paint thinner": "295/gal",
                 "Sand paper 120": "20/pc",
                 "Paint brush 4": "110/pc",
@@ -8471,7 +9022,7 @@
                 "Concrete neutralizer": "300/gal",
                 "Putty Knife": "45/pc",
                 "Roller paint 9 w tray": "140/pc",
-                "Paint brush 2": "45/pc",
+                "Paint brush #2":"45/pc",
                 "Paint thinner": "295/gal",
                 "Sand paper 120": "20/pc",
                 "Paint brush 4": "110/pc",
@@ -8549,7 +9100,7 @@
                 "Concrete neutralizer": "300/gal",
                 "Putty Knife": "45/pc",
                 "Roller paint 9 w tray": "140/pc",
-                "Paint brush 2": "45/pc",
+                "Paint brush #2":"45/pc",
                 "Paint thinner": "295/gal",
                 "Sand paper 120": "20/pc",
                 "Paint brush 4": "110/pc",
@@ -8560,7 +9111,7 @@
     "TAHAO ROAD ENT.":{
         "info":{
             "Contact":"",
-            "Address":"TAHAO ROAD, BITANO LEGASPI CITY"
+            "Address":"TAHAO ROAD BITANO LEGASPI CITY"
         } ,"inventory": {
             "Electrical Works": {
                 "Electric Wire THWNTHHN 2.0mm2": "2,120/BOX",
@@ -8627,7 +9178,7 @@
                 "Concrete neutralizer": "300/gal",
                 "Putty Knife": "45/pc",
                 "Roller paint 9 w tray": "140/pc",
-                "Paint brush 2": "45/pc",
+                "Paint brush #2":"45/pc",
                 "Paint thinner": "295/gal",
                 "Sand paper 120": "20/pc",
                 "Paint brush 4": "110/pc",
@@ -8638,7 +9189,7 @@
     "LEGAZPI HALIXEL MARKETING & FISHING SUPPLY":{
         "info":{
             "Contact":"4806204",
-            "Address":"CIRCUMFERENTIAL ROAD, LEGASPI CITY"
+            "Address":"CIRCUMFERENTIAL ROAD LEGASPI CITY"
         },"inventory": {
             "Electrical Works": {
                 "Electric Wire THWNTHHN 2.0mm2": "2,120/BOX",
@@ -8705,7 +9256,7 @@
                 "Concrete neutralizer": "300/gal",
                 "Putty Knife": "45/pc",
                 "Roller paint 9 w tray": "140/pc",
-                "Paint brush 2": "45/pc",
+                "Paint brush #2":"45/pc",
                 "Paint thinner": "295/gal",
                 "Sand paper 120": "20/pc",
                 "Paint brush 4": "110/pc",
@@ -8716,7 +9267,7 @@
     "LLADONE'S MARKETING":{
         "info":{
             "Contact":"4807283",
-            "Address":"26 ELIZONDO ST., SABANG, LEGASPI CITY"
+            "Address":"26 ELIZONDO ST. SABANG LEGASPI CITY"
         },"inventory": {
             "Electrical Works": {
                 "Electric Wire THWNTHHN 2.0mm2": "2,120/BOX",
@@ -8783,7 +9334,7 @@
                 "Concrete neutralizer": "300/gal",
                 "Putty Knife": "45/pc",
                 "Roller paint 9 w tray": "140/pc",
-                "Paint brush 2": "45/pc",
+                "Paint brush #2":"45/pc",
                 "Paint thinner": "295/gal",
                 "Sand paper 120": "20/pc",
                 "Paint brush 4": "110/pc",
@@ -8794,7 +9345,7 @@
     "OTOWE HARDWARE AND CONSTRUCTION SUPPLIES":{
         "info":{
             "Contact":"4808436",
-            "Address": "336 PENARANDA ST., BRGY. 39 BONOT, LEGASPI CITY"
+            "Address": "336 PENARANDA ST. BRGY. 39 BONOT, LEGASPI CITY"
         },"inventory": {
             "Electrical Works": {
                 "Electric Wire THWNTHHN 2.0mm2": "2,120/BOX",
@@ -8861,7 +9412,7 @@
                 "Concrete neutralizer": "300/gal",
                 "Putty Knife": "45/pc",
                 "Roller paint 9 w tray": "140/pc",
-                "Paint brush 2": "45/pc",
+                "Paint brush #2":"45/pc",
                 "Paint thinner": "295/gal",
                 "Sand paper 120": "20/pc",
                 "Paint brush 4": "110/pc",
@@ -8872,7 +9423,7 @@
      "UNICO TRADING - BRANCH":{
         "info":{
             "Contact":"4807159",
-            "Address":"MAGALLANES ST., ORO SITE LEGASPI CITY"
+            "Address":"MAGALLANES ST. ORO SITE LEGASPI CITY"
         },"inventory": {
             "Electrical Works": {
                 "Electric Wire THWNTHHN 2.0mm2": "2,120/BOX",
@@ -8939,7 +9490,7 @@
                 "Concrete neutralizer": "300/gal",
                 "Putty Knife": "45/pc",
                 "Roller paint 9 w tray": "140/pc",
-                "Paint brush 2": "45/pc",
+                "Paint brush #2":"45/pc",
                 "Paint thinner": "295/gal",
                 "Sand paper 120": "20/pc",
                 "Paint brush 4": "110/pc",
@@ -8950,7 +9501,7 @@
     "LEGAZPI TOOLS  & DRILL SHOP":{
         "info":{
             "Contact":"4808725",
-            "Address":"59 QUEZON AVE. EXTENSION, ORO SITE, LEGASPI CITY"
+            "Address":"59 QUEZON AVE. EXTENSION ORO SITE LEGASPI CITY"
         } ,"inventory": {
             "Electrical Works": {
                 "Electric Wire THWNTHHN 2.0mm2": "2,120/BOX",
@@ -9017,7 +9568,7 @@
                 "Concrete neutralizer": "300/gal",
                 "Putty Knife": "45/pc",
                 "Roller paint 9 w tray": "140/pc",
-                "Paint brush 2": "45/pc",
+                "Paint brush #2":"45/pc",
                 "Paint thinner": "295/gal",
                 "Sand paper 120": "20/pc",
                 "Paint brush 4": "110/pc",
@@ -9095,7 +9646,7 @@
                 "Concrete neutralizer": "300/gal",
                 "Putty Knife": "45/pc",
                 "Roller paint 9 w tray": "140/pc",
-                "Paint brush 2": "45/pc",
+                "Paint brush #2":"45/pc",
                 "Paint thinner": "295/gal",
                 "Sand paper 120": "20/pc",
                 "Paint brush 4": "110/pc",
@@ -9173,7 +9724,7 @@
                 "Concrete neutralizer": "300/gal",
                 "Putty Knife": "45/pc",
                 "Roller paint 9 w tray": "140/pc",
-                "Paint brush 2": "45/pc",
+                "Paint brush #2":"45/pc",
                 "Paint thinner": "295/gal",
                 "Sand paper 120": "20/pc",
                 "Paint brush 4": "110/pc",
@@ -9251,7 +9802,7 @@
                 "Concrete neutralizer": "300/gal",
                 "Putty Knife": "45/pc",
                 "Roller paint 9 w tray": "140/pc",
-                "Paint brush 2": "45/pc",
+                "Paint brush #2":"45/pc",
                 "Paint thinner": "295/gal",
                 "Sand paper 120": "20/pc",
                 "Paint brush 4": "110/pc",
@@ -9329,7 +9880,7 @@
                 "Concrete neutralizer": "300/gal",
                 "Putty Knife": "45/pc",
                 "Roller paint 9 w tray": "140/pc",
-                "Paint brush 2": "45/pc",
+                "Paint brush #2":"45/pc",
                 "Paint thinner": "295/gal",
                 "Sand paper 120": "20/pc",
                 "Paint brush 4": "110/pc",
@@ -9407,7 +9958,7 @@
                 "Concrete neutralizer": "300/gal",
                 "Putty Knife": "45/pc",
                 "Roller paint 9 w tray": "140/pc",
-                "Paint brush 2": "45/pc",
+                "Paint brush #2":"45/pc",
                 "Paint thinner": "295/gal",
                 "Sand paper 120": "20/pc",
                 "Paint brush 4": "110/pc",
@@ -9486,15 +10037,13 @@
                 "Concrete neutralizer": "300/gal",
                 "Putty Knife": "45/pc",
                 "Roller paint 9 w tray": "140/pc",
-                "Paint brush 2": "45/pc",
+                "Paint brush #2":"45/pc",
                 "Paint thinner": "295/gal",
                 "Sand paper 120": "20/pc",
                 "Paint brush 4": "110/pc",
                 "Paint brush 2": "35/pc"
             }
         }
-    },
-    "RO-CEL TRADING LEGAZPI CITY":{
     },
     "ARAZA GENERAL MERCHANDISE AND LUMBER":{
         "info":{
@@ -9566,7 +10115,7 @@
                 "Concrete neutralizer": "300/gal",
                 "Putty Knife": "45/pc",
                 "Roller paint 9 w tray": "140/pc",
-                "Paint brush 2": "45/pc",
+                "Paint brush #2":"45/pc",
                 "Paint thinner": "295/gal",
                 "Sand paper 120": "20/pc",
                 "Paint brush 4": "110/pc",
@@ -9645,7 +10194,7 @@
                 "Concrete neutralizer": "300/gal",
                 "Putty Knife": "45/pc",
                 "Roller paint 9 w tray": "140/pc",
-                "Paint brush 2": "45/pc",
+                "Paint brush #2":"45/pc",
                 "Paint thinner": "295/gal",
                 "Sand paper 120": "20/pc",
                 "Paint brush 4": "110/pc",
@@ -9723,7 +10272,7 @@
                 "Concrete neutralizer": "300/gal",
                 "Putty Knife": "45/pc",
                 "Roller paint 9 w tray": "140/pc",
-                "Paint brush 2": "45/pc",
+                "Paint brush #2":"45/pc",
                 "Paint thinner": "295/gal",
                 "Sand paper 120": "20/pc",
                 "Paint brush 4": "110/pc",
@@ -9802,7 +10351,7 @@
                 "Concrete neutralizer": "300/gal",
                 "Putty Knife": "45/pc",
                 "Roller paint 9 w tray": "140/pc",
-                "Paint brush 2": "45/pc",
+                "Paint brush #2":"45/pc",
                 "Paint thinner": "295/gal",
                 "Sand paper 120": "20/pc",
                 "Paint brush 4": "110/pc",
@@ -9880,7 +10429,7 @@
                 "Concrete neutralizer": "300/gal",
                 "Putty Knife": "45/pc",
                 "Roller paint 9 w tray": "140/pc",
-                "Paint brush 2": "45/pc",
+                "Paint brush #2":"45/pc",
                 "Paint thinner": "295/gal",
                 "Sand paper 120": "20/pc",
                 "Paint brush 4": "110/pc",
@@ -9958,7 +10507,7 @@
                 "Concrete neutralizer": "300/gal",
                 "Putty Knife": "45/pc",
                 "Roller paint 9 w tray": "140/pc",
-                "Paint brush 2": "45/pc",
+                "Paint brush #2":"45/pc",
                 "Paint thinner": "295/gal",
                 "Sand paper 120": "20/pc",
                 "Paint brush 4": "110/pc",
@@ -10036,7 +10585,7 @@
                 "Concrete neutralizer": "300/gal",
                 "Putty Knife": "45/pc",
                 "Roller paint 9 w tray": "140/pc",
-                "Paint brush 2": "45/pc",
+                "Paint brush #2":"45/pc",
                 "Paint thinner": "295/gal",
                 "Sand paper 120": "20/pc",
                 "Paint brush 4": "110/pc",
@@ -10114,7 +10663,7 @@
                 "Concrete neutralizer": "300/gal",
                 "Putty Knife": "45/pc",
                 "Roller paint 9 w tray": "140/pc",
-                "Paint brush 2": "45/pc",
+                "Paint brush #2":"45/pc",
                 "Paint thinner": "295/gal",
                 "Sand paper 120": "20/pc",
                 "Paint brush 4": "110/pc",
@@ -10192,7 +10741,7 @@
                 "Concrete neutralizer": "300/gal",
                 "Putty Knife": "45/pc",
                 "Roller paint 9 w tray": "140/pc",
-                "Paint brush 2": "45/pc",
+                "Paint brush #2":"45/pc",
                 "Paint thinner": "295/gal",
                 "Sand paper 120": "20/pc",
                 "Paint brush 4": "110/pc",
@@ -10270,7 +10819,7 @@
                 "Concrete neutralizer": "300/gal",
                 "Putty Knife": "45/pc",
                 "Roller paint 9 w tray": "140/pc",
-                "Paint brush 2": "45/pc",
+                "Paint brush #2":"45/pc",
                 "Paint thinner": "295/gal",
                 "Sand paper 120": "20/pc",
                 "Paint brush 4": "110/pc",
@@ -10348,7 +10897,7 @@
                 "Concrete neutralizer": "300/gal",
                 "Putty Knife": "45/pc",
                 "Roller paint 9 w tray": "140/pc",
-                "Paint brush 2": "45/pc",
+                "Paint brush #2":"45/pc",
                 "Paint thinner": "295/gal",
                 "Sand paper 120": "20/pc",
                 "Paint brush 4": "110/pc",
@@ -10426,7 +10975,7 @@
                 "Concrete neutralizer": "300/gal",
                 "Putty Knife": "45/pc",
                 "Roller paint 9 w tray": "140/pc",
-                "Paint brush 2": "45/pc",
+                "Paint brush #2":"45/pc",
                 "Paint thinner": "295/gal",
                 "Sand paper 120": "20/pc",
                 "Paint brush 4": "110/pc",
@@ -10504,7 +11053,7 @@
                 "Concrete neutralizer": "300/gal",
                 "Putty Knife": "45/pc",
                 "Roller paint 9 w tray": "140/pc",
-                "Paint brush 2": "45/pc",
+                "Paint brush #2":"45/pc",
                 "Paint thinner": "295/gal",
                 "Sand paper 120": "20/pc",
                 "Paint brush 4": "110/pc",
@@ -10582,7 +11131,7 @@
                 "Concrete neutralizer": "300/gal",
                 "Putty Knife": "45/pc",
                 "Roller paint 9 w tray": "140/pc",
-                "Paint brush 2": "45/pc",
+                "Paint brush #2":"45/pc",
                 "Paint thinner": "295/gal",
                 "Sand paper 120": "20/pc",
                 "Paint brush 4": "110/pc",
@@ -10660,7 +11209,7 @@
                 "Concrete neutralizer": "300/gal",
                 "Putty Knife": "45/pc",
                 "Roller paint 9 w tray": "140/pc",
-                "Paint brush 2": "45/pc",
+                "Paint brush #2":"45/pc",
                 "Paint thinner": "295/gal",
                 "Sand paper 120": "20/pc",
                 "Paint brush 4": "110/pc",
@@ -10738,7 +11287,7 @@
                 "Concrete neutralizer": "300/gal",
                 "Putty Knife": "45/pc",
                 "Roller paint 9 w tray": "140/pc",
-                "Paint brush 2": "45/pc",
+                "Paint brush #2":"45/pc",
                 "Paint thinner": "295/gal",
                 "Sand paper 120": "20/pc",
                 "Paint brush 4": "110/pc",
@@ -10816,7 +11365,7 @@
                 "Concrete neutralizer": "300/gal",
                 "Putty Knife": "45/pc",
                 "Roller paint 9 w tray": "140/pc",
-                "Paint brush 2": "45/pc",
+                "Paint brush #2":"45/pc",
                 "Paint thinner": "295/gal",
                 "Sand paper 120": "20/pc",
                 "Paint brush 4": "110/pc",
@@ -10894,7 +11443,7 @@
                 "Concrete neutralizer": "300/gal",
                 "Putty Knife": "45/pc",
                 "Roller paint 9 w tray": "140/pc",
-                "Paint brush 2": "45/pc",
+                "Paint brush #2":"45/pc",
                 "Paint thinner": "295/gal",
                 "Sand paper 120": "20/pc",
                 "Paint brush 4": "110/pc",
@@ -10905,7 +11454,7 @@
     "DARAGA UNIVERSAL HARDWARE & GENERAL MERCHANDISE":{
         "info":{
             "Contact":"8242105",
-            "Address":"RIZAL ST. CENTRO DARAGA",
+            "Address":"RIZAL ST. CENTRO DARAGA"
         } ,"inventory": {
             "Electrical Works": {
                 "Electric Wire THWNTHHN 2.0mm2": "2,120/BOX",
@@ -10972,7 +11521,7 @@
                 "Concrete neutralizer": "300/gal",
                 "Putty Knife": "45/pc",
                 "Roller paint 9 w tray": "140/pc",
-                "Paint brush 2": "45/pc",
+                "Paint brush #2":"45/pc",
                 "Paint thinner": "295/gal",
                 "Sand paper 120": "20/pc",
                 "Paint brush 4": "110/pc",
@@ -11050,7 +11599,7 @@
                 "Concrete neutralizer": "300/gal",
                 "Putty Knife": "45/pc",
                 "Roller paint 9 w tray": "140/pc",
-                "Paint brush 2": "45/pc",
+                "Paint brush #2":"45/pc",
                 "Paint thinner": "295/gal",
                 "Sand paper 120": "20/pc",
                 "Paint brush 4": "110/pc",
@@ -11128,7 +11677,7 @@
                 "Concrete neutralizer": "300/gal",
                 "Putty Knife": "45/pc",
                 "Roller paint 9 w tray": "140/pc",
-                "Paint brush 2": "45/pc",
+                "Paint brush #2":"45/pc",
                 "Paint thinner": "295/gal",
                 "Sand paper 120": "20/pc",
                 "Paint brush 4": "110/pc",
@@ -11206,7 +11755,7 @@
                 "Concrete neutralizer": "300/gal",
                 "Putty Knife": "45/pc",
                 "Roller paint 9 w tray": "140/pc",
-                "Paint brush 2": "45/pc",
+                "Paint brush #2":"45/pc",
                 "Paint thinner": "295/gal",
                 "Sand paper 120": "20/pc",
                 "Paint brush 4": "110/pc",
@@ -11284,7 +11833,7 @@
                 "Concrete neutralizer": "300/gal",
                 "Putty Knife": "45/pc",
                 "Roller paint 9 w tray": "140/pc",
-                "Paint brush 2": "45/pc",
+                "Paint brush #2":"45/pc",
                 "Paint thinner": "295/gal",
                 "Sand paper 120": "20/pc",
                 "Paint brush 4": "110/pc",
@@ -11362,7 +11911,7 @@
                 "Concrete neutralizer": "300/gal",
                 "Putty Knife": "45/pc",
                 "Roller paint 9 w tray": "140/pc",
-                "Paint brush 2": "45/pc",
+                "Paint brush #2":"45/pc",
                 "Paint thinner": "295/gal",
                 "Sand paper 120": "20/pc",
                 "Paint brush 4": "110/pc",
@@ -11372,7 +11921,7 @@
     },
     "F. GALLEGO ENTERPRISES":{
         "info":{
-            "Contact":,
+            "Contact":"",
             "Address":"LAKANDULA DRIVE, BANAG DARAGA"
         } ,"inventory": {
             "Electrical Works": {
@@ -11440,7 +11989,7 @@
                 "Concrete neutralizer": "300/gal",
                 "Putty Knife": "45/pc",
                 "Roller paint 9 w tray": "140/pc",
-                "Paint brush 2": "45/pc",
+                "Paint brush #2":"45/pc",
                 "Paint thinner": "295/gal",
                 "Sand paper 120": "20/pc",
                 "Paint brush 4": "110/pc",
@@ -11518,7 +12067,7 @@
                 "Concrete neutralizer": "300/gal",
                 "Putty Knife": "45/pc",
                 "Roller paint 9 w tray": "140/pc",
-                "Paint brush 2": "45/pc",
+                "Paint brush #2":"45/pc",
                 "Paint thinner": "295/gal",
                 "Sand paper 120": "20/pc",
                 "Paint brush 4": "110/pc",
@@ -11596,7 +12145,7 @@
                 "Concrete neutralizer": "300/gal",
                 "Putty Knife": "45/pc",
                 "Roller paint 9 w tray": "140/pc",
-                "Paint brush 2": "45/pc",
+                "Paint brush #2":"45/pc",
                 "Paint thinner": "295/gal",
                 "Sand paper 120": "20/pc",
                 "Paint brush 4": "110/pc",
@@ -11675,7 +12224,7 @@
                 "Concrete neutralizer": "300/gal",
                 "Putty Knife": "45/pc",
                 "Roller paint 9 w tray": "140/pc",
-                "Paint brush 2": "45/pc",
+                "Paint brush #2":"45/pc",
                 "Paint thinner": "295/gal",
                 "Sand paper 120": "20/pc",
                 "Paint brush 4": "110/pc",
@@ -11753,7 +12302,7 @@
                 "Concrete neutralizer": "300/gal",
                 "Putty Knife": "45/pc",
                 "Roller paint 9 w tray": "140/pc",
-                "Paint brush 2": "45/pc",
+                "Paint brush #2":"45/pc",
                 "Paint thinner": "295/gal",
                 "Sand paper 120": "20/pc",
                 "Paint brush 4": "110/pc",
@@ -11831,7 +12380,7 @@
                 "Concrete neutralizer": "300/gal",
                 "Putty Knife": "45/pc",
                 "Roller paint 9 w tray": "140/pc",
-                "Paint brush 2": "45/pc",
+                "Paint brush #2":"45/pc",
                 "Paint thinner": "295/gal",
                 "Sand paper 120": "20/pc",
                 "Paint brush 4": "110/pc",
@@ -11909,7 +12458,7 @@
                 "Concrete neutralizer": "300/gal",
                 "Putty Knife": "45/pc",
                 "Roller paint 9 w tray": "140/pc",
-                "Paint brush 2": "45/pc",
+                "Paint brush #2":"45/pc",
                 "Paint thinner": "295/gal",
                 "Sand paper 120": "20/pc",
                 "Paint brush 4": "110/pc",
@@ -11987,7 +12536,7 @@
                 "Concrete neutralizer": "300/gal",
                 "Putty Knife": "45/pc",
                 "Roller paint 9 w tray": "140/pc",
-                "Paint brush 2": "45/pc",
+                "Paint brush #2":"45/pc",
                 "Paint thinner": "295/gal",
                 "Sand paper 120": "20/pc",
                 "Paint brush 4": "110/pc",
@@ -12065,7 +12614,7 @@
                 "Concrete neutralizer": "300/gal",
                 "Putty Knife": "45/pc",
                 "Roller paint 9 w tray": "140/pc",
-                "Paint brush 2": "45/pc",
+                "Paint brush #2":"45/pc",
                 "Paint thinner": "295/gal",
                 "Sand paper 120": "20/pc",
                 "Paint brush 4": "110/pc",
@@ -12143,7 +12692,7 @@
                 "Concrete neutralizer": "300/gal",
                 "Putty Knife": "45/pc",
                 "Roller paint 9 w tray": "140/pc",
-                "Paint brush 2": "45/pc",
+                "Paint brush #2":"45/pc",
                 "Paint thinner": "295/gal",
                 "Sand paper 120": "20/pc",
                 "Paint brush 4": "110/pc",
@@ -12221,7 +12770,7 @@
                 "Concrete neutralizer": "300/gal",
                 "Putty Knife": "45/pc",
                 "Roller paint 9 w tray": "140/pc",
-                "Paint brush 2": "45/pc",
+                "Paint brush #2":"45/pc",
                 "Paint thinner": "295/gal",
                 "Sand paper 120": "20/pc",
                 "Paint brush 4": "110/pc",
@@ -12299,7 +12848,7 @@
                 "Concrete neutralizer": "300/gal",
                 "Putty Knife": "45/pc",
                 "Roller paint 9 w tray": "140/pc",
-                "Paint brush 2": "45/pc",
+                "Paint brush #2":"45/pc",
                 "Paint thinner": "295/gal",
                 "Sand paper 120": "20/pc",
                 "Paint brush 4": "110/pc",
@@ -12377,7 +12926,7 @@
                 "Concrete neutralizer": "300/gal",
                 "Putty Knife": "45/pc",
                 "Roller paint 9 w tray": "140/pc",
-                "Paint brush 2": "45/pc",
+                "Paint brush #2":"45/pc",
                 "Paint thinner": "295/gal",
                 "Sand paper 120": "20/pc",
                 "Paint brush 4": "110/pc",
@@ -12455,7 +13004,7 @@
                 "Concrete neutralizer": "300/gal",
                 "Putty Knife": "45/pc",
                 "Roller paint 9 w tray": "140/pc",
-                "Paint brush 2": "45/pc",
+                "Paint brush #2":"45/pc",
                 "Paint thinner": "295/gal",
                 "Sand paper 120": "20/pc",
                 "Paint brush 4": "110/pc",
@@ -12533,7 +13082,7 @@
                 "Concrete neutralizer": "300/gal",
                 "Putty Knife": "45/pc",
                 "Roller paint 9 w tray": "140/pc",
-                "Paint brush 2": "45/pc",
+                "Paint brush #2":"45/pc",
                 "Paint thinner": "295/gal",
                 "Sand paper 120": "20/pc",
                 "Paint brush 4": "110/pc",
@@ -12611,7 +13160,7 @@
                 "Concrete neutralizer": "300/gal",
                 "Putty Knife": "45/pc",
                 "Roller paint 9 w tray": "140/pc",
-                "Paint brush 2": "45/pc",
+                "Paint brush #2":"45/pc",
                 "Paint thinner": "295/gal",
                 "Sand paper 120": "20/pc",
                 "Paint brush 4": "110/pc",
@@ -12689,7 +13238,7 @@
                 "Concrete neutralizer": "300/gal",
                 "Putty Knife": "45/pc",
                 "Roller paint 9 w tray": "140/pc",
-                "Paint brush 2": "45/pc",
+                "Paint brush #2":"45/pc",
                 "Paint thinner": "295/gal",
                 "Sand paper 120": "20/pc",
                 "Paint brush 4": "110/pc",
@@ -12700,7 +13249,7 @@
     "OSURMAN TRADING":{
         "info":{
             "Contact":"4846159",
-            "Address":"RIZAL ST., ILAWOD, GUINOBATAN",
+            "Address":"RIZAL ST., ILAWOD, GUINOBATAN"
         } ,"inventory": {
             "Electrical Works": {
                 "Electric Wire THWNTHHN 2.0mm2": "2,120/BOX",
@@ -12767,7 +13316,7 @@
                 "Concrete neutralizer": "300/gal",
                 "Putty Knife": "45/pc",
                 "Roller paint 9 w tray": "140/pc",
-                "Paint brush 2": "45/pc",
+                "Paint brush #2":"45/pc",
                 "Paint thinner": "295/gal",
                 "Sand paper 120": "20/pc",
                 "Paint brush 4": "110/pc",
@@ -12845,7 +13394,7 @@
                 "Concrete neutralizer": "300/gal",
                 "Putty Knife": "45/pc",
                 "Roller paint 9 w tray": "140/pc",
-                "Paint brush 2": "45/pc",
+                "Paint brush #2":"45/pc",
                 "Paint thinner": "295/gal",
                 "Sand paper 120": "20/pc",
                 "Paint brush 4": "110/pc",
@@ -12856,7 +13405,7 @@
     "PARDINAS TRADING":{
         "info":{
             "Contact":"4846097",
-            "Address":"POBLACION,  GUINOBATAN",
+            "Address":"POBLACION,  GUINOBATAN"
         } ,"inventory": {
             "Electrical Works": {
                 "Electric Wire THWNTHHN 2.0mm2": "2,120/BOX",
@@ -12923,7 +13472,7 @@
                 "Concrete neutralizer": "300/gal",
                 "Putty Knife": "45/pc",
                 "Roller paint 9 w tray": "140/pc",
-                "Paint brush 2": "45/pc",
+                "Paint brush #2":"45/pc",
                 "Paint thinner": "295/gal",
                 "Sand paper 120": "20/pc",
                 "Paint brush 4": "110/pc",
@@ -13001,7 +13550,7 @@
                 "Concrete neutralizer": "300/gal",
                 "Putty Knife": "45/pc",
                 "Roller paint 9 w tray": "140/pc",
-                "Paint brush 2": "45/pc",
+                "Paint brush #2":"45/pc",
                 "Paint thinner": "295/gal",
                 "Sand paper 120": "20/pc",
                 "Paint brush 4": "110/pc",
@@ -13079,7 +13628,7 @@
                 "Concrete neutralizer": "300/gal",
                 "Putty Knife": "45/pc",
                 "Roller paint 9 w tray": "140/pc",
-                "Paint brush 2": "45/pc",
+                "Paint brush #2":"45/pc",
                 "Paint thinner": "295/gal",
                 "Sand paper 120": "20/pc",
                 "Paint brush 4": "110/pc",
@@ -13157,7 +13706,7 @@
                 "Concrete neutralizer": "300/gal",
                 "Putty Knife": "45/pc",
                 "Roller paint 9 w tray": "140/pc",
-                "Paint brush 2": "45/pc",
+                "Paint brush #2":"45/pc",
                 "Paint thinner": "295/gal",
                 "Sand paper 120": "20/pc",
                 "Paint brush 4": "110/pc",
@@ -13235,7 +13784,7 @@
                 "Concrete neutralizer": "300/gal",
                 "Putty Knife": "45/pc",
                 "Roller paint 9 w tray": "140/pc",
-                "Paint brush 2": "45/pc",
+                "Paint brush #2":"45/pc",
                 "Paint thinner": "295/gal",
                 "Sand paper 120": "20/pc",
                 "Paint brush 4": "110/pc",
@@ -13313,7 +13862,7 @@
                 "Concrete neutralizer": "300/gal",
                 "Putty Knife": "45/pc",
                 "Roller paint 9 w tray": "140/pc",
-                "Paint brush 2": "45/pc",
+                "Paint brush #2":"45/pc",
                 "Paint thinner": "295/gal",
                 "Sand paper 120": "20/pc",
                 "Paint brush 4": "110/pc",
@@ -13391,7 +13940,7 @@
                 "Concrete neutralizer": "300/gal",
                 "Putty Knife": "45/pc",
                 "Roller paint 9 w tray": "140/pc",
-                "Paint brush 2": "45/pc",
+                "Paint brush #2":"45/pc",
                 "Paint thinner": "295/gal",
                 "Sand paper 120": "20/pc",
                 "Paint brush 4": "110/pc",
@@ -13469,7 +14018,7 @@
                 "Concrete neutralizer": "300/gal",
                 "Putty Knife": "45/pc",
                 "Roller paint 9 w tray": "140/pc",
-                "Paint brush 2": "45/pc",
+                "Paint brush #2":"45/pc",
                 "Paint thinner": "295/gal",
                 "Sand paper 120": "20/pc",
                 "Paint brush 4": "110/pc",
@@ -13547,7 +14096,7 @@
                 "Concrete neutralizer": "300/gal",
                 "Putty Knife": "45/pc",
                 "Roller paint 9 w tray": "140/pc",
-                "Paint brush 2": "45/pc",
+                "Paint brush #2":"45/pc",
                 "Paint thinner": "295/gal",
                 "Sand paper 120": "20/pc",
                 "Paint brush 4": "110/pc",
@@ -13558,7 +14107,7 @@
     "SZEMAN ENTERPRISES":{
         "info":{
             "Contact":"4851483",
-            "Address":"MC KINLEY ST., GUILID LIGAO CITY",
+            "Address":"MC KINLEY ST., GUILID LIGAO CITY"
         } , "inventory": {
             "Electrical Works": {
                 "Electric Wire THWNTHHN 2.0mm2": "2,120/BOX",
@@ -13625,7 +14174,7 @@
                 "Concrete neutralizer": "300/gal",
                 "Putty Knife": "45/pc",
                 "Roller paint 9 w tray": "140/pc",
-                "Paint brush 2": "45/pc",
+                "Paint brush #2":"45/pc",
                 "Paint thinner": "295/gal",
                 "Sand paper 120": "20/pc",
                 "Paint brush 4": "110/pc",
@@ -13703,7 +14252,7 @@
                 "Concrete neutralizer": "300/gal",
                 "Putty Knife": "45/pc",
                 "Roller paint 9 w tray": "140/pc",
-                "Paint brush 2": "45/pc",
+                "Paint brush #2":"45/pc",
                 "Paint thinner": "295/gal",
                 "Sand paper 120": "20/pc",
                 "Paint brush 4": "110/pc",
@@ -13781,7 +14330,7 @@
                 "Concrete neutralizer": "300/gal",
                 "Putty Knife": "45/pc",
                 "Roller paint 9 w tray": "140/pc",
-                "Paint brush 2": "45/pc",
+                "Paint brush #2":"45/pc",
                 "Paint thinner": "295/gal",
                 "Sand paper 120": "20/pc",
                 "Paint brush 4": "110/pc",
@@ -13859,7 +14408,7 @@
                 "Concrete neutralizer": "300/gal",
                 "Putty Knife": "45/pc",
                 "Roller paint 9 w tray": "140/pc",
-                "Paint brush 2": "45/pc",
+                "Paint brush #2":"45/pc",
                 "Paint thinner": "295/gal",
                 "Sand paper 120": "20/pc",
                 "Paint brush 4": "110/pc",
@@ -13869,7 +14418,7 @@
     },
     "THOMAS D. PRINCESA ELECTRICAL SUPPLY":{
         "info":{
-            "Contact":,
+            "Contact":"",
             "Address":"SAN JOSE ST., DUNAO LIGAO CITY"
         } , "inventory": {
             "Electrical Works": {
@@ -13937,7 +14486,7 @@
                 "Concrete neutralizer": "300/gal",
                 "Putty Knife": "45/pc",
                 "Roller paint 9 w tray": "140/pc",
-                "Paint brush 2": "45/pc",
+                "Paint brush #2":"45/pc",
                 "Paint thinner": "295/gal",
                 "Sand paper 120": "20/pc",
                 "Paint brush 4": "110/pc",
@@ -14015,7 +14564,7 @@
                 "Concrete neutralizer": "300/gal",
                 "Putty Knife": "45/pc",
                 "Roller paint 9 w tray": "140/pc",
-                "Paint brush 2": "45/pc",
+                "Paint brush #2":"45/pc",
                 "Paint thinner": "295/gal",
                 "Sand paper 120": "20/pc",
                 "Paint brush 4": "110/pc",
@@ -14093,7 +14642,7 @@
                 "Concrete neutralizer": "300/gal",
                 "Putty Knife": "45/pc",
                 "Roller paint 9 w tray": "140/pc",
-                "Paint brush 2": "45/pc",
+                "Paint brush #2":"45/pc",
                 "Paint thinner": "295/gal",
                 "Sand paper 120": "20/pc",
                 "Paint brush 4": "110/pc",
@@ -14171,7 +14720,7 @@
                 "Concrete neutralizer": "300/gal",
                 "Putty Knife": "45/pc",
                 "Roller paint 9 w tray": "140/pc",
-                "Paint brush 2": "45/pc",
+                "Paint brush #2":"45/pc",
                 "Paint thinner": "295/gal",
                 "Sand paper 120": "20/pc",
                 "Paint brush 4": "110/pc",
@@ -14249,7 +14798,7 @@
                 "Concrete neutralizer": "300/gal",
                 "Putty Knife": "45/pc",
                 "Roller paint 9 w tray": "140/pc",
-                "Paint brush 2": "45/pc",
+                "Paint brush #2":"45/pc",
                 "Paint thinner": "295/gal",
                 "Sand paper 120": "20/pc",
                 "Paint brush 4": "110/pc",
@@ -14327,7 +14876,7 @@
                 "Concrete neutralizer": "300/gal",
                 "Putty Knife": "45/pc",
                 "Roller paint 9 w tray": "140/pc",
-                "Paint brush 2": "45/pc",
+                "Paint brush #2":"45/pc",
                 "Paint thinner": "295/gal",
                 "Sand paper 120": "20/pc",
                 "Paint brush 4": "110/pc",
@@ -14405,7 +14954,7 @@
                 "Concrete neutralizer": "300/gal",
                 "Putty Knife": "45/pc",
                 "Roller paint 9 w tray": "140/pc",
-                "Paint brush 2": "45/pc",
+                "Paint brush #2":"45/pc",
                 "Paint thinner": "295/gal",
                 "Sand paper 120": "20/pc",
                 "Paint brush 4": "110/pc",
@@ -14483,7 +15032,7 @@
                 "Concrete neutralizer": "300/gal",
                 "Putty Knife": "45/pc",
                 "Roller paint 9 w tray": "140/pc",
-                "Paint brush 2": "45/pc",
+                "Paint brush #2":"45/pc",
                 "Paint thinner": "295/gal",
                 "Sand paper 120": "20/pc",
                 "Paint brush 4": "110/pc",
@@ -14561,7 +15110,7 @@
                 "Concrete neutralizer": "300/gal",
                 "Putty Knife": "45/pc",
                 "Roller paint 9 w tray": "140/pc",
-                "Paint brush 2": "45/pc",
+                "Paint brush #2":"45/pc",
                 "Paint thinner": "295/gal",
                 "Sand paper 120": "20/pc",
                 "Paint brush 4": "110/pc",
@@ -14639,7 +15188,7 @@
                 "Concrete neutralizer": "300/gal",
                 "Putty Knife": "45/pc",
                 "Roller paint 9 w tray": "140/pc",
-                "Paint brush 2": "45/pc",
+                "Paint brush #2":"45/pc",
                 "Paint thinner": "295/gal",
                 "Sand paper 120": "20/pc",
                 "Paint brush 4": "110/pc",
@@ -14717,7 +15266,7 @@
                 "Concrete neutralizer": "300/gal",
                 "Putty Knife": "45/pc",
                 "Roller paint 9 w tray": "140/pc",
-                "Paint brush 2": "45/pc",
+                "Paint brush #2":"45/pc",
                 "Paint thinner": "295/gal",
                 "Sand paper 120": "20/pc",
                 "Paint brush 4": "110/pc",
@@ -14795,7 +15344,7 @@
                 "Concrete neutralizer": "300/gal",
                 "Putty Knife": "45/pc",
                 "Roller paint 9 w tray": "140/pc",
-                "Paint brush 2": "45/pc",
+                "Paint brush #2":"45/pc",
                 "Paint thinner": "295/gal",
                 "Sand paper 120": "20/pc",
                 "Paint brush 4": "110/pc",
@@ -14873,7 +15422,7 @@
                 "Concrete neutralizer": "300/gal",
                 "Putty Knife": "45/pc",
                 "Roller paint 9 w tray": "140/pc",
-                "Paint brush 2": "45/pc",
+                "Paint brush #2":"45/pc",
                 "Paint thinner": "295/gal",
                 "Sand paper 120": "20/pc",
                 "Paint brush 4": "110/pc",
@@ -14951,7 +15500,7 @@
                 "Concrete neutralizer": "300/gal",
                 "Putty Knife": "45/pc",
                 "Roller paint 9 w tray": "140/pc",
-                "Paint brush 2": "45/pc",
+                "Paint brush #2":"45/pc",
                 "Paint thinner": "295/gal",
                 "Sand paper 120": "20/pc",
                 "Paint brush 4": "110/pc",
@@ -15029,7 +15578,7 @@
                 "Concrete neutralizer": "300/gal",
                 "Putty Knife": "45/pc",
                 "Roller paint 9 w tray": "140/pc",
-                "Paint brush 2": "45/pc",
+                "Paint brush #2":"45/pc",
                 "Paint thinner": "295/gal",
                 "Sand paper 120": "20/pc",
                 "Paint brush 4": "110/pc",
@@ -15107,7 +15656,7 @@
                 "Concrete neutralizer": "300/gal",
                 "Putty Knife": "45/pc",
                 "Roller paint 9 w tray": "140/pc",
-                "Paint brush 2": "45/pc",
+                "Paint brush #2":"45/pc",
                 "Paint thinner": "295/gal",
                 "Sand paper 120": "20/pc",
                 "Paint brush 4": "110/pc",
@@ -15185,7 +15734,7 @@
                 "Concrete neutralizer": "300/gal",
                 "Putty Knife": "45/pc",
                 "Roller paint 9 w tray": "140/pc",
-                "Paint brush 2": "45/pc",
+                "Paint brush #2":"45/pc",
                 "Paint thinner": "295/gal",
                 "Sand paper 120": "20/pc",
                 "Paint brush 4": "110/pc",
@@ -15263,7 +15812,7 @@
                 "Concrete neutralizer": "300/gal",
                 "Putty Knife": "45/pc",
                 "Roller paint 9 w tray": "140/pc",
-                "Paint brush 2": "45/pc",
+                "Paint brush #2":"45/pc",
                 "Paint thinner": "295/gal",
                 "Sand paper 120": "20/pc",
                 "Paint brush 4": "110/pc",
@@ -15341,7 +15890,7 @@
                 "Concrete neutralizer": "300/gal",
                 "Putty Knife": "45/pc",
                 "Roller paint 9 w tray": "140/pc",
-                "Paint brush 2": "45/pc",
+                "Paint brush #2":"45/pc",
                 "Paint thinner": "295/gal",
                 "Sand paper 120": "20/pc",
                 "Paint brush 4": "110/pc",
@@ -15419,7 +15968,7 @@
                 "Concrete neutralizer": "300/gal",
                 "Putty Knife": "45/pc",
                 "Roller paint 9 w tray": "140/pc",
-                "Paint brush 2": "45/pc",
+                "Paint brush #2":"45/pc",
                 "Paint thinner": "295/gal",
                 "Sand paper 120": "20/pc",
                 "Paint brush 4": "110/pc",
@@ -15497,7 +16046,7 @@
                 "Concrete neutralizer": "300/gal",
                 "Putty Knife": "45/pc",
                 "Roller paint 9 w tray": "140/pc",
-                "Paint brush 2": "45/pc",
+                "Paint brush #2":"45/pc",
                 "Paint thinner": "295/gal",
                 "Sand paper 120": "20/pc",
                 "Paint brush 4": "110/pc",
@@ -15575,7 +16124,7 @@
                 "Concrete neutralizer": "300/gal",
                 "Putty Knife": "45/pc",
                 "Roller paint 9 w tray": "140/pc",
-                "Paint brush 2": "45/pc",
+                "Paint brush #2":"45/pc",
                 "Paint thinner": "295/gal",
                 "Sand paper 120": "20/pc",
                 "Paint brush 4": "110/pc",
@@ -15653,7 +16202,7 @@
                 "Concrete neutralizer": "300/gal",
                 "Putty Knife": "45/pc",
                 "Roller paint 9 w tray": "140/pc",
-                "Paint brush 2": "45/pc",
+                "Paint brush #2":"45/pc",
                 "Paint thinner": "295/gal",
                 "Sand paper 120": "20/pc",
                 "Paint brush 4": "110/pc",
@@ -15731,7 +16280,7 @@
                 "Concrete neutralizer": "300/gal",
                 "Putty Knife": "45/pc",
                 "Roller paint 9 w tray": "140/pc",
-                "Paint brush 2": "45/pc",
+                "Paint brush #2":"45/pc",
                 "Paint thinner": "295/gal",
                 "Sand paper 120": "20/pc",
                 "Paint brush 4": "110/pc",
@@ -15809,7 +16358,7 @@
                 "Concrete neutralizer": "300/gal",
                 "Putty Knife": "45/pc",
                 "Roller paint 9 w tray": "140/pc",
-                "Paint brush 2": "45/pc",
+                "Paint brush #2":"45/pc",
                 "Paint thinner": "295/gal",
                 "Sand paper 120": "20/pc",
                 "Paint brush 4": "110/pc",
@@ -15888,7 +16437,7 @@
                 "Concrete neutralizer": "300/gal",
                 "Putty Knife": "45/pc",
                 "Roller paint 9 w tray": "140/pc",
-                "Paint brush 2": "45/pc",
+                "Paint brush #2":"45/pc",
                 "Paint thinner": "295/gal",
                 "Sand paper 120": "20/pc",
                 "Paint brush 4": "110/pc",
@@ -15966,7 +16515,7 @@
                 "Concrete neutralizer": "300/gal",
                 "Putty Knife": "45/pc",
                 "Roller paint 9 w tray": "140/pc",
-                "Paint brush 2": "45/pc",
+                "Paint brush #2":"45/pc",
                 "Paint thinner": "295/gal",
                 "Sand paper 120": "20/pc",
                 "Paint brush 4": "110/pc",
@@ -16044,7 +16593,7 @@
                 "Concrete neutralizer": "300/gal",
                 "Putty Knife": "45/pc",
                 "Roller paint 9 w tray": "140/pc",
-                "Paint brush 2": "45/pc",
+                "Paint brush #2":"45/pc",
                 "Paint thinner": "295/gal",
                 "Sand paper 120": "20/pc",
                 "Paint brush 4": "110/pc",
@@ -16122,7 +16671,7 @@
                 "Concrete neutralizer": "300/gal",
                 "Putty Knife": "45/pc",
                 "Roller paint 9 w tray": "140/pc",
-                "Paint brush 2": "45/pc",
+                "Paint brush #2":"45/pc",
                 "Paint thinner": "295/gal",
                 "Sand paper 120": "20/pc",
                 "Paint brush 4": "110/pc",
@@ -16200,7 +16749,7 @@
                 "Concrete neutralizer": "300/gal",
                 "Putty Knife": "45/pc",
                 "Roller paint 9 w tray": "140/pc",
-                "Paint brush 2": "45/pc",
+                "Paint brush #2":"45/pc",
                 "Paint thinner": "295/gal",
                 "Sand paper 120": "20/pc",
                 "Paint brush 4": "110/pc",
@@ -16278,7 +16827,7 @@
                 "Concrete neutralizer": "300/gal",
                 "Putty Knife": "45/pc",
                 "Roller paint 9 w tray": "140/pc",
-                "Paint brush 2": "45/pc",
+                "Paint brush #2":"45/pc",
                 "Paint thinner": "295/gal",
                 "Sand paper 120": "20/pc",
                 "Paint brush 4": "110/pc",
@@ -16357,7 +16906,7 @@
                 "Concrete neutralizer": "300/gal",
                 "Putty Knife": "45/pc",
                 "Roller paint 9 w tray": "140/pc",
-                "Paint brush 2": "45/pc",
+                "Paint brush #2":"45/pc",
                 "Paint thinner": "295/gal",
                 "Sand paper 120": "20/pc",
                 "Paint brush 4": "110/pc",
@@ -16435,7 +16984,7 @@
                 "Concrete neutralizer": "300/gal",
                 "Putty Knife": "45/pc",
                 "Roller paint 9 w tray": "140/pc",
-                "Paint brush 2": "45/pc",
+                "Paint brush #2":"45/pc",
                 "Paint thinner": "295/gal",
                 "Sand paper 120": "20/pc",
                 "Paint brush 4": "110/pc",
@@ -16513,7 +17062,7 @@
                 "Concrete neutralizer": "300/gal",
                 "Putty Knife": "45/pc",
                 "Roller paint 9 w tray": "140/pc",
-                "Paint brush 2": "45/pc",
+                "Paint brush #2":"45/pc",
                 "Paint thinner": "295/gal",
                 "Sand paper 120": "20/pc",
                 "Paint brush 4": "110/pc",
@@ -16591,7 +17140,7 @@
                 "Concrete neutralizer": "300/gal",
                 "Putty Knife": "45/pc",
                 "Roller paint 9 w tray": "140/pc",
-                "Paint brush 2": "45/pc",
+                "Paint brush #2":"45/pc",
                 "Paint thinner": "295/gal",
                 "Sand paper 120": "20/pc",
                 "Paint brush 4": "110/pc",
@@ -16669,7 +17218,7 @@
                 "Concrete neutralizer": "300/gal",
                 "Putty Knife": "45/pc",
                 "Roller paint 9 w tray": "140/pc",
-                "Paint brush 2": "45/pc",
+                "Paint brush #2":"45/pc",
                 "Paint thinner": "295/gal",
                 "Sand paper 120": "20/pc",
                 "Paint brush 4": "110/pc",
@@ -16747,7 +17296,7 @@
                 "Concrete neutralizer": "300/gal",
                 "Putty Knife": "45/pc",
                 "Roller paint 9 w tray": "140/pc",
-                "Paint brush 2": "45/pc",
+                "Paint brush #2":"45/pc",
                 "Paint thinner": "295/gal",
                 "Sand paper 120": "20/pc",
                 "Paint brush 4": "110/pc",
@@ -16825,7 +17374,7 @@
                 "Concrete neutralizer": "300/gal",
                 "Putty Knife": "45/pc",
                 "Roller paint 9 w tray": "140/pc",
-                "Paint brush 2": "45/pc",
+                "Paint brush #2":"45/pc",
                 "Paint thinner": "295/gal",
                 "Sand paper 120": "20/pc",
                 "Paint brush 4": "110/pc",
@@ -16833,4 +17382,6 @@
             }
         }
     }
+    
+    
 }
