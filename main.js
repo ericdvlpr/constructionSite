@@ -8,7 +8,7 @@ var json = (function() {
     $.ajax({
         'async': false,
         'global': false,
-        'url': "/constructionSite/stores.json",
+        'url': "/stores.json",
         'dataType': "json",
         'success': function (data) {
             json = data;
